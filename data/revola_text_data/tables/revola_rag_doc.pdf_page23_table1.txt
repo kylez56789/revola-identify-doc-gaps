@@ -1,0 +1,4 @@
+Tier | Ideal For | Monthly Price(Starting) | Key Features
+Starter | Early-stage GTMteams | $1,000 | - 1 Reva flow- English only- Basic reporting- Up to 200 outbound interactions (15 mins)- Up to 50 Accounts per month
+Growth | Mid-market teamsscaling ABM | $4,000 | - All 3 Reva flows- ABM module- CRM integration- Up to 1,000 outbound interactions- Up to 200 outreaches/month
+Enterprise | Large ormulti-region orgs | Custom($6,000+) | - Unlimited flows, Custom flows- Multilingual support- Dedicated success manager- Custom (1,000–5,000+/mo)

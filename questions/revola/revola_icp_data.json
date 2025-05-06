@@ -1,0 +1,186 @@
+{
+  "seller_url": "https://www.revola.ai/",
+  "business_summary": "Here is the updated para on Revola: Revola is an AI-powered engagement platform that transforms static outreach into live, interactive conversations. Instead of relying on passive “Book a demo” buttons or waiting for responses to cold emails, Revola enables prospects to instantly “Meet Now” with a voice-based AI agent—Reva—who guides the conversation in real time, supported by dynamic visuals tailored to the prospect's role and needs. Reva doesn't just talk—it listens, adapts, and personalizes each interaction based on pre-analyzed context and account insights. This makes every conversation relevant, engaging, and high-converting from the first touchpoint. Revola also runs intelligent outbound campaigns that don't require expanding your team. It analyzes target accounts, identifies key decision-makers, and delivers tailored outreach as part of a scalable Account-Based Marketing (ABM) strategy. The result: smarter conversations, faster engagement, and a parallel pipeline of qualified leads—all powered by AI.",
+  "icp_data": {
+    "icp_summary_table": {
+      "icp_table_1": [
+        {
+          "icp_name": "E-commerce SaaS - Startups",
+          "industry": "E-commerce",
+          "pain_points": [
+            "Limited resources for personalized marketing",
+            "Difficulty in identifying high-value customers",
+            "Manual outreach processes are time-consuming"
+          ],
+          "decision_makers": [
+            "Founder",
+            "Head of Marketing"
+          ],
+          "users": [
+            "Sales Representatives",
+            "Marketing Managers"
+          ],
+          "revenue_potential": "High"
+        },
+        {
+          "icp_name": "Healthcare SaaS - SMB",
+          "industry": "Healthcare",
+          "pain_points": [
+            "Compliance and data security concerns",
+            "Need for scalable customer engagement",
+            "Inefficient sales processes"
+          ],
+          "decision_makers": [
+            "Head of Sales",
+            "Marketing Director"
+          ],
+          "users": [
+            "Sales Teams",
+            "Customer Success Managers"
+          ],
+          "revenue_potential": "Medium"
+        },
+        {
+          "icp_name": "Fintech SaaS - Mid Market",
+          "industry": "Fintech",
+          "pain_points": [
+            "Complex sales cycles",
+            "Difficulty in personalizing client interactions",
+            "Need for automation to handle large client base"
+          ],
+          "decision_makers": [
+            "Sales Director",
+            "Marketing Manager"
+          ],
+          "users": [
+            "Account Executives",
+            "Sales Operations"
+          ],
+          "revenue_potential": "High"
+        },
+        {
+          "icp_name": "Education SaaS - Enterprise",
+          "industry": "Education",
+          "pain_points": [
+            "Managing large-scale deployments",
+            "Personalizing outreach to diverse institutions",
+            "Optimizing sales strategies across multiple regions"
+          ],
+          "decision_makers": [
+            "VP of Sales",
+            "Director of Marketing"
+          ],
+          "users": [
+            "Sales Teams",
+            "Regional Managers"
+          ],
+          "revenue_potential": "Medium"
+        },
+        {
+          "icp_name": "Marketing SaaS - Large Enterprises",
+          "industry": "Marketing",
+          "pain_points": [
+            "Coordinating sales efforts across global teams",
+            "Leveraging data for personalized marketing at scale",
+            "Automating repetitive sales tasks"
+          ],
+          "decision_makers": [
+            "Senior Sales Manager",
+            "Marketing Operations Lead"
+          ],
+          "users": [
+            "Global Sales Teams",
+            "Marketing Analysts"
+          ],
+          "revenue_potential": "High"
+        }
+      ],
+      "icp_table_2": [
+        {
+          "company_size": "Startups",
+          "decision_makers": [
+            "Founder",
+            "Head of Marketing"
+          ],
+          "users": [
+            "Sales Representatives",
+            "Marketing Managers"
+          ]
+        },
+        {
+          "company_size": "SMB",
+          "decision_makers": [
+            "Head of Sales",
+            "Marketing Director"
+          ],
+          "users": [
+            "Sales Teams",
+            "Customer Success Managers"
+          ]
+        },
+        {
+          "company_size": "Mid Market",
+          "decision_makers": [
+            "Sales Director",
+            "Marketing Manager"
+          ],
+          "users": [
+            "Account Executives",
+            "Sales Operations"
+          ]
+        },
+        {
+          "company_size": "Enterprise",
+          "decision_makers": [
+            "VP of Sales",
+            "Director of Marketing"
+          ],
+          "users": [
+            "Sales Teams",
+            "Regional Managers"
+          ]
+        },
+        {
+          "company_size": "Large Enterprises",
+          "decision_makers": [
+            "Senior Sales Manager",
+            "Marketing Operations Lead"
+          ],
+          "users": [
+            "Global Sales Teams",
+            "Marketing Analysts"
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "product_list": "Reva (Revola's AI Agent)",
+      "use_cases": "Instant Sales Engagement: Traditional “Book a demo” CTAs often create friction and lead to missed opportunities. Revola replaces this with a seamless “Meet now” experience, allowing prospects to instantly engage with a voice-based AI agent (Reva) that guides them through a personalized conversation, supported by visuals. This removes delays and increases the chances of converting interest into action in real time.; Intelligent and Personalized ABM Outreach: Outbound efforts often fall flat when they lack personalization and insight into the target account. Revola analyzes company data, intent signals, and stakeholder roles to craft tailored messages. Reva engages each prospect with a personalized pitch, adapting in real time based on their profile and business context, resulting in higher response rates and stronger ABM performance.; Scalable Lead Qualification: Sales teams can get bogged down spending too much time qualifying leads manually. Reva handles the first interaction with leads, asking smart qualifying questions, capturing intent, and only routing high-value prospects to sales. This builds a scalable qualification layer without needing to expand headcount.; Event and Webinar Follow-up: Event-generated leads often lose momentum before sales can reach them. With Revola, follow-up begins immediately through a conversational AI agent, Reva, that re-engages attendees, answers common questions, and offers instant meeting booking. This keeps interest warm and helps convert leads into pipeline more effectively.; Product Education and Onboarding: Static content often fails to clearly communicate product value. Revola's voice agent Reva walks users through product features in an engaging, interactive way using visuals like dashboards, charts, and demos. This helps users quickly understand key benefits and leads to stronger onboarding and retention outcomes.",
+      "generated_at": "2025-04-17T12:19:12.239744"
+    }
+  },
+  "logo_url": "https://logo.clearbit.com/www.revola.ai",
+  "company_url": "https://www.revola.ai/",
+  "case_studies_and_objections": {
+    "case_studies": [
+      {
+        "case_study": "Revola AI automates prospect research, saving hours for SaaS sales teams.",
+        "link": "https://www.revola.ai"
+      }
+    ],
+    "objections": [
+      {
+        "concern": "Will Revola AI actually save my sales team time?",
+        "answer": "Yes. Revola AI automates in-depth prospect research and outreach, allowing sales teams to focus on closing deals rather than manual research, as highlighted in their customer research and smart targeting features[1]."
+      },
+      {
+        "concern": "Can Revola AI help us find better-fit customers?",
+        "answer": "Revola AI continuously optimizes your ideal customer profile (ICP) and identifies high-intent companies, ensuring your outreach targets prospects most likely to convert[1]."
+      },
+      {
+        "concern": "Is the AI Demo Agent effective for product-led growth?",
+        "answer": "The Demo Agent adapts to customer needs in real-time, delivers personalized demos, and answers questions, helping SaaS companies scale product-led sales without increasing headcount[1]."
+      }
+    ]
+  }
+}
