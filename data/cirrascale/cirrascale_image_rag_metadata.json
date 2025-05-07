@@ -1,0 +1,324 @@
+[
+    {
+        "chunk_id": "3074472b-05e9-4179-a535-70d1a58bb2a4",
+        "text": "AI Innovation Cloud offers a unified platform for testing, training, and deploying AI workloads on high-performance accelerators, simplifying processes without juggling multiple providers.;The image features a dark background with text in light green font. At the top, there's a cloud icon with a microchip symbol inside it. Below, the following phrases are listed vertically: \"High-performance platform,\" \"Built for AI workloads,\" \"Test. Train. Deploy,\" \"All leading accelerators,\" and \"Unified cloud.\"",
+        "metadata": {
+            "chunk_id": "3074472b-05e9-4179-a535-70d1a58bb2a4",
+            "image_filename_id": "Product Feature - Innovation Cloud.png",
+            "image_content_hash": "1dc0854a9f687b87d749db3d630fb4d23aefbc678a59fcfdd1a5e7dacf328247",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Feature - Innovation Cloud.png",
+            "caption_text": "AI Innovation Cloud offers a unified platform for testing, training, and deploying AI workloads on high-performance accelerators, simplifying processes without juggling multiple providers.",
+            "visual_summary_text": "The image features a dark background with text in light green font. At the top, there's a cloud icon with a microchip symbol inside it. Below, the following phrases are listed vertically: \"High-performance platform,\" \"Built for AI workloads,\" \"Test. Train. Deploy,\" \"All leading accelerators,\" and \"Unified cloud.\""
+        }
+    },
+    {
+        "chunk_id": "24f9633d-8124-489e-a3ac-a11616936554",
+        "text": "GPTs are AI hardware options provided by Cirrascale including NVIDIA A100 and H100 GPUs, AMD Instinct accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra.;The image features a dark background with two sections. The top section shows an icon of a GPU followed by the text \"GPUs\" with bullet points listing \"NVIDIA A100,\" \"NVIDIA H100,\" and \"AMD Instinct.\" Below, there is a rocket icon next to the word \"Accelerators,\" listing \"Cerebras CS-2 clusters\" and \"Qualcomm Cloud AI 100 Ultra.\"",
+        "metadata": {
+            "chunk_id": "24f9633d-8124-489e-a3ac-a11616936554",
+            "image_filename_id": "Product Feature - Hardware.png",
+            "image_content_hash": "c0fdf91d9599b108d641805b0c5c7446552326e4020898328fab0ef8f93c1b23",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Feature - Hardware.png",
+            "caption_text": "GPTs are AI hardware options provided by Cirrascale including NVIDIA A100 and H100 GPUs, AMD Instinct accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra.",
+            "visual_summary_text": "The image features a dark background with two sections. The top section shows an icon of a GPU followed by the text \"GPUs\" with bullet points listing \"NVIDIA A100,\" \"NVIDIA H100,\" and \"AMD Instinct.\" Below, there is a rocket icon next to the word \"Accelerators,\" listing \"Cerebras CS-2 clusters\" and \"Qualcomm Cloud AI 100 Ultra.\""
+        }
+    },
+    {
+        "chunk_id": "410228f2-38b9-41bb-abe3-40a445ffc139",
+        "text": "Cirrascale offers dedicated performance with no virtualization, unlike AWS or Azure, providing speed and reliability for AI teams.;The image features a dark background with a white server icon at the top. Below the icon are bold teal words \"Bare-Metal Infrastructure\" and two bullet points with checkmarks next to \"No Virtualization\" and \"No Noisy Neighbors.\" At the bottom, it says \"Dedicated AI Performance\" in teal.",
+        "metadata": {
+            "chunk_id": "410228f2-38b9-41bb-abe3-40a445ffc139",
+            "image_filename_id": "Product Differentiator.png",
+            "image_content_hash": "fcfb7feb09a7d32a9ed235716e19864cba9def2a4202d872220da5af3a096b76",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Differentiator.png",
+            "caption_text": "Cirrascale offers dedicated performance with no virtualization, unlike AWS or Azure, providing speed and reliability for AI teams.",
+            "visual_summary_text": "The image features a dark background with a white server icon at the top. Below the icon are bold teal words \"Bare-Metal Infrastructure\" and two bullet points with checkmarks next to \"No Virtualization\" and \"No Noisy Neighbors.\" At the bottom, it says \"Dedicated AI Performance\" in teal."
+        }
+    },
+    {
+        "chunk_id": "f7bf092d-33e5-439b-bb86-0e9aeed911c8",
+        "text": "You can get started quickly with professional support and a customized environment; The image features a white calendar icon with a clock overlay on a dark teal background. Below the icon are the words \"Onboarding in days\", \"Tailored Environment\", and \"Engineering Support\" in light teal text.",
+        "metadata": {
+            "chunk_id": "f7bf092d-33e5-439b-bb86-0e9aeed911c8",
+            "image_filename_id": "Onboarding.png",
+            "image_content_hash": "e1b01dec030c2a1a8572a79edbd7b25a1a2ea525502cfbd8889371048a3be20d",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Onboarding.png",
+            "caption_text": "You can get started quickly with professional support and a customized environment",
+            "visual_summary_text": "The image features a white calendar icon with a clock overlay on a dark teal background. Below the icon are the words \"Onboarding in days\", \"Tailored Environment\", and \"Engineering Support\" in light teal text."
+        }
+    },
+    {
+        "chunk_id": "d28c10b6-6dec-4481-8ff2-f3c320053674",
+        "text": "Cirrascale offers predictable, flat-rate pricing with no hidden fees for its AI infrastructure services.;The image features a light blue icon of a document with a dollar sign on a dark background, followed by four lines of bold, light blue text stating: \"Flat-Rate Billing,\" \"No Ingress/Egress Fees,\" \"Flexible Scaling,\" and \"Fast Tiered Storage.\"",
+        "metadata": {
+            "chunk_id": "d28c10b6-6dec-4481-8ff2-f3c320053674",
+            "image_filename_id": "Pricing.png",
+            "image_content_hash": "714f5fc1a274db19fca84d23fdf09aa014e7ba54021c59deb26ab07bbf8d6b94",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Pricing.png",
+            "caption_text": "Cirrascale offers predictable, flat-rate pricing with no hidden fees for its AI infrastructure services.",
+            "visual_summary_text": "The image features a light blue icon of a document with a dollar sign on a dark background, followed by four lines of bold, light blue text stating: \"Flat-Rate Billing,\" \"No Ingress/Egress Fees,\" \"Flexible Scaling,\" and \"Fast Tiered Storage.\""
+        }
+    },
+    {
+        "chunk_id": "0d64fac7-b43d-4def-a417-5f5890afa206",
+        "text": "Cirrascale provides fully managed services with no need for DevOps, letting clients focus on AI models while ensuring maximum uptime; The image features a dark background with a white cloud icon containing two server symbols. Below, three lines of text in light turquoise read \"We manage everything,\" \"Zero DevOps work,\" and \"Maximize uptime.\"",
+        "metadata": {
+            "chunk_id": "0d64fac7-b43d-4def-a417-5f5890afa206",
+            "image_filename_id": "Infrastructure.png",
+            "image_content_hash": "6fa2202ec4d50d07fb1c3095beb410bf0b233a6bf134ad2cc00dbc90c10e7f26",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Infrastructure.png",
+            "caption_text": "Cirrascale provides fully managed services with no need for DevOps, letting clients focus on AI models while ensuring maximum uptime",
+            "visual_summary_text": "The image features a dark background with a white cloud icon containing two server symbols. Below, three lines of text in light turquoise read \"We manage everything,\" \"Zero DevOps work,\" and \"Maximize uptime.\""
+        }
+    },
+    {
+        "chunk_id": "78d823bf-bcb0-42b6-8335-411fba98af56",
+        "text": "\"Scale easily: Ramp resources up or down, quickly adapt to needs.\" ; The image features a dark background with a turquoise-colored upward arrow next to three ascending bars. The text \"Scale easily\" is prominently displayed in white above the phrase \"Ramp resources up or down\" and \"Quickly adapt to needs\" beneath it, all aligned to the center.",
+        "metadata": {
+            "chunk_id": "78d823bf-bcb0-42b6-8335-411fba98af56",
+            "image_filename_id": "Scalability.png",
+            "image_content_hash": "f3b791a57794d8dc4eba1f1b35674ab6a5266240a901df096a53af7af1a13f04",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Scalability.png",
+            "caption_text": "\"Scale easily: Ramp resources up or down, quickly adapt to needs.\"",
+            "visual_summary_text": "The image features a dark background with a turquoise-colored upward arrow next to three ascending bars. The text \"Scale easily\" is prominently displayed in white above the phrase \"Ramp resources up or down\" and \"Quickly adapt to needs\" beneath it, all aligned to the center."
+        }
+    },
+    {
+        "chunk_id": "0b925221-f930-40d3-883f-a441372f72db",
+        "text": "OpenAI and AI2 are utilizing Cirrascale's infrastructure for AI innovation; The image contains a dark background with the text \"Trusted by pioneers\" at the top. Below, the OpenAI logo is on the left and the AI2 logo with \"Allen Institute for AI\" is below on the right. The phrase \"Pushing the boundaries of AI with Cirrascale\" is centered at the bottom.",
+        "metadata": {
+            "chunk_id": "0b925221-f930-40d3-883f-a441372f72db",
+            "image_filename_id": "Existing Customers.png",
+            "image_content_hash": "12badf30e8b0bb228b76c68805ebc56ffaa4b94253b2dad5e8deb833a240493a",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Existing Customers.png",
+            "caption_text": "OpenAI and AI2 are utilizing Cirrascale's infrastructure for AI innovation",
+            "visual_summary_text": "The image contains a dark background with the text \"Trusted by pioneers\" at the top. Below, the OpenAI logo is on the left and the AI2 logo with \"Allen Institute for AI\" is below on the right. The phrase \"Pushing the boundaries of AI with Cirrascale\" is centered at the bottom."
+        }
+    },
+    {
+        "chunk_id": "740abca6-d9d0-448e-9eda-5e1d258ea06a",
+        "text": "\"Secure and reliable cloud infrastructure like Cirrascale’s is designed for enterprise use, ensuring speed, security, and reliability.\"; \"The image features a dark background with white text that reads 'Secure & Reliable' at the top. Below, there's an icon of a shield with a checkmark, and text saying 'Enterprise-grade cloud you can trust.' The shield is on the left, and the text is aligned to the right.\"",
+        "metadata": {
+            "chunk_id": "740abca6-d9d0-448e-9eda-5e1d258ea06a",
+            "image_filename_id": "Reliability.png",
+            "image_content_hash": "9d40247c88b7758aec04e1a5359797cf76b0491a66a49f326c128a4b25709516",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Reliability.png",
+            "caption_text": "\"Secure and reliable cloud infrastructure like Cirrascale’s is designed for enterprise use, ensuring speed, security, and reliability.\"",
+            "visual_summary_text": "\"The image features a dark background with white text that reads 'Secure & Reliable' at the top. Below, there's an icon of a shield with a checkmark, and text saying 'Enterprise-grade cloud you can trust.' The shield is on the left, and the text is aligned to the right.\""
+        }
+    },
+    {
+        "chunk_id": "f129dfec-c14b-46d1-81e0-116440a15377",
+        "text": "Start a Pilot or Get a Quote by connecting with a team member who will guide you through the process.;A dark background features a speech bubble icon with a headset on the left, next to the text \"Start a Pilot or Get a Quote\" in white, with a smaller line below saying \"Let’s connect and discuss your project.\"",
+        "metadata": {
+            "chunk_id": "f129dfec-c14b-46d1-81e0-116440a15377",
+            "image_filename_id": "Product Pilot.png",
+            "image_content_hash": "ac6544df420d8866655fcbfb2498ddcf01b28b8f2f84e25a2eaa7c30a6a3200e",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Pilot.png",
+            "caption_text": "Start a Pilot or Get a Quote by connecting with a team member who will guide you through the process.",
+            "visual_summary_text": "A dark background features a speech bubble icon with a headset on the left, next to the text \"Start a Pilot or Get a Quote\" in white, with a smaller line below saying \"Let’s connect and discuss your project.\""
+        }
+    },
+    {
+        "chunk_id": "e1903108-4190-4f8f-ad74-2cc0c3a4777e",
+        "text": "Cirrascale's AMD Instinct™ Series Cloud offers high-performance accelerators with exceptional compute capabilities ideal for AI and HPC workloads.;The image displays \"AMD Instinct™ Series Cloud\" at the top, followed by three icons and descriptions: a speedometer labeled \"High performance,\" stacked servers labeled \"High memory density,\" a brain with a light bulb labeled \"Broad precision support,\" and below these, the words \"AMD ROCm software\" with a simple rectangular icon.",
+        "metadata": {
+            "chunk_id": "e1903108-4190-4f8f-ad74-2cc0c3a4777e",
+            "image_filename_id": "AMD Series Features.png",
+            "image_content_hash": "772563ab41acb3ca2feb98a78472eed82628d869850c4eda8c2d9ef9c99d38ae",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/AMD Series Features.png",
+            "caption_text": "Cirrascale's AMD Instinct™ Series Cloud offers high-performance accelerators with exceptional compute capabilities ideal for AI and HPC workloads.",
+            "visual_summary_text": "The image displays \"AMD Instinct™ Series Cloud\" at the top, followed by three icons and descriptions: a speedometer labeled \"High performance,\" stacked servers labeled \"High memory density,\" a brain with a light bulb labeled \"Broad precision support,\" and below these, the words \"AMD ROCm software\" with a simple rectangular icon."
+        }
+    },
+    {
+        "chunk_id": "913d64c7-6222-42d3-aeab-5220736f60c9",
+        "text": "Cirrascale's Cloud offers clear, fixed pricing for AMD Instinct™ Series with no hidden fees, providing options for monthly, 6 months, or annual payments.;The image displays a dark-themed price chart for Cirrascale, featuring a header with a dollar sign icon and the text \"Flat-Rate Pricing, No Hidden Fees\" followed by \"Consistent monthly and long-term options\". Below is a table with three columns labeled \"Monthly\", \"6 Months\", and \"Annually\", and two rows indicating pricing information for \"8x AMD Instinct MI300X\" and \"4x AMD Instinct MI250\".",
+        "metadata": {
+            "chunk_id": "913d64c7-6222-42d3-aeab-5220736f60c9",
+            "image_filename_id": "AMD Series Pricing.png",
+            "image_content_hash": "eaedddce6e49ae20270231755204b8a2850de8bedd3f733abfee6591b5d2c848",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/AMD Series Pricing.png",
+            "caption_text": "Cirrascale's Cloud offers clear, fixed pricing for AMD Instinct™ Series with no hidden fees, providing options for monthly, 6 months, or annual payments.",
+            "visual_summary_text": "The image displays a dark-themed price chart for Cirrascale, featuring a header with a dollar sign icon and the text \"Flat-Rate Pricing, No Hidden Fees\" followed by \"Consistent monthly and long-term options\". Below is a table with three columns labeled \"Monthly\", \"6 Months\", and \"Annually\", and two rows indicating pricing information for \"8x AMD Instinct MI300X\" and \"4x AMD Instinct MI250\"."
+        }
+    },
+    {
+        "chunk_id": "9f37ad00-02a2-4e5d-a90c-c84c11b56f2e",
+        "text": "Cerebras AI Model Studio provides efficient training for large language models with 8x faster speeds and dedicated clusters; The image has a dark background featuring three main elements: on the top, it says \"Cerebras AI Model Studio\" in large white font. Below, three icons with text are spread out: a server icon with \"Dedicated clusters\" below, a clock icon with \"8x Faster training\" to the right, and a terminal window icon with \"Simple SSH access\" under it.",
+        "metadata": {
+            "chunk_id": "9f37ad00-02a2-4e5d-a90c-c84c11b56f2e",
+            "image_filename_id": "Cerebras Cloud Features.png",
+            "image_content_hash": "5959a7188b5cad6ae0ec314d1ab2c313146fa9ee392d23acc490e82b5008c862",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Cerebras Cloud Features.png",
+            "caption_text": "Cerebras AI Model Studio provides efficient training for large language models with 8x faster speeds and dedicated clusters",
+            "visual_summary_text": "The image has a dark background featuring three main elements: on the top, it says \"Cerebras AI Model Studio\" in large white font. Below, three icons with text are spread out: a server icon with \"Dedicated clusters\" below, a clock icon with \"8x Faster training\" to the right, and a terminal window icon with \"Simple SSH access\" under it."
+        }
+    },
+    {
+        "chunk_id": "8def3495-a3d9-42e8-ba58-cee6788a1e98",
+        "text": "Cerebras AI Model Studio offers fixed pricing based on model size and token count, with rates for various models and custom pricing for larger models.;The image displays a pricing table for AI models with a flat model-based pricing scheme. It includes five rows with models like GPT3-XL, GPT-J, GPT-3, T-5, and GPT NeoX, listing their parameters and corresponding costs, against a dark background. A dollar symbol is depicted on the left with a note at the bottom about pricing for larger models like GPT-70B and GPT-175B.",
+        "metadata": {
+            "chunk_id": "8def3495-a3d9-42e8-ba58-cee6788a1e98",
+            "image_filename_id": "Cerebras Cloud Pricing.png",
+            "image_content_hash": "b0cbc94592bcbbeffede16b07e3b2abecab96b0b9461c0a5f1f5b97a666d2a7f",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Cerebras Cloud Pricing.png",
+            "caption_text": "Cerebras AI Model Studio offers fixed pricing based on model size and token count, with rates for various models and custom pricing for larger models.",
+            "visual_summary_text": "The image displays a pricing table for AI models with a flat model-based pricing scheme. It includes five rows with models like GPT3-XL, GPT-J, GPT-3, T-5, and GPT NeoX, listing their parameters and corresponding costs, against a dark background. A dollar symbol is depicted on the left with a note at the bottom about pricing for larger models like GPT-70B and GPT-175B."
+        }
+    },
+    {
+        "chunk_id": "59918982-0d27-4aa3-b544-c1a02197300d",
+        "text": "Cirrascale's NVIDIA GPU Cloud is powerful for AI and HPC applications, offering 900 GB/s bandwidth, CUDA readiness, pre-configured SDKs, and AI framework support.;The image showcases four key features of NVIDIA GPU Cloud on a dark background: \"900 GB/s Bandwidth\" represented by a node-link diagram, \"CUDA Ready\" with a microchip icon labeled \"CU,\" \"Pre-configured SDKs\" featuring a coding icon, and \"AI Frameworks\" with an AI symbol connected to a node.",
+        "metadata": {
+            "chunk_id": "59918982-0d27-4aa3-b544-c1a02197300d",
+            "image_filename_id": "NVIDIA GPU Cloud Features.png",
+            "image_content_hash": "8e150f7529e73cbe711f7de7e242bb03aa838825d2df00caec0b00a8c4da6e6e",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/NVIDIA GPU Cloud Features.png",
+            "caption_text": "Cirrascale's NVIDIA GPU Cloud is powerful for AI and HPC applications, offering 900 GB/s bandwidth, CUDA readiness, pre-configured SDKs, and AI framework support.",
+            "visual_summary_text": "The image showcases four key features of NVIDIA GPU Cloud on a dark background: \"900 GB/s Bandwidth\" represented by a node-link diagram, \"CUDA Ready\" with a microchip icon labeled \"CU,\" \"Pre-configured SDKs\" featuring a coding icon, and \"AI Frameworks\" with an AI symbol connected to a node."
+        }
+    },
+    {
+        "chunk_id": "509e08f8-31ed-42b8-b01e-78c2508597fa",
+        "text": "Cirrascale offers flat-rate pricing for NVIDIA GPUs, with options across monthly, 6-month, and annual terms, showcasing a consistent pricing model without hidden fees.;The image shows a pricing table for Cirrascale's NVIDIA GPUs under the heading \"Flat-Rate Pricing, No Hidden Fees\". It displays three rows for 8-GPU configurations (B200, H200, H100) and corresponding columns for \"Monthly\", \"6 Months\", and \"Annually\" with prices: $34,999/month for B200, $26,499/month for H200, and $24,999/month for H100. The table is set against a dark background with a dollar symbol to the left of the heading.",
+        "metadata": {
+            "chunk_id": "509e08f8-31ed-42b8-b01e-78c2508597fa",
+            "image_filename_id": "NVIDIA GPU Cloud Pricing.png",
+            "image_content_hash": "9ae675d016b4bcd1c286915b1163c3cc95f7d7a1fb6712d03be6bc49bb22ea3c",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/NVIDIA GPU Cloud Pricing.png",
+            "caption_text": "Cirrascale offers flat-rate pricing for NVIDIA GPUs, with options across monthly, 6-month, and annual terms, showcasing a consistent pricing model without hidden fees.",
+            "visual_summary_text": "The image shows a pricing table for Cirrascale's NVIDIA GPUs under the heading \"Flat-Rate Pricing, No Hidden Fees\". It displays three rows for 8-GPU configurations (B200, H200, H100) and corresponding columns for \"Monthly\", \"6 Months\", and \"Annually\" with prices: $34,999/month for B200, $26,499/month for H200, and $24,999/month for H100. The table is set against a dark background with a dollar symbol to the left of the heading."
+        }
+    },
+    {
+        "chunk_id": "d4abcc15-f61c-413f-8270-870f03bbcf6b",
+        "text": "Cirrascale's Qualcomm Cloud AI 100 platform enhances AI inference with up to 5x performance, power efficiency, and streamlined deployment, utilizing its Ultra technology for large-scale applications.;The image features the text \"Qualcomm Cloud AI 100\" at the top center. Below it, three icons are lined up: a bar graph with an upward arrow labeled \"5x performance,\" a battery icon with a lightning bolt labeled \"power efficient,\" and a server rack icon labeled \"streamlined deployment.\" Each icon is drawn in white against a dark background.",
+        "metadata": {
+            "chunk_id": "d4abcc15-f61c-413f-8270-870f03bbcf6b",
+            "image_filename_id": "Qualcomm AI Cloud Features.png",
+            "image_content_hash": "20112d1c7c75ec48a7b896f034908e5f78e9fc3856ad6ead4d40adc0e8e2df8a",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Qualcomm AI Cloud Features.png",
+            "caption_text": "Cirrascale's Qualcomm Cloud AI 100 platform enhances AI inference with up to 5x performance, power efficiency, and streamlined deployment, utilizing its Ultra technology for large-scale applications.",
+            "visual_summary_text": "The image features the text \"Qualcomm Cloud AI 100\" at the top center. Below it, three icons are lined up: a bar graph with an upward arrow labeled \"5x performance,\" a battery icon with a lightning bolt labeled \"power efficient,\" and a server rack icon labeled \"streamlined deployment.\" Each icon is drawn in white against a dark background."
+        }
+    },
+    {
+        "chunk_id": "e7f4594a-d92e-429d-adb3-1e29c1d93a50",
+        "text": "Cirrascale offers flexible configurations with transparent pricing for their Qualcomm Cloud AI 100 platform.;The image displays a pricing table for Cirrascale's AI configurations, labeled under \"Flat-Rate Pricing, No Hidden Fees.\" It lists configurations such as \"8x AI 100 Ultra,\" \"Octo AI 100 Pro,\" and others, each with monthly and annual costs. A dollar symbol appears to the left of the title, and costs range from $4,699/month for \"8x AI 100 Ultra\" to $369/month for \"Single AI 100 Pro (64GB).\"",
+        "metadata": {
+            "chunk_id": "e7f4594a-d92e-429d-adb3-1e29c1d93a50",
+            "image_filename_id": "Qualcomm AI Cloud Pricing.png",
+            "image_content_hash": "6b78f0f95ac7a4742e4780796233ba943ddf116e15dddee90ed633c45e825b1b",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Qualcomm AI Cloud Pricing.png",
+            "caption_text": "Cirrascale offers flexible configurations with transparent pricing for their Qualcomm Cloud AI 100 platform.",
+            "visual_summary_text": "The image displays a pricing table for Cirrascale's AI configurations, labeled under \"Flat-Rate Pricing, No Hidden Fees.\" It lists configurations such as \"8x AI 100 Ultra,\" \"Octo AI 100 Pro,\" and others, each with monthly and annual costs. A dollar symbol appears to the left of the title, and costs range from $4,699/month for \"8x AI 100 Ultra\" to $369/month for \"Single AI 100 Pro (64GB).\""
+        }
+    },
+    {
+        "chunk_id": "5bc1708d-0737-4118-a15c-19d39d32ac0a",
+        "text": "Cirrascale offers scalable AI training focusing on large models, natural language, and scalable expertise; The image shows three icons with text: a smiling face labeled \"Large models,\" a speech bubble labeled \"Natural language,\" and a bar graph with an upward arrow labeled \"Scalable expertise,\" all under the heading \"AI training.\"",
+        "metadata": {
+            "chunk_id": "5bc1708d-0737-4118-a15c-19d39d32ac0a",
+            "image_filename_id": "Training Features.png",
+            "image_content_hash": "4da7dd9806a35e6c494aaf1a5fa31819746c260e6772c9a2bcc44f7320e4cda2",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Training Features.png",
+            "caption_text": "Cirrascale offers scalable AI training focusing on large models, natural language, and scalable expertise",
+            "visual_summary_text": "The image shows three icons with text: a smiling face labeled \"Large models,\" a speech bubble labeled \"Natural language,\" and a bar graph with an upward arrow labeled \"Scalable expertise,\" all under the heading \"AI training.\""
+        }
+    },
+    {
+        "chunk_id": "7af26dec-14cb-4114-a8f3-c0a7848bbf49",
+        "text": "Cirrascale provides fixed pricing for AI model training based on model complexity and size, with specific rates listed for models ranging from $2,500 to $525,000.;The image displays a table titled \"Fixed Pricing for AI Training\" with two columns: \"Model\" and \"Cost.\" The \"Model\" column lists five model types: GPT3-XL (1.3B parameters), GPT-J (6B parameters), GPT-3 6.7B, GPT-3 13B, and GPT NeoX (20B parameters). Corresponding costs in the \"Cost\" column are $2,500, $45,000, $40,000, $150,000, and $525,000. A footnote mentions pricing for larger models is available upon request.",
+        "metadata": {
+            "chunk_id": "7af26dec-14cb-4114-a8f3-c0a7848bbf49",
+            "image_filename_id": "Training Pricing.png",
+            "image_content_hash": "1667a0e5e99bed7419ada8f79b721bad8c8e8269b48fed2e74199915ef6605d5",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Training Pricing.png",
+            "caption_text": "Cirrascale provides fixed pricing for AI model training based on model complexity and size, with specific rates listed for models ranging from $2,500 to $525,000.",
+            "visual_summary_text": "The image displays a table titled \"Fixed Pricing for AI Training\" with two columns: \"Model\" and \"Cost.\" The \"Model\" column lists five model types: GPT3-XL (1.3B parameters), GPT-J (6B parameters), GPT-3 6.7B, GPT-3 13B, and GPT NeoX (20B parameters). Corresponding costs in the \"Cost\" column are $2,500, $45,000, $40,000, $150,000, and $525,000. A footnote mentions pricing for larger models is available upon request."
+        }
+    },
+    {
+        "chunk_id": "46ba36a6-acc5-4f30-aab1-df214272a3f8",
+        "text": "Cirrascale provides comprehensive support for fine-tuning AI models through client collaboration and optimizing models with reinforcement learning; The image features the title \"Fine-tuning support\" at the top. Below it are three lines of text accompanied by simple icons: a smiling face next to \"client collaboration,\" a brain next to \"optimize models,\" and a check mark next to \"reinforcement learning,\" all set against a dark background.",
+        "metadata": {
+            "chunk_id": "46ba36a6-acc5-4f30-aab1-df214272a3f8",
+            "image_filename_id": "Fine Tuning Features.png",
+            "image_content_hash": "43ed104393f6e22a36c39c648cb72c934d665e707117bab35ae95002c8483a6c",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Fine Tuning Features.png",
+            "caption_text": "Cirrascale provides comprehensive support for fine-tuning AI models through client collaboration and optimizing models with reinforcement learning",
+            "visual_summary_text": "The image features the title \"Fine-tuning support\" at the top. Below it are three lines of text accompanied by simple icons: a smiling face next to \"client collaboration,\" a brain next to \"optimize models,\" and a check mark next to \"reinforcement learning,\" all set against a dark background."
+        }
+    },
+    {
+        "chunk_id": "98f7f224-405d-4481-bd02-374cb52aa42f",
+        "text": "Cirrascale offers different pricing for fine-tuning models like Eleuther GPT-J and CodeGen, based on per-token and per-example rates.;The image displays a pricing table titled \"Fixed-Rate Pricing: Per-token and per-example rates\" on a dark background. It lists various models like Eleuther GPT-J, Eleuther GPT-NeoX, CodeGen 350M, CodeGen 2.7B, and CodeGen 16.1B, along with their pricing rates per 1K tokens and per example, structured in three columns under these headers.",
+        "metadata": {
+            "chunk_id": "98f7f224-405d-4481-bd02-374cb52aa42f",
+            "image_filename_id": "Fine Tuning Pricing.png",
+            "image_content_hash": "c78832787b50c7476864bb566cbd9e71426685ae0049329131f3df60714b12aa",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Fine Tuning Pricing.png",
+            "caption_text": "Cirrascale offers different pricing for fine-tuning models like Eleuther GPT-J and CodeGen, based on per-token and per-example rates.",
+            "visual_summary_text": "The image displays a pricing table titled \"Fixed-Rate Pricing: Per-token and per-example rates\" on a dark background. It lists various models like Eleuther GPT-J, Eleuther GPT-NeoX, CodeGen 350M, CodeGen 2.7B, and CodeGen 16.1B, along with their pricing rates per 1K tokens and per example, structured in three columns under these headers."
+        }
+    },
+    {
+        "chunk_id": "3ceaffda-6966-4217-b2ea-2539b3e3c5a6",
+        "text": "Cirrascale offers an inference platform providing pay-as-you-go, easy deployment, and zero complexity, supporting AI models with optimal performance across multiple regions.;The image features the text \"Cirrascale Inference Solutions\" at the top, followed by three icons and text descriptions beneath. From left to right: a smiling face icon labeled \"Pay-as-you-go,\" a rocket icon labeled \"Deploy easily,\" and a padlock icon labeled \"Zero complexity,\" all presented on a dark background.",
+        "metadata": {
+            "chunk_id": "3ceaffda-6966-4217-b2ea-2539b3e3c5a6",
+            "image_filename_id": "Inference Features.png",
+            "image_content_hash": "1034e1fafde8e82e3b3513ecc4fee6cfdbab46f76f350bbdaa1ee3434d238147",
+            "embedding_model": "text-embedding-3-large",
+            "source_type": "captioned_image",
+            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Inference Features.png",
+            "caption_text": "Cirrascale offers an inference platform providing pay-as-you-go, easy deployment, and zero complexity, supporting AI models with optimal performance across multiple regions.",
+            "visual_summary_text": "The image features the text \"Cirrascale Inference Solutions\" at the top, followed by three icons and text descriptions beneath. From left to right: a smiling face icon labeled \"Pay-as-you-go,\" a rocket icon labeled \"Deploy easily,\" and a padlock icon labeled \"Zero complexity,\" all presented on a dark background."
+        }
+    }
+]

@@ -1,0 +1,114 @@
+S No.,category,question,answer,image_link,RAG Description,generated_caption
+GENERAL,,,,,,N/A - No image filename
+1,Product Feature (AI Innovation Cloud),What is the AI Innovation Cloud?,"Great question! The AI Innovation Cloud is Cirrascale’s high-performance platform designed specifically for AI workloads. It lets you test, train, and deploy on industry-leading AI accelerators — all in one place. No need to juggle multiple providers or worry about setup. It’s all purpose-built for speed and scale.",Product Feature - Innovation Cloud.png,"Keywords: High performance platform, Built for AI workloads, Unified platform. Tags: AI accelerators","AI Innovation Cloud offers a unified platform for testing, training, and deploying AI workloads on high-performance accelerators, simplifying processes without juggling multiple providers.;The image features a dark background with text in light green font. At the top, there's a cloud icon with a microchip symbol inside it. Below, the following phrases are listed vertically: ""High-performance platform,"" ""Built for AI workloads,"" ""Test. Train. Deploy,"" ""All leading accelerators,"" and ""Unified cloud."""
+2,Product Feature (Hardware),What hardware do you support?,"Cirrascale gives you on-demand access to the best AI hardware out there — like NVIDIA A100 and H100 GPUs, AMD Instinct™ accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra. Everything’s pre-configured so you can start running workloads right away.",Product Feature - Hardware.png,"Keywords: NVIDIA A100, AMD Instinct, Cerebras CS-2, Qualcomm AI 100. Tags: AI hardware","GPTs are AI hardware options provided by Cirrascale including NVIDIA A100 and H100 GPUs, AMD Instinct accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra.;The image features a dark background with two sections. The top section shows an icon of a GPU followed by the text ""GPUs"" with bullet points listing ""NVIDIA A100,"" ""NVIDIA H100,"" and ""AMD Instinct."" Below, there is a rocket icon next to the word ""Accelerators,"" listing ""Cerebras CS-2 clusters"" and ""Qualcomm Cloud AI 100 Ultra."""
+3,Product Differentiator,How is Cirrascale different from AWS or Azure?,"I’m glad you asked! Unlike AWS or Azure, Cirrascale runs on bare-metal infrastructure — meaning your AI workloads get dedicated performance with no virtualization, no noisy neighbors, and no random slowdowns. It’s built specifically for deterministic speed and reliability — ideal for serious AI teams.",Product Differentiator.png,"Keywords: No noisy neighbors, Bare-metal infrastructure. Tags: bare metal, cloud comparison","Cirrascale offers dedicated performance with no virtualization, unlike AWS or Azure, providing speed and reliability for AI teams.;The image features a dark background with a white server icon at the top. Below the icon are bold teal words ""Bare-Metal Infrastructure"" and two bullet points with checkmarks next to ""No Virtualization"" and ""No Noisy Neighbors."" At the bottom, it says ""Dedicated AI Performance"" in teal."
+4,Onboarding,How fast can I get started?,"You can be up and running in just a few days. Cirrascale’s team works closely with you to understand your needs and tailor the environment accordingly. The onboarding process is fast, with engineering support to make sure you're production-ready without the usual headaches.",Onboarding.png,"Keywords: Fast onboarding, Quick setup. Tags: onboarding, checkmark icon","You can get started quickly with professional support and a customized environment; The image features a white calendar icon with a clock overlay on a dark teal background. Below the icon are the words ""Onboarding in days"", ""Tailored Environment"", and ""Engineering Support"" in light teal text."
+5,Pricing,What pricing model do you follow?,"Cirrascale uses flat-rate monthly pricing — so you know exactly what you’re paying. There are no ingress or egress fees, and no surprise usage spikes. Just simple, predictable billing for enterprise-grade AI infrastructure.",Pricing.png,"Keywords: Flat-rate pricing, No ingress/egress fees, Predictable billing. Tags: pricing model, enterprise billing, no hidden costs","Cirrascale offers predictable, flat-rate pricing with no hidden fees for its AI infrastructure services.;The image features a light blue icon of a document with a dollar sign on a dark background, followed by four lines of bold, light blue text stating: ""Flat-Rate Billing,"" ""No Ingress/Egress Fees,"" ""Flexible Scaling,"" and ""Fast Tiered Storage."""
+6,Infrastructure,Do I need to manage any infrastructure?,"Nope — Cirrascale provides fully managed services. That means zero DevOps burden. They handle everything from setup to scaling, so you can focus on building and running your AI models, not maintaining servers.",Infrastructure.png,"Keywords: Fully managed, No devops burden. Tags: infra managed,  server icon","Cirrascale provides fully managed services with no need for DevOps, letting clients focus on AI models while ensuring maximum uptime; The image features a dark background with a white cloud icon containing two server symbols. Below, three lines of text in light turquoise read ""We manage everything,"" ""Zero DevOps work,"" and ""Maximize uptime."""
+7,Scalability,Can I scale my project on demand?,"Absolutely! You can scale up or down across GPUs, CPUs, and accelerators whenever your workload changes. Cirrascale is built to flex with your AI needs — no delays or limits.",Scalability.png,"Keywords: Scale easily, Ramp up/down. Tags: scalability, flexible cloud","""Scale easily: Ramp resources up or down, quickly adapt to needs."" ; The image features a dark background with a turquoise-colored upward arrow next to three ascending bars. The text ""Scale easily"" is prominently displayed in white above the phrase ""Ramp resources up or down"" and ""Quickly adapt to needs"" beneath it, all aligned to the center."
+8,Existing Customers,Who is already using Cirrascale?,Cirrascale is trusted by pioneers like OpenAI and AI2 for mission-critical AI research. These teams rely on Cirrascale’s infrastructure to push the boundaries of what’s possible in AI.,Existing Customers.png,"Keywords: OpenAI, AI2, Trusted by pioneers. Tags: trusted","OpenAI and AI2 are utilizing Cirrascale's infrastructure for AI innovation; The image contains a dark background with the text ""Trusted by pioneers"" at the top. Below, the OpenAI logo is on the left and the AI2 logo with ""Allen Institute for AI"" is below on the right. The phrase ""Pushing the boundaries of AI with Cirrascale"" is centered at the bottom."
+9,Enterprise Readiness,Is this cloud secure and reliable for enterprise use?,"Yes — Cirrascale’s infrastructure is enterprise-grade, purpose-built for AI, and trusted by some of the most innovative organizations in the field. It’s fast, secure, and reliable by design.",Reliability.png,"Keywords: Secure & Reliable, Enterprise-grade cloud. Tags: enterprise,  secure","""Secure and reliable cloud infrastructure like Cirrascale’s is designed for enterprise use, ensuring speed, security, and reliability.""; ""The image features a dark background with white text that reads 'Secure & Reliable' at the top. Below, there's an icon of a shield with a checkmark, and text saying 'Enterprise-grade cloud you can trust.' The shield is on the left, and the text is aligned to the right."""
+10,Sales Process,How do I start a pilot or request a quote?,Easy! I will get you in touch with a team member who will help tailor a solution and walk you through the onboarding process. You could be testing your workloads in just a few days.,Product Pilot.png,"Keywords: Start a pilot, Request a quote. Tags: sales CTA, connect icon","Start a Pilot or Get a Quote by connecting with a team member who will guide you through the process.;A dark background features a speech bubble icon with a headset on the left, next to the text ""Start a Pilot or Get a Quote"" in white, with a smaller line below saying ""Let’s connect and discuss your project."""
+AI INNOVATION CLOUD,,,,,,N/A - No image filename
+11,"AMD Instinct™ Series
+
+(Features)",What advantages does Cirrascale's AMD Instinct™ Series Cloud offer for AI and HPC workloads?,"Cirrascale's AMD Instinct™ Series Cloud provides high-performance accelerators built on AMD CDNA™ architecture, featuring Matrix Core Technologies. These accelerators offer exceptional compute performance, large memory density, and high bandwidth memory, making them ideal for demanding AI and HPC workloads. The platform includes AMD ROCm™ software for seamless integration with AI frameworks and supports a broad range of precision capabilities, from INT8 to FP64 .",AMD Series Features.png,,"Cirrascale's AMD Instinct™ Series Cloud offers high-performance accelerators with exceptional compute capabilities ideal for AI and HPC workloads.;The image displays ""AMD Instinct™ Series Cloud"" at the top, followed by three icons and descriptions: a speedometer labeled ""High performance,"" stacked servers labeled ""High memory density,"" a brain with a light bulb labeled ""Broad precision support,"" and below these, the words ""AMD ROCm software"" with a simple rectangular icon."
+12,"AMD Instinct™ Series
+
+(Pricing)",What is the pricing for Cirrascale's AMD Instinct™ Series Cloud?,"Cirrascale offers transparent, flat-rate pricing with no hidden fees. For instance:
+
+8x AMD Instinct MI300X: $22,499/month, $20,249 for 6 months, or $17,999 annually.
+
+4x AMD Instinct MI250: $4,679/month, $4,211 for 6 months, or $3,743 annually.",AMD Series Pricing.png,,"Cirrascale's Cloud offers clear, fixed pricing for AMD Instinct™ Series with no hidden fees, providing options for monthly, 6 months, or annual payments.;The image displays a dark-themed price chart for Cirrascale, featuring a header with a dollar sign icon and the text ""Flat-Rate Pricing, No Hidden Fees"" followed by ""Consistent monthly and long-term options"". Below is a table with three columns labeled ""Monthly"", ""6 Months"", and ""Annually"", and two rows indicating pricing information for ""8x AMD Instinct MI300X"" and ""4x AMD Instinct MI250""."
+13,"Cerebras Cloud
+
+(Features)",How does the Cerebras AI Model Studio enhance large language model training?,"The Cerebras AI Model Studio, hosted on the Cerebras Cloud @ Cirrascale, is optimized for training and fine-tuning large language models on dedicated clusters. It offers deterministic performance without the complexities of distributed computing. Users can train models ranging from 1 to 175 billion parameters up to 8x faster than traditional clouds, with predictable fixed pricing. The platform supports standard PyTorch and TensorFlow models and provides simple SSH access for ease of use.",Cerebras Cloud Features.png,,"Cerebras AI Model Studio provides efficient training for large language models with 8x faster speeds and dedicated clusters; The image has a dark background featuring three main elements: on the top, it says ""Cerebras AI Model Studio"" in large white font. Below, three icons with text are spread out: a server icon with ""Dedicated clusters"" below, a clock icon with ""8x Faster training"" to the right, and a terminal window icon with ""Simple SSH access"" under it."
+14,"Cerebras Cloud
+
+(Pricing)",What is the pricing for the Cerebras AI Model Studio?,"Pricing is model-based, offering fixed rates per model size and token count. For example:
+
+GPT3-XL (1.3B parameters): $2,500
+
+GPT-J (6B parameters): $45,000
+
+GPT-3 6.7B: $40,000
+
+T-5 11B: $60,000
+
+GPT-3 13B: $150,000
+
+GPT NeoX (20B parameters): $525,000
+
+For larger models like GPT-70B and GPT-175B, pricing is available upon request.",Cerebras Cloud Pricing.png,,"Cerebras AI Model Studio offers fixed pricing based on model size and token count, with rates for various models and custom pricing for larger models.;The image displays a pricing table for AI models with a flat model-based pricing scheme. It includes five rows with models like GPT3-XL, GPT-J, GPT-3, T-5, and GPT NeoX, listing their parameters and corresponding costs, against a dark background. A dollar symbol is depicted on the left with a note at the bottom about pricing for larger models like GPT-70B and GPT-175B."
+15,"NVIDIA GPU Cloud
+
+(Features)",What makes Cirrascale's NVIDIA GPU Cloud suitable for AI and HPC applications?,"Cirrascale's NVIDIA GPU Cloud offers an end-to-end accelerated computing platform with multiple GPUs interconnected via NVIDIA NVLink™ and NVSwitch, providing up to 900 GB/s bidirectional bandwidth. The platform supports leading AI frameworks and model libraries like Hugging Face, enabling seamless model development, tuning, and deployment. With native CUDA support and pre-configured SDKs, storage, and networking, users can achieve high performance for AI and HPC workloads .",NVIDIA GPU Cloud Features.png,,"Cirrascale's NVIDIA GPU Cloud is powerful for AI and HPC applications, offering 900 GB/s bandwidth, CUDA readiness, pre-configured SDKs, and AI framework support.;The image showcases four key features of NVIDIA GPU Cloud on a dark background: ""900 GB/s Bandwidth"" represented by a node-link diagram, ""CUDA Ready"" with a microchip icon labeled ""CU,"" ""Pre-configured SDKs"" featuring a coding icon, and ""AI Frameworks"" with an AI symbol connected to a node."
+16,"NVIDIA GPU Cloud
+
+(Pricing)",What is the pricing for Cirrascale's NVIDIA GPU Cloud?,"Cirrascale provides flat-rate pricing for various NVIDIA GPU configurations. Examples include:
+
+8-GPU NVIDIA B200: $34,999/month, $31,499 for 6 months, or $27,999 annually.
+
+8-GPU NVIDIA H200: $26,499/month, $23,849 for 6 months, or $21,199 annually.
+
+8-GPU NVIDIA H100: $24,999/month, $22,499 for 6 months, or $19,999 annually.",NVIDIA GPU Cloud Pricing.png,,"Cirrascale offers flat-rate pricing for NVIDIA GPUs, with options across monthly, 6-month, and annual terms, showcasing a consistent pricing model without hidden fees.;The image shows a pricing table for Cirrascale's NVIDIA GPUs under the heading ""Flat-Rate Pricing, No Hidden Fees"". It displays three rows for 8-GPU configurations (B200, H200, H100) and corresponding columns for ""Monthly"", ""6 Months"", and ""Annually"" with prices: $34,999/month for B200, $26,499/month for H200, and $24,999/month for H100. The table is set against a dark background with a dollar symbol to the left of the heading."
+17,"Qualcomm AI Cloud
+
+(Features)",How does Cirrascale's Qualcomm Cloud AI 100 platform optimize AI inference?,"Cirrascale's Qualcomm Cloud AI 100 platform delivers optimized inference for leading AI models, offering up to 5x performance compared to competing solutions. Utilizing the Qualcomm Cloud AI 100 Ultra, it provides high performance and power efficiency for deploying and accelerating AI inference at scale. The platform includes bare-metal access, the Qualcomm Cloud AI Playground, and the Qualcomm AI Inference Suite for streamlined deployment .",Qualcomm AI Cloud Features.png,,"Cirrascale's Qualcomm Cloud AI 100 platform enhances AI inference with up to 5x performance, power efficiency, and streamlined deployment, utilizing its Ultra technology for large-scale applications.;The image features the text ""Qualcomm Cloud AI 100"" at the top center. Below it, three icons are lined up: a bar graph with an upward arrow labeled ""5x performance,"" a battery icon with a lightning bolt labeled ""power efficient,"" and a server rack icon labeled ""streamlined deployment."" Each icon is drawn in white against a dark background."
+18,"Qualcomm AI Cloud
+
+(Pricing)",What is the pricing for Cirrascale's Qualcomm Cloud AI 100 platform?,"Cirrascale offers various configurations with transparent pricing. Examples include:
+
+8x AI 100 Ultra: $4,699/month or $3,759 annually.
+
+Octo AI 100 Pro: $2,499/month or $2,019 annually.
+
+Quad AI 100 Pro: $1,259/month or $1,009 annually.
+
+Dual AI 100 Pro: $629/month or $519 annually.
+
+Single AI 100 Pro (128GB): $549/month or $439 annually.
+
+Single AI 100 Pro (64GB): $369/month or $289 annually.",Qualcomm AI Cloud Pricing.png,,"Cirrascale offers flexible configurations with transparent pricing for their Qualcomm Cloud AI 100 platform.;The image displays a pricing table for Cirrascale's AI configurations, labeled under ""Flat-Rate Pricing, No Hidden Fees."" It lists configurations such as ""8x AI 100 Ultra,"" ""Octo AI 100 Pro,"" and others, each with monthly and annual costs. A dollar symbol appears to the left of the title, and costs range from $4,699/month for ""8x AI 100 Ultra"" to $369/month for ""Single AI 100 Pro (64GB)."""
+19,"Training
+
+(Features)",What AI training services does Cirrascale offer?,"Cirrascale provides leading AI acceleration options for training various models, including Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI (GenAI), and Computer Vision (CV) models. The platform offers scalability and expertise to deploy solutions timely, ensuring that training is not hamstrung by service provider or data center limitations. Cirrascale collaborates closely with clients to understand their training needs and scale requirements .",Training Features.png,,"Cirrascale offers scalable AI training focusing on large models, natural language, and scalable expertise; The image shows three icons with text: a smiling face labeled ""Large models,"" a speech bubble labeled ""Natural language,"" and a bar graph with an upward arrow labeled ""Scalable expertise,"" all under the heading ""AI training."""
+20,"Training
+
+(Pricing)",What is the pricing for Cirrascale's AI training services?,"Cirrascale offers fixed pricing for training various models. Examples include:
+
+GPT3-XL (1.3B parameters): $2,500
+
+GPT-J (6B parameters): $45,000
+
+GPT-3 6.7B: $40,000
+
+T-5 11B: $60,000
+
+GPT-3 13B: $150,000
+
+GPT NeoX (20B parameters): $525,000
+
+For larger models like GPT-70B and GPT-175B, pricing is available upon request.",Training Pricing.png,,"Cirrascale provides fixed pricing for AI model training based on model complexity and size, with specific rates listed for models ranging from $2,500 to $525,000.;The image displays a table titled ""Fixed Pricing for AI Training"" with two columns: ""Model"" and ""Cost."" The ""Model"" column lists five model types: GPT3-XL (1.3B parameters), GPT-J (6B parameters), GPT-3 6.7B, GPT-3 13B, and GPT NeoX (20B parameters). Corresponding costs in the ""Cost"" column are $2,500, $45,000, $40,000, $150,000, and $525,000. A footnote mentions pricing for larger models is available upon request."
+21,"Fine Tuning
+
+(Features)",How does Cirrascale assist with fine-tuning AI models?,"Cirrascale collaborates with clients to understand their tuning requirements and the optimal AI acceleration resources needed for their foundational models. Whether augmenting training with additional data or adjusting model weights, Cirrascale guides clients to achieve the best possible outcomes. The platform supports various tuning efforts, including reinforcement learning from human feedback (RLHF) and supervised fine-tuning, ensuring models are tailored to specific use cases .",Fine Tuning Features.png,,"Cirrascale provides comprehensive support for fine-tuning AI models through client collaboration and optimizing models with reinforcement learning; The image features the title ""Fine-tuning support"" at the top. Below it are three lines of text accompanied by simple icons: a smiling face next to ""client collaboration,"" a brain next to ""optimize models,"" and a check mark next to ""reinforcement learning,"" all set against a dark background."
+22,"Fine Tuning
+
+(Pricing)",What is the pricing for Cirrascale's fine-tuning services?,"Cirrascale offers per-token and per-example pricing for fine-tuning various models. Examples include:
+
+Eleuther GPT-J (6B parameters): $0.00055 per 1K tokens; $0.0011 per example (MSL 2048).
+
+Eleuther GPT-NeoX (20B parameters): $0.00190 per 1K tokens; $0.0039 per example (MSL 2048).
+
+CodeGen 350M: $0.00003 per 1K tokens; $0.00006 per example (MSL 2048).
+
+CodeGen 2.7B: $0.00026 per 1K tokens; $0.0005 per example (MSL 2048).
+
+CodeGen 6.1B: $0.00065 per 1K tokens; $0.0013 per example (MSL 2048).
+
+CodeGen 16.1B: $0.00147 per 1K tokens; $0.0030 per example (MSL 2048).",Fine Tuning Pricing.png,,"Cirrascale offers different pricing for fine-tuning models like Eleuther GPT-J and CodeGen, based on per-token and per-example rates.;The image displays a pricing table titled ""Fixed-Rate Pricing: Per-token and per-example rates"" on a dark background. It lists various models like Eleuther GPT-J, Eleuther GPT-NeoX, CodeGen 350M, CodeGen 2.7B, and CodeGen 16.1B, along with their pricing rates per 1K tokens and per example, structured in three columns under these headers."
+23,"Inference
+
+(Features)",What inference solutions does Cirrascale provide for AI models?,"Cirrascale offers a variety of options for AI inference acceleration, catering to Large Language Models (LLMs), Natural Language Processing (NLP), and Computer Vision (CV) applications. The Cirrascale Inference Platform intelligently selects the best accelerator for optimal performance and dynamically balances workloads across regions. This serverless inference-as-a-service platform ensures enterprise-grade capabilities and security, supporting multiple regions for low-latency connections.",Inference Features.png,,"Cirrascale offers an inference platform providing pay-as-you-go, easy deployment, and zero complexity, supporting AI models with optimal performance across multiple regions.;The image features the text ""Cirrascale Inference Solutions"" at the top, followed by three icons and text descriptions beneath. From left to right: a smiling face icon labeled ""Pay-as-you-go,"" a rocket icon labeled ""Deploy easily,"" and a padlock icon labeled ""Zero complexity,"" all presented on a dark background."

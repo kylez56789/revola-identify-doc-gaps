@@ -1,0 +1,700 @@
+S No.,category,question,answer,IMAGE/ SCREENSHOT,ANSWER QUALITY,image_link,IMAGE RECOMMENDATION,FEEDBACK
+1,"AI Capabilities
+(Efficiency)",How does Revola ensure that its AI-agent performs efficiently during peak times or high-demand periods?,"Revola ensures that its AI-agent performs efficiently during peak times or high-demand periods by utilizing a cloud-native backend that supports high-concurrency scenarios. This infrastructure is designed to handle thousands of simultaneous interactions without delay or degradation in experience, ensuring low latency even during peak activities such as product launches, webinar follow-ups, or outbound blitzes.",Image,Good,AI Capabilities.png,Image Required,To the point answer to very specific question
+2,"Product Features
+(Real time adaptability)",How does Reva adapt its conversations in real-time based on prospects' responses and behaviors?,"Reva adapts its conversations in real-time by asking key questions to qualify prospects and using behavioral signals such as time on page and referrer to guide her conversational flow. This allows her to tailor interactions based on the role and industry of the prospect, ensuring that each conversation feels personalized and relevant.",Image,Good,PF Real Time Adaptability.png,Image Required,Answer stopped (after answer intro sentence) before she should began the answer points.
+3,"Product Features
+(Real time metrics)",Are there metrics or KPIs that Revola provides to track the effectiveness of engagement through Reva in real-time?,"Yes, Revola provides several metrics and KPIs to track the effectiveness of engagement through Reva in real-time. These include:
+
+- Total interactions and session duration
+- Click-through rates and CTA engagement
+- Real-time monitoring of live engagement and conversation progress
+- Number of qualified conversations started
+- Engagement duration and drop-off points
+
+These metrics help teams assess engagement effectiveness as it happens.",Image,Good,PF Real time metrics.png,Image Required,Answered really fast while going through points
+4,"Product Customizations
+(Sales Strategies)",Can the functionalities of Reva be customized or tailored to fit our unique sales processes and customer engagement strategies?,"Yes, the functionalities of Reva can be customized or tailored to fit your unique sales processes and customer engagement strategies. Reva is designed to reflect your brand, voice, and go-to-market strategy, allowing for script editing, company-specific logic, and conversation customization based on various factors like role-based personalization and funnel-stage logic.",Image,Good,PC Sales Strategies.png,Image Required,
+5,"Product Customizations
+(Script & UI)",Can we customize Reva’s scripts or the user interface to better align with our branding and messaging?,"Yes, you can customize Reva's scripts and the user interface to better align with your branding and messaging. The scripts can be tailored to include your specific messaging, terminology, and address common objections using your language. Additionally, the user interface can be visually customized with on-brand visuals such as slide templates, color schemes, and logo placement.",Image,Good,PC Script & UI.png,Image Required,
+6,"Product Customizations
+(Branding & Voice)",Are there options for customizing Reva's scripts or approaches to align more closely with our company's branding and voice?,"Yes, there are options for customizing Reva's scripts and approaches to align closely with your company's branding and voice. Reva's scripts can be tailored to your messaging through collaboration with your team to edit introductions, responses, and flows, include product-specific value propositions and terminology, and address common objections and FAQs using your language. Additionally, Reva can be tuned to match your company’s tone—whether it’s professional, friendly, technical, or casual—during the onboarding process.",Image,Good,PC Branding & Voice.png,Image Required,
+7,"Product Customizations
+(Real Time Adaptability)","How does Reva adapt its messaging in real time based on a prospect's responses, and what types of account insights does it analyze to enhance personalization?","Reva adapts its messaging in real time by adjusting tone, messaging, and visuals to match the role and industry of the prospect, ensuring that every interaction feels personalized and engaging. It analyzes account insights such as market data, digital intent signals (like job postings and tech adoption), and CRM insights to enhance personalization for each targeted account and stakeholder role.",Image,Good,PC Real Time Adaptability.png,Image Required,
+8,"Product Customizations
+(Voice & Personality)","Does Revola allow for customization of the AI agent's voice and personality to better align with our brand, and what flexibility is there in tailoring the outreach campaigns?","Yes, Revola allows for customization of the AI agent's voice and personality to align with your brand. Reva can be tuned to match your company’s tone, whether it is professional, friendly, technical, or casual. During onboarding, your preferred tone of voice is defined and embedded across all flows and responses. 
+
+In terms of flexibility for tailoring outreach campaigns, Reva’s scripts can be edited to include specific messaging, product-specific value propositions, and terminology that resonates with your brand. Additionally, Reva can adapt her tone and messaging based on the target account, stakeholder role, and business context, ensuring that every prospect feels understood and engaged. Visual elements such as slide templates and content can also be customized for each use case or buyer persona.",Image,Good,PC Voice & Personality.png,Image Required,
+9,"Product Customizations
+(Voice & Interaction)",Can Reva be customized in terms of voice and interaction style to align with our brand’s tone?,"Yes, Reva can be customized in terms of voice and interaction style to align with your brand’s tone. During onboarding, you can define your preferred tone of voice, and Reva will embed it across all flows and responses.",Image,Good,PC Voice & Interaction.png,Image Required,
+10,"Product Integrations
+(Sales & Marketing Stack)",How does Revola integrate with existing tools and platforms we currently use in our sales and marketing stack?,"Revola integrates with existing tools and platforms through both native and custom integrations. It supports popular CRM systems like Salesforce, HubSpot, Pipedrive, and Zoho, as well as marketing automation tools such as Marketo, Outreach, Mailchimp, and Pardot. Additionally, it integrates with scheduling tools like Calendly, Chili Piper, and Google Calendar. These integrations allow Revola to push qualified leads directly into your CRM, log summaries of conversations and engagement data, trigger automated workflows in your marketing tools, and align conversations with campaigns and lead sources. Furthermore, Revola provides a secure REST API for custom integrations with in-house tools.",Image,Good,PI Sales & Marketing Stack.png,Image Required,
+11,"Product Integrations
+(Onboarding Process)",What is the typical onboarding process for integrating Reva into an existing marketing and sales stack?,"The typical onboarding process for integrating Reva into an existing marketing and sales stack includes the following steps:
+
+1. **Sign Up & Share Documentation**: Access the onboarding portal and share product documentation, sales assets, FAQs, and other relevant materials. Collect discount codes and language preferences.
+
+2. **Reva Training**: Train Reva using the shared content, connecting her to the sales team.
+
+3. **Week 1 (Kickoff & Document Sharing)**: Begin the integration process and share necessary documentation.
+
+4. **Week 2 (Training Reva + Initial Testing)**: Train Reva and conduct initial tests.
+
+5. **Week 3 (Go Live - Soft Launch + QA)**: Launch Reva and conduct quality assurance.
+
+6. **Week 4 (Performance Review + Iteration)**: Review performance and make necessary iterations. Most customers typically see their first qualified meetings and inbound engagement by the end of Week 4. 
+
+Reva utilizes signal-based prospect discovery, stakeholder mapping, and automated, personalized outreach to engage leads and streamline the sales process.",Image,Good,PI Onboarding Process.png,Image Required,
+12,"Product Integrations
+(Popular Tools)",How compatible is Revola with popular CRM and marketing automation tools that we may already be using?,"Revola is highly compatible with popular CRM and marketing automation tools as it supports both native and custom integrations. Specifically, it integrates with CRMs such as Salesforce, HubSpot, Pipedrive, and Zoho, and with marketing automation tools like Marketo, Outreach, Mailchimp, and Pardot. Additionally, it allows for scheduling through tools like Calendly, Chili Piper, and Google Calendar. These integrations enable features like pushing qualified leads into your CRM, logging conversation summaries, triggering automated workflows, and aligning conversations with campaigns and lead sources, making the integration seamless and without disruption to existing workflows.",Image,Good,PI Popular Tools.png,Image Required,
+13,"Product Integrations
+(Capabilities & Limitations)","What are the integration capabilities of Reva with existing CRM and marketing tools, and are there any limitations?","Reva integrates seamlessly with existing CRM and marketing tools, including popular platforms like Salesforce, HubSpot, Pipedrive, Zoho, Marketo, Outreach, Mailchimp, and Pardot. The integration capabilities include:
+
+- Pushing qualified leads directly into your CRM.
+- Logging summaries of conversations and engagement data.
+- Triggering automated workflows in marketing tools.
+- Aligning conversations with campaigns and lead sources.
+
+Additionally, Reva offers a secure and well-documented REST API for custom integrations with in-house tools.
+
+There are no specific limitations mentioned in the provided context.",Image,Good,PI Capabilities & Limitations.png,Image Required,
+14,"Product Integrations
+(Onboarding on Existing System)","What is the onboarding process for integrating Revola into our existing systems, and how long does it typically take to see tangible results?","The onboarding process for integrating Revola into your existing systems consists of the following steps:
+
+1. **Sign Up & Share Documentation**: You receive access to the onboarding portal and share product documentation, sales assets, FAQs, and any discount codes or language preferences.
+
+2. **Reva Training**: Reva is trained using the shared content, with a review of the AI output to ensure accuracy. Additional material may be requested for better coverage.
+
+3. **Approve & Go Live**: You review Reva's responses and demo flows. Once approved, guidance is provided to integrate Reva into your website, outbound messages, or campaigns, and 'Meet Now' links go live.
+
+4. **Review & Refine**: After launch, performance is monitored, and Reva's messaging, flows, and responses are refined based on actual conversations to align with your goals.
+
+The typical timeline to see tangible results is about 4 weeks:
+- **Week 1**: Kickoff & Document Sharing
+- **Week 2**: Training Reva + Initial Testing
+- **Week 3**: Go Live (Soft Launch) + QA
+- **Week 4**: Performance Review + Iteration
+
+By the end of Week 4, most customers see their first qualified meetings and inbound engagement.",Image,Good,PI Onboarding on Existing System.png,Image Required,
+15,"Product Integrations
+(Process)","How does Revola integrate with popular CRM and marketing automation platforms, and what are the potential compatibility issues we should be aware of?","Revola integrates with popular CRM and marketing automation platforms such as Salesforce, HubSpot, Pipedrive, Zoho, Marketo, Outreach, Mailchimp, and Pardot. It supports both native and custom integrations, allowing for various functionalities:
+
+- Pushing qualified leads directly into your CRM.
+- Logging summaries of conversations and engagement data.
+- Triggering automated workflows in your marketing tools.
+- Aligning conversations with campaigns and lead sources.
+
+As for potential compatibility issues, the context does not provide specific details regarding compatibility challenges. Thus, I cannot give an answer about potential compatibility issues.",Image,Good,PI Processes.png,Image Required,
+16,"Product Integrations
+(Existing CRM Tools)",How does Revola integrate with existing CRM systems or other tools we currently use in our sales processes?,"Revola integrates with existing CRM systems and other tools through both native and custom integrations with popular platforms such as Salesforce, HubSpot, Pipedrive, and Zoho for CRMs, as well as Marketo, Outreach, Mailchimp, and Pardot for marketing automation. It allows for the following functionalities:
+
+- Pushing qualified leads directly into your CRM.
+- Logging summaries of conversations and engagement data.
+- Triggering automated workflows in your marketing tools.
+- Aligning conversations with campaigns and lead sources.
+
+Additionally, Revola offers a secure, well-documented REST API for custom integrations with in-house tools, enhancing the overall integration capabilities in your sales processes.",Image,Good,PI Existing CRM Tools.png,Image Required,
+17,"Product Scalability
+(Lead Volume)","How scalable is the solution for handling an increasing volume of leads, and what performance guarantees can you provide?","Revola is highly scalable, designed to handle a high volume of leads with thousands of simultaneous interactions managed without delay or degradation in experience. Its cloud-native backend supports high-concurrency scenarios, ensuring low latency even during peak activities like product launches or outbound blitzes. Additionally, Revola automatically scales server and processing resources based on load, allowing campaigns to expand without manual provisioning. This infrastructure guarantees high availability and redundancy, making it well-suited for increasing lead volumes and performance demands.",Image,Good,PS Lead Volume.png,Image Required,
+18,"Product Scalability
+(Lead qualification)",Can you elaborate on the scalability of Revola’s lead qualification process and how it can adapt to our growth?,"Revola's lead qualification process is highly scalable, designed to handle both small-scale personalized outreach flows and extensive global campaigns. As your business grows, Revola AI automates the lead qualification process by managing aspects such as prospecting, research, and outreach without requiring human intervention. This automation allows your sales team to focus on high-value strategic deals, significantly reducing the time spent on repetitive tasks.
+
+Furthermore, Revola AI can dynamically adapt in real-time to the demands of your growing engagement, ensuring reliable performance regardless of volume. It enables 24/7 self-service onboarding for users, which facilitates a seamless transition from passive interest to active users while reducing friction and shortening the sales cycle. As a result, Revola can effectively scale alongside your business, providing the necessary infrastructure to support increased lead volume without necessitating a proportional increase in headcount.",Image,Good,PS Lead qualification.png,Image Required,
+19,"Product Scalability
+(Growing customer base)",Can you describe how Reva scales with our growing customer base and fluctuating demand?,"Reva scales with your growing customer base and fluctuating demand through its cloud-native backend, which supports thousands of simultaneous interactions without delay, ensuring low latency even during peak times. Additionally, Reva has auto-scaling capabilities that allow it to handle both personalized outreach and global campaigns efficiently. This infrastructure is designed to perform under high pressure while adapting in real time, providing performance, reliability, and flexibility as your engagement needs evolve.",Image,Good,PS Growing customer base.png,Image Required,
+20,"Product Scalability
+(Lead Volume 2)","How scalable is Revola for managing an increasing volume of leads, and are there performance benchmarks we can reference?","Revola is highly scalable for managing an increasing volume of leads, as it is built to perform under pressure and adapt in real time. The platform features auto-scaling capabilities that automatically adjust server and processing resources based on load, allowing campaigns to expand without manual intervention. Revola can handle thousands of simultaneous interactions without delay or degradation in experience, ensuring low latency even during peak activity such as product launches or outbound blitzes. However, specific performance benchmarks are not provided in the context.",Image,Good,PS Lead Volume 2.png,Image Required,
+21,"Data Analytics 
+(Tracking engagement)",What analytics and reporting features does Revola provide to track engagement success and ROI?,"Revala provides several analytics and reporting features to track engagement success and ROI, including:
+
+1. **Metrics Tracked**:
+   - Total interactions and session duration
+   - Click-through rates and CTA engagement
+   - Conversation-to-meeting conversion rates
+   - Lead qualification scoring based on custom rules
+   - ABM outreach response and engagement levels
+
+2. **Dashboards and Exports**:
+   - Interactive visualizations of engagement and conversion trends
+   - Flow-by-flow performance comparison
+   - Exportable reports in CSV or PDF format for deeper analysis or team sharing
+   - Custom reporting filters by campaign, date, persona, or source
+
+3. **Real-Time vs. Historical Data**:
+   - Real-time insights to monitor live engagement and see conversation progress
+   - Historical insights to analyze trends over weeks, months, or specific campaign cycles
+
+4. **Automated Campaigns & Performance Tracking**:
+   - Tracks performance in real time, helping refine outreach for maximum impact
+
+5. **Dedicated Success Managers & Industry-Specific Support**:
+   - Enterprise customers receive a dedicated Customer Success Manager who leads regular check-ins and performance reviews, aiding in the refinement of messaging and flows based on data analysis.",Image,Good,DA Tracking Engagement.png,Image Required,
+22,"Data Analytics 
+(Outreach effectiveness)",What analytics and reporting features are available to measure the effectiveness of Revola's campaigns and outreach?,"Revola offers the following analytics and reporting features to measure the effectiveness of its campaigns and outreach:
+
+1. **Metrics Tracked:**
+   - Total interactions and session duration
+   - Click-through rates and CTA engagement
+   - Conversation-to-meeting conversion rates
+   - Lead qualification scoring based on custom rules
+   - ABM outreach response and engagement levels
+
+2. **Dashboards and Exports:**
+   - Interactive visualizations of engagement and conversion trends
+   - Flow-by-flow performance comparison
+   - Exportable reports in CSV or PDF format for deeper analysis or team sharing
+   - Engagement duration and drop-off points
+   - ABM target response rates and outreach effectiveness
+   - User feedback collected through conversation prompts
+
+3. **Real-Time vs. Historical Data:**
+   - Real-time insights for live monitoring of engagement and conversation progress
+   - Historical data analysis to observe trends over weeks, months, or specific campaign cycles
+
+4. **Dedicated Success Managers:**
+   - Regular check-ins and performance reviews to refine messaging and flows based on data insights
+
+These features empower teams to make data-driven decisions, optimize messaging, identify top-performing flows, and uncover high-value prospects.",Image,Good,DA Outreach effectiveness.png,Image Required,
+23,"Data Analytics 
+(Outreach Performance)",What metrics or analytics can we expect from Revola regarding the performance of our outreach and engagement efforts?,"You can expect the following metrics and analytics from Revola regarding the performance of your outreach and engagement efforts:
+
+1. Total interactions and session duration
+2. Click-through rates and CTA engagement
+3. Number of qualified conversations started
+4. Conversion rate from interaction to meeting/trial
+5. Engagement duration and drop-off points
+6. Conversation-to-meeting conversion rates
+7. Lead qualification scoring based on custom rules
+8. ABM outreach response and engagement levels
+
+Additionally, you will have access to interactive visualizations of engagement and conversion trends, flow-by-flow performance comparisons, and exportable reports in CSV or PDF format for further analysis.",Image,Good,DA Outreach Performance.png,Image Required,
+24,"Data Analytics 
+(Campaign Success Rate)","What types of analytics and reporting features does Revola offer to track engagement and success rates of campaigns, and how do we access these reports?","Revola offers a variety of analytics and reporting features to track engagement and success rates of campaigns, including:
+
+1. **Metrics Tracked**:
+   - Total interactions and session duration
+   - Click-through rates and CTA engagement
+   - Conversation-to-meeting conversion rates
+   - Lead qualification scoring based on custom rules
+   - ABM outreach response and engagement levels
+
+2. **Real-Time and Historical Data**:
+   - Real-time insights to monitor live engagement and conversation progress
+   - Historical analysis of trends over time for strategic decision-making
+
+3. **Dashboards and Exports**:
+   - Accessible performance data via a Reva dashboard which includes:
+     - Interactive visualizations of engagement and conversion trends
+     - Flow-by-flow performance comparison
+     - Exportable reports in CSV or PDF format for deeper analysis or team sharing
+
+To access these reports, users can utilize the Reva dashboard, where all performance data is available and can be exported for further analysis.",Image,Good,DA Campaign Success Rate.png,Image Required,
+25,"Data Analytics 
+(Engagmenet and Conversion)",What kind of analytics and reporting capabilities does Reva provide to track engagement and conversion metrics?,"Reva provides robust analytics and reporting capabilities that include tracking key engagement and performance indicators such as:
+
+- Total interactions and session duration
+- Click-through rates and CTA engagement
+- Conversation-to-meeting conversion rates
+- Lead qualification scoring based on custom rules
+- ABM outreach response and engagement levels
+
+Additionally, performance data is accessible via an interactive dashboard that includes visualizations of engagement and conversion trends, flow-by-flow performance comparisons, and exportable reports in CSV or PDF format. Success measurement metrics include the number of qualified conversations started, conversion rates from interaction to meeting/trial, engagement duration, and drop-off points. Reva also offers both real-time monitoring of live engagement and historical data analysis to inform strategic decisions.",Image,Good,DA Engagement & Conversion.png,Image Required,
+26,"Data Analytics 
+(Lead Qualification)",What insights can be gained from the analytics and reporting provided by Revola regarding engagement effectiveness and lead qualification?,"The insights that can be gained from the analytics and reporting provided by Revola regarding engagement effectiveness and lead qualification include:
+
+1. **Engagement Metrics**: Tracking total interactions and session duration helps to understand user engagement levels with the product.
+
+2. **Performance Indicators**: Monitoring click-through rates and call-to-action (CTA) engagement reveals how effectively campaigns are driving user actions.
+
+3. **Conversion Analysis**: Assessing conversation-to-meeting conversion rates provides insight into how well conversations are translating into meetings, indicating sales effectiveness.
+
+4. **Lead Qualification**: Customized lead qualification scoring based on specific rules helps identify which leads are most promising and likely to convert.
+
+5. **High-Intent Prospect Identification**: The ability to pinpoint users showing strong buying signals enables sales teams to prioritize leads that are more likely to convert.
+
+6. **ABM Outreach Engagement**: Analyzing ABM outreach response and engagement levels gives insights into the effectiveness of account-based marketing strategies.
+
+7. **Flow Performance**: Accessing flow-by-flow performance comparisons allows teams to identify top-performing engagement flows and optimize messaging accordingly.
+
+8. **Historical Trends**: Historical data analysis can inform strategic decisions by highlighting trends over specific periods or campaigns.
+
+These insights collectively help teams make data-driven decisions, refine targeting strategies, and optimize outreach efforts for better conversion rates.",Image,Good,DA Lead Qualification.png,Image Required,
+27,"User Experience
+(Team & Customer)","What is the user experience like for both our team and potential customers when engaging with Reva, and how accessible is it for various user types?","The user experience when engaging with Reva is designed to be seamless and personalized for both the team and potential customers. For customers, the interaction begins by clicking ""Meet Now"" on the website, which initiates a real-time conversation without the need for lengthy forms or callbacks. Reva opens with a friendly, role-aware introduction, asking relevant questions to understand the customer's needs better. This approach ensures that the conversation feels more like guidance rather than a sales pitch.
+
+Reva customizes interactions based on the visitor's role, industry, and engagement stage, adapting her tone and visuals accordingly. This personalization makes every prospect feel understood and engaged, which enhances their experience. 
+
+For the team, Reva's ability to learn from existing materials and tailor her responses means that she can represent the brand confidently while answering questions accurately and conducting demos that relate specifically to the user's company and needs. As a result, the experience is dynamic and interactive, leading to a higher likelihood of capturing and converting leads.
+
+Overall, the accessibility of engaging with Reva is high for various user types, as she adjusts her messaging based on whether the visitor is a founder, RevOps lead, IT manager, or an individual contributor, ensuring relevancy and engagement across different roles.",Image,Good,UE Team & Customer.png,Image Required,
+28,"User Experience
+(Sales Team & Prospects)","What is the overall user experience like for both our sales team and prospects when interacting with Reva, and are there any accessibility features available?","The overall user experience for both the sales team and prospects when interacting with Reva is enhanced by personalized, real-time conversations that are engaging and informative. Prospects can click the ""Meet Now"" button on the website to instantly engage in a voice-led conversation, eliminating the need for lengthy forms or callbacks. Reva adjusts her tone and messaging based on the role and industry of the prospect, ensuring they feel understood and engaged. She qualifies leads and, if they are a good fit, can book meetings or connect them to the sales team, while guiding others to appropriate next steps.
+
+However, the provided context does not mention any specific accessibility features available with Reva. Therefore, there is not enough context to determine if there are any accessibility features.",Image,Good,UE Sales Team & Prospects.png,Image Required,
+29,"Feature Updates
+(Frequency & Future Roadmap 1)","How often does Revola update its features, and what does the product roadmap look like for future developments?","Revola updates its features on a regular cadence, with minor updates and performance improvements every 2–3 weeks, major feature drops and UI enhancements quarterly, and critical patches and urgent fixes as needed. 
+
+For future developments, the roadmap includes:
+- API expansion for CRM and calendar integrations in the near term.
+- Long-term vision focuses on making Reva the most intelligent, adaptive, and human-like AI engagement platform, with future investments in cross-channel orchestration (voice + email + video), deeper analytics with journey-level insights, industry-specific agent personas, and predictive content and CTA optimization.",Image,Good,FI Frequency & Future Roadmap 1.png,Image Required,
+30,"Feature Updates
+
+(Frequency & Future Roadmap 2)","How often does Revola update its features, and what is the roadmap for future enhancements?","Revola updates its features on a regular cadence: minor updates and performance improvements occur every 2–3 weeks, major feature drops and UI enhancements are released quarterly, and critical patches and urgent fixes are addressed as needed. 
+
+The roadmap for future enhancements focuses on making Reva the most intelligent, adaptive, and human-like AI engagement platform. This includes areas such as:
+
+- Cross-channel orchestration (voice + email + video)
+- Deeper analytics with journey-level insights
+- Industry-specific agent personas
+- Predictive content and CTA optimization",Image,Good,FI Frequency & Future Roadmap 2.png,Image Required,
+31,"Feature Updates
+(Product Functionality Enhancement)","How frequently does Revola update its features, and what is the roadmap for future developments to enhance product functionality?","Revola updates its features with the following frequency:
+- Minor updates and performance improvements: Every 2–3 weeks
+- Major feature drops and UI enhancements: Quarterly
+- Critical patches and urgent fixes: As needed
+
+The roadmap for future developments to enhance product functionality includes:
+- API expansion for CRM and calendar integrations
+- Long-term investment areas such as cross-channel orchestration (voice + email + video), deeper analytics with journey-level insights, industry-specific agent personas, and predictive content and CTA optimization.",Image,Good,FU Product Functionality Enhancement.png,Image Required,
+32,"Feature Updates
+(Frequency and Future Roadmap 3)","How often are updates made to the platform, and is there a roadmap for upcoming features and improvements?","Updates to the platform are made on the following schedule:
+- Minor updates and performance improvements: Every 2–3 weeks
+- Major feature drops and UI enhancements: Quarterly
+- Critical patches and urgent fixes: As needed
+
+Yes, there is a roadmap for upcoming features and improvements, which includes API expansion for CRM and calendar integrations, dynamic presentation personalization based on real-time user input, new playbooks for support, onboarding, and post-sale success, deeper integration with marketing automation tools, and a self-service flow editor for in-house marketers and ops teams.",Image,Good,FU Frequency and Future Roadmap 3.png,Image Required,
+33,"Feature Updates
+(Improvements & Additions)","What is Revola’s roadmap for updates and new features, and how often can we expect improvements or additions to the platform?","Revola releases product updates on a regular cadence with the following schedule:
+
+- Minor updates and performance improvements occur every 2–3 weeks.
+- Major feature drops and UI enhancements are released quarterly.
+- Critical patches and urgent fixes are implemented as needed.
+
+Upcoming features include an API expansion for CRM and calendar integrations, among other enhancements outlined in their near-term roadmap.",Image,Good,FU Improvement & Additions.png,Image Required,
+34,"Feature Updates
+(Communication)","How often does Revola update Reva with new features or improvements, and how are customers informed about these updates?","Revola updates Reva with minor updates and performance improvements every 2–3 weeks, while major feature drops and UI enhancements occur quarterly. Customers are informed about these updates through regular communications in line with the platform's commitment to continuous improvement.",Image,Good,FU Communications.png,Image Required,
+35,"Onboarding Process
+(Timeline & Resources 1)","What is the average timeline for onboarding and implementation of Reva, and what resources are required from our end?","The average timeline for onboarding and implementation of Reva is four weeks. The steps involved are:
+
+- Week 1: Kickoff & Document Sharing
+- Week 2: Training Reva + Initial Testing
+- Week 3: Go Live (Soft Launch) + QA
+- Week 4: Performance Review + Iteration
+
+The resources required from your end include sharing product documentation, sales assets, FAQs, and other relevant materials. You'll also need to provide discount codes or language preferences, along with defining your target personas and top use cases.",Image,Good,OP Timeline & Resources 1.png,Image Required,
+36,"Onboarding Process
+(Timeline & Support)","How long does the onboarding process typically take, and what support is provided during this phase?","The onboarding process typically takes four weeks. During this phase, support provided includes access to an onboarding portal, training for Reva using shared content, an optional live onboarding call with a success manager, a custom training portal for your team, and an onboarding checklist. Additionally, there is a focus on reviewing Reva’s early outputs and providing quick feedback, as well as post-launch performance monitoring and refinement based on real conversations.",Image,Good,OP Timeline & Support.png,Image Required,
+37,"Onboarding Process
+(Support & Experience)",What resources or support does Revola provide during the implementation phase to ensure a smooth onboarding experience for our sales team?,"Revola provides several resources and support during the implementation phase to ensure a smooth onboarding experience for your sales team, including:
+
+1. Access to an onboarding portal where you can share documentation, sales assets, FAQs, and other relevant materials.
+2. Collection of necessary information such as discount codes and language preferences.
+3. Training for Reva using your shared content, which includes demo scripts, flow examples, visual asset guidelines, FAQs, and a tone-of-voice guide.
+4. An optional live onboarding call with a success manager to assist in the process.
+5. Best practices for implementation, which recommend sharing clean, well-organized product and sales documentation early, defining target personas and top use cases, keeping messaging simple and benefits-focused, and reviewing Reva’s early outputs with timely feedback.",Image,Good,OP Support & Experience.png,Image Required,
+38,"Onboarding Process
+(Timeline & Resources 2)","How long does the onboarding process typically take for integrating Reva into our existing systems, and what resources are provided during this phase?","The onboarding process typically takes about four weeks. During this phase, the provided resources include access to the onboarding portal, product documentation, sales assets, FAQs, Reva's training based on shared content, guidance for integration, and performance review metrics.",Image,Good,OP Timeline & Resources 2.png,Image Required,
+39,"Customer Support
+(Effective Utilizations)",What kind of customer support and training does Revola provide to help our team effectively utilize the platform?,"Revola provides ongoing support channels designed to ensure customer success after launch, which includes guidance, responsiveness, and strategic insight. The training process involves the following steps:
+
+1. **AI Training**: Reva is trained using your shared content, and the output is reviewed by the Revola team to ensure accuracy. Additional material may be requested for better coverage.
+
+2. **Approval & Go Live**: Customers review Reva's responses and demo flows. Once approved, guidance is provided to integrate Reva into your website, outbound messages, or campaigns, and 'Meet Now' links are activated for instant user engagement.
+
+3. **Performance Monitoring**: Post-launch, Revola closely monitors performance to ensure the platform continues to meet customer needs and provide value.
+
+Overall, Revola’s approach combines automated AI engagement, personalized demos, and seamless onboarding to help teams focus on strategic deals while effectively utilizing the platform.",Image,Good,CS Effective Utilizations.png,Image Required,
+40,"Customer Support
+(During & After)","What customer support options are available during and after implementation, and what does customer success look like with Revola?","During and after implementation, Revola offers ongoing support through multiple channels, ensuring customers receive value post-launch. This includes:
+
+1. **Dedicated Success Managers**: All Enterprise customers are assigned a Customer Success Manager (CSM) who conducts regular check-ins and performance reviews, helping to refine messaging and flows based on data.
+
+2. **Customer Support & Success Services**: These services provide guidance, responsiveness, and strategic insight to support long-term success and confidence in growth.
+
+3. **Clear Contract Terms**: Revola has flexible engagement terms with 12-month commitments, ensuring consistent deployment and access to customer success services.
+
+Overall, customer success with Revola involves receiving dedicated support, regular performance evaluations, and tailored advice to enhance engagement strategies.",Image,Good,CS During & After.png,Image Required,
+41,"Customer Support
+(Resources)",What customer success resources are available to ensure we maximize the use and effectiveness of Reva?,"The customer success resources available to ensure the maximization of the use and effectiveness of Reva include:
+
+1. **Dedicated Customer Success Manager (CSM)**: Each Enterprise customer receives a CSM who leads regular check-ins, performance reviews, and helps refine Reva’s messaging and flows based on data.
+
+2. **Ongoing Support Channels**: Access to customer support with defined response times:
+   - Critical Issues: Response within 4 hours (business hours)
+   - High Priority: Response within 1 business day
+   - General Inquiries: Response within 2 business days
+
+3. **Success Measurement Metrics**: Tracking and reviewing key performance indicators such as:
+   - Number of qualified conversations started
+   - Conversion rate from interaction to meeting/trial
+   - Engagement duration and drop-off points
+
+4. **Pre-launch Testing**: Reva is tested across hundreds of questions to ensure understanding of the product and capability to handle key scenarios, with full visibility and approval before reaching prospects.
+
+5. **Documentation and Guidance**:
+   - Demo scripts and flow examples
+   - Visual asset guidelines for slides shown by Reva
+   - FAQs and tone-of-voice guide
+
+6. **Optional Live Onboarding Call**: An optional onboarding call with the success manager is available to help customers get started effectively.
+
+7. **Implementation Best Practices**: Recommendations for sharing organized product documents, defining target personas and use cases, simplifying messaging, and providing quick feedback on Reva’s early outputs.",Image,Good,CS Resources.png,Image Required,
+42,"Customer Support
+(After Implementation)","What kind of ongoing support does Revola provide after implementation, and how do you ensure customer success with your platform?","Revola provides ongoing support through various channels to ensure customer success after implementation. Specifically, they monitor performance closely post-launch, refine Reva’s messaging, flows, and responses based on real conversations, and ensure that Reva stays aligned with the customer's goals. Additionally, all enterprise customers receive a dedicated Customer Success Manager (CSM) who leads regular check-ins, performance reviews, and helps refine messaging based on data. This approach enables customers to grow confidently while receiving the necessary guidance and strategic insights.",Image,Good,CS After Implementation.png,Image Required,
+43,"Customer Support
+(Sales Processes)",What ongoing support does Revola offer post-implementation to ensure the successful utilization of Reva in our sales processes?,"Revola offers several ongoing support services post-implementation to ensure the successful utilization of Reva in sales processes:
+
+1. **Performance Monitoring**: They closely monitor Reva's performance after launch to ensure effectiveness.
+   
+2. **Review & Refinement**: Based on real conversations, they refine Reva's messaging, flows, and responses to align with your goals.
+
+3. **Dedicated Customer Success Manager (CSM)**: All Enterprise customers receive a CSM who leads regular check-ins and performance reviews, helping to refine Reva’s messaging and flows based on collected data.
+
+4. **Feedback Collection**: User feedback is collected through conversation prompts to inform adjustments and improvements.
+
+5. **Guidance for Integration**: The support team provides guidance on integrating Reva into your website, outbound messages, or campaigns. 
+
+These services are aimed at maximizing the value and effectiveness of Reva in your sales and marketing efforts.",Image,Good,CS Sales Processes.png,Image Required,
+44,"Pricing Model
+(Scale with Increased Users)","What is the pricing model for Revola, and how does it scale with more users or increased engagement?","Revola's pricing model is tiered and designed to be modular, scalable, and aligned with the value provided in terms of faster qualification, increased demo conversion, and pipeline growth without the need to expand headcount. The pricing includes three main tiers:
+
+1. **Starter Tier**: $2,000/month
+   - Ideal for early-stage go-to-market (GTM) teams
+   - Features 1 Reva flow, English only, basic reporting, up to 500 outbound interactions, and up to 100 outreaches/month.
+
+2. **Growth Tier**: $4,000/month
+   - Suitable for mid-market teams scaling account-based marketing (ABM)
+   - Features all 3 Reva flows, ABM module, CRM integration, up to 2,000 outbound interactions, and up to 500 outreaches/month.
+
+3. **Enterprise Tier**: Custom pricing starting at $6,000/month
+   - Designed for large or multi-region organizations
+   - Offers unlimited flows and custom flows.
+
+Additional options include add-ons such as extra outbound volume ($500/month per 500 interactions), multilingual support ($300/month per language), and advanced ABM insights ($1,000/month). 
+
+Revola's system is built for scalability, allowing it to manage personalized outreach flows or global campaigns effectively. Optional performance-based pricing may also be available for select enterprise customers where bonuses are tied to exceeding qualified meeting thresholds. Overall, the pricing structure is intended to accommodate growth in user engagement and operational demands.",Image,Good,PM Scale with Increased Users.png,Image Required,"Directed me towards setting up a sales meeting. 
+
+However did give contract terms when asked."
+45,"Pricing Model
+(Hidden Costs)","What is the pricing structure for Revola, and are there any hidden costs we should be aware of, particularly as our engagement scales?","Revola's pricing structure is tiered and designed to align with the value it delivers, accommodating different business needs as engagement scales. Here are the key details:
+
+1. **Pricing Tiers**:
+   - **Starter**: $2,000/month
+     - Ideal for early-stage go-to-market teams.
+     - Features include 1 Reva flow, English only, basic reporting, up to 500 outbound interactions (15 mins), and up to 100 outreach/month.
+   - **Growth**: $4,000/month
+     - Geared towards mid-market teams scaling Account-Based Marketing (ABM).
+     - Features include all 3 Reva flows, ABM module, CRM integration, up to 2,000 outbound interactions, and up to 500 outreach/month.
+   - **Enterprise**: Custom pricing starting from $6,000/month
+     - Designed for large or multi-region organizations.
+     - Features include unlimited flows and custom flows.
+
+2. **Add-Ons & Flexibility**:
+   - Additional outbound volume: $500/month per 500 interactions.
+   - Multilingual Reva (per language): $300/month.
+   - Advanced ABM insights: $1,000/month.
+
+3. **Current Offer**: A 50% discount on the list price is available.
+
+4. **Optional Performance-Based Pricing**: For select enterprise customers, bonus-based pricing structures may apply, such as performance bonuses for exceeding qualified meeting thresholds.
+
+**Hidden Costs**: There are no specific hidden costs mentioned, but as engagement scales, additional charges may apply for extra outbound volume, multilingual support, and advanced insights if those services are utilized.
+
+In summary, be mindful of potential add-on costs as engagement grows, and consider if the performance-based pricing may also affect overall expenses.",Image,Good,PM Hidden Costs.png,Image Required,
+46,"Pricing Model
+(Different Tiers)","What is the pricing model for using Reva, and are there different tiers based on usage or features?","Reva's pricing model is tiered, which allows for flexibility and scalability based on usage and features. There are three main tiers:
+
+1. **Starter Tier**:
+   - Ideal for early-stage GTM teams
+   - Monthly Price (Starting): $2,000
+   - Key Features: 
+     - 1 Reva flow
+     - English only
+     - Basic reporting
+     - Up to 500 outbound interactions (15 mins)
+     - Up to 100 outreaches/month
+
+2. **Growth Tier**:
+   - Ideal for mid-market teams scaling ABM
+   - Monthly Price (Starting): $4,000
+   - Key Features: 
+     - All 3 Reva flows
+     - ABM module
+     - CRM integration
+     - Up to 2,000 outbound interactions
+     - Up to 500 outreaches/month 
+
+3. **Enterprise Tier**:
+   - Ideal for large or multi-region organizations
+   - Monthly Price: Custom ($6,000+)
+   - Key Features: 
+     - Unlimited flows
+     - Custom flows
+
+Additionally, Reva offers optional add-ons such as extra outbound volume, multilingual support, and advanced ABM insights, each with its own pricing. They also have a current offer of a 50% discount on the list price and optional performance-based pricing for select enterprise customers. A paid Trial/POC program is available for $2,000, providing one month of access with certain limitations.",Image,Good,PM Different Tiers.png,Image Required,
+47,"Pricing Model
+(Pricing Levels)","What are the pricing tiers for different levels of engagement with Reva, and how do they align with the scalability needs of a growing healthcare SaaS company?","The pricing tiers for Reva are as follows:
+
+1. **Starter Tier** 
+   - Ideal For: Early-stage GTM teams
+   - Monthly Price: $2,000
+   - Key Features:
+     - 1 Reva flow
+     - English only
+     - Basic reporting
+     - Up to 500 outbound interactions (15 mins)
+     - Up to 100 outreaches/month
+
+2. **Growth Tier**
+   - Ideal For: Mid-market teams scaling ABM
+   - Monthly Price: $4,000
+   - Key Features:
+     - All 3 Reva flows
+     - ABM module
+     - CRM integration
+     - Up to 2,000 outbound interactions
+     - Up to 500 outreaches/month
+
+3. **Enterprise Tier**
+   - Ideal For: Large or multi-region organizations
+   - Monthly Price: Custom ($6,000+)
+   - Key Features:
+     - Unlimited flows
+     - Custom flows
+     - Dedicated Customer Success Manager (CSM) who provides regular check-ins and performance reviews and helps refine messaging based on data.
+
+These pricing tiers align with the scalability needs of a growing healthcare SaaS company by offering modular options that can expand as the company grows. The Starter tier is suitable for early stages, while the Growth tier supports mid-market scaling efforts, and the Enterprise tier provides customized options for larger organizations. The included features and optional add-ons facilitate adaptability as the company’s outreach volume and complexity increase.",Image,Good,PM Pricing Levels.png,Image Required,
+48,"Contract Terms
+(Cancellation Policy)","What are the contract terms, including any exit strategy or cancellation policies we should be aware of?","Revola's contract terms consist of the following key points:
+
+1. **Contract Lengths**: All standard plans are structured as 12-month commitments, which offer consistency in deployment, measurement, and ROI. Annual contracts provide the best value and full access to platform capabilities and customer success services.
+
+2. **Early Exit Options**: Customers can exit their contract early by paying a flat termination fee of $2,000. This option provides flexibility while allowing Revola to recover costs related to onboarding, customization, and support.
+
+3. **Subscription Renewals**: Subscriptions automatically renew every month, with payment deducted 7 days before the subscription expires to ensure uninterrupted access. 
+
+4. **Cancellation**: Once a subscription is canceled, no further payments will be deducted after the cancellation.
+
+Overall, customers have options for early termination and are informed about renewal and cancellation processes.",Image,Good,CT Cancellation Policy.png,Image Required,
+49,"Contract Terms
+(Exit Strategy 1)","What are the contract terms, and what is the exit strategy should we decide to discontinue using Revola in the future?","Revola offers standard plans structured as 12-month commitments, which ensure consistency in deployment, measurement, and ROI. If you decide to discontinue using Revola, you have the option to exit your contract early for a flat termination fee of $2,000. Customers who cancel their subscription will retain access until the end of their billing cycle, after which the account will revert to trial limits unless you resubscribe.",Image,Good,CT Exit Strategy 1.png,Image Required,
+50,"Contract Terms
+(Exit Strategy 2)","What are the contract terms, and is there an exit strategy if we decide to discontinue our use of Reva?","The standard contract terms for Reva are structured as 12-month commitments, which ensure consistency in deployment, measurement, and ROI. If you decide to discontinue your use of Reva before the contract ends, there is an exit strategy that allows for early termination with a flat fee of $2,000. This fee assists in recovering costs associated with onboarding, customization, and support.",Image,Good,CT Exit Strategy 2.png,Image Required,
+51,"Contract Terms
+(Flexibility)","How flexible is the contract structure, and what options are available if we need to exit the agreement?","The contract structure offers flexibility through custom terms in the onboarding and implementation process, including assisted documentation, custom flow development, and custom integrations. If you need to exit the agreement early, you can do so by paying a flat early termination fee of $2,000.",Image,Good,CT Flexibility.png,Image Required,
+52,"Product Trial
+
+(Testing Functionalities)",Is there a trial period or Proof of Concept available to test Reva's functionalities before making a significant commitment?,"Yes, there is a paid Trial/Proof of Concept (POC) program available to help teams evaluate Reva in a live environment. The trial costs $2,000 and includes one month of full access, one Reva flow with basic customization, coverage for up to 200 outbound contacts, analytics, and success tracking.",Image,Good,PT Testing Functionalities.png,Image Required,
+53,"Product Trial
+
+(Terms)","Is there a trial or proof of concept available, and what does that entail in terms of features and duration?","Yes, there is a paid Trial/Proof of Concept (POC) program available. It costs $2,000 and includes one month of full access to Reva. The trial entails the following features:
+
+- One Reva flow with basic customization.
+- Coverage for up to 200 outbound contacts.
+- Analytics and success tracking.
+
+Additionally, there is an option to upgrade to a full plan with no data loss.",Image,Good,PT Terms.png,Image Required,
+54,"Product Trial
+
+(Process)","Is there an option for a trial or proof of concept before committing to a full implementation, and what does that process look like?","Yes, there is an option for a trial or proof of concept (POC) before committing to a full implementation. The paid Trial/POC program costs $2,000, which includes one month of full access to Reva. This trial includes:
+
+- 1 Reva flow with basic customization
+- Coverage for up to 200 outbound contacts
+- Analytics and success tracking
+
+At the end of the trial, there is an option to upgrade to a full plan with no data loss.",Image,Good,PT Process.png,Image Required,
+55,"Product Trial
+
+(General)",Is there a trial or proof of concept available for us to test Reva’s capabilities before committing to a full implementation?,"Yes, there is a paid Trial/Proof of Concept (POC) program available for evaluating Reva in a live environment. The fee is $2,000, which includes one month of full access, one Reva flow with basic customization, coverage for up to 200 outbound contacts, analytics, and success tracking. There is also an option to upgrade to a full plan with no data loss.",Image,Good,PT General.png,Image Required,
+56,"Data Security
+
+(Measures)",What measures does Revola take to ensure data security and compliance with industry regulations?,"Revola ensures data security and compliance with industry regulations by implementing the following measures:
+
+- Encrypted data handling
+- Role-based access control (RBAC)
+- Data retention policies
+- GDPR and CCPA-friendly architecture
+
+Additionally, Revola is built on enterprise-grade infrastructure, making it compliance-ready and adaptable for enterprise requirements, although it does not handle sensitive or regulated data by default.",Image,Good,DS Measures.png,Image Required,
+57,"Data Security
+
+(During Interactions)",How does Revola ensure the security and compliance of customer data during interactions?,"Revola ensures the security and compliance of customer data during interactions by using enterprise-grade infrastructure that supports encrypted data handling, role-based access control (RBAC), and data retention policies. Additionally, Reva is designed to be GDPR and CCPA-friendly, making it adaptable for enterprise requirements. Since Reva does not collect sensitive personal or financial data, it typically does not require heavy compliance certifications like HIPAA or SOC2, but it remains compliance-ready for customers in regulated industries.",Image,Good,DS During Interactions.png,Image Required,
+58,"Data Security
+
+(GDPR)","How does Revola ensure the security and compliance of the data processed by Reva, especially concerning GDPR or other regulations?","Revola ensures security and compliance of the data processed by Reva by implementing GDPR and CCPA-friendly architecture, having role-based access control (RBAC), and establishing data retention policies. Additionally, Reva operates without collecting sensitive personal or financial data by default, which reduces the need for heavy compliance certifications, yet is built on enterprise-grade infrastructure that supports regulated industries.",Image,Good,DS GDPR.png,Image Required,
+59,"Data Security
+
+(During Interactions 2)",What specific measures does Reva take to ensure compliance with healthcare regulations and maintain data security during interactions?,"Reva ensures compliance with healthcare regulations and maintains data security during interactions by implementing the following measures:
+
+1. **Encrypted Data Handling** - Ensuring that all data transmitted and stored is encrypted to protect sensitive information.
+   
+2. **Role-Based Access Control (RBAC)** - Restricting access to data and systems based on user roles, enhancing security.
+
+3. **Data Retention Policies** - Establishing policies that dictate how long data is retained and when it should be deleted, in compliance with regulations.
+
+4. **GDPR and CCPA-friendly Architecture** - Designing the system in accordance with the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), ensuring that users' privacy rights are respected. 
+
+These measures allow Reva to be compliance-ready and adaptable for enterprise requirements, even though it does not handle sensitive or regulated data by default.",Image,Good,DS During Interactions 2.png,Image Required,
+60,"Data Security
+
+(Compliance & Data Protection)","What security measures are in place to protect sensitive customer data during interactions with Reva, and how does Revola ensure compliance with data protection regulations?","Reva supports several security measures to protect sensitive customer data, including:
+
+- Encrypted data handling
+- Role-based access control (RBAC)
+- Data retention policies
+- GDPR and CCPA-friendly architecture
+
+Revola ensures compliance with data protection regulations by being built on enterprise-grade infrastructure and being adaptable for enterprise requirements, all while not handling sensitive or regulated data by default.",Image,Good,DS Compliance & Data Protection.png,Image Required,
+61,"Product Features
+(Personalized Marketing)",What specific features of Reva can help our limited resources for personalized marketing in terms of automation and personalization capabilities?,"Reva offers several specific features that can help address limited resources for personalized marketing through automation and personalization capabilities:
+
+1. **24/7 Operation**: Reva is an AI agent that runs continuously, allowing for personalized, outbound-ready interactions without the need for additional human resources.
+
+2. **Dynamic Visual Presentations**: Reva combines real-time conversation with dynamic visuals, enhancing the engagement and effectiveness of marketing efforts.
+
+3. **Tailored Messaging**: She adjusts her tone, messaging, and visuals to match the specific role and industry of each prospect, making interactions feel personalized and relevant. 
+
+4. **Automated Lead Qualification**: Reva qualifies leads by using account-based marketing (ABM) insights, showcasing the value of your offerings while engaging potential customers.
+
+5. **Real-Time Adaptability**: Reva adapts her messaging, visuals, and conversational flows dynamically based on the user’s role, segment, or priority, which allows for a more personalized approach in various contexts.
+
+6. **Efficient Engagement**: Prospects can get answers quickly and conduct their research instantly, increasing the likelihood of conversion without the need for extensive manual input from your team.
+
+Overall, these features enable a more efficient and personalized marketing outreach, leveraging automation to enhance engagement while conserving human resources.",Screenshot,Good,PF Personalized Marketing.png,Image Required,
+62,"Product Features
+(Personalized Conversations)","How does Reva personalize conversations based on the prospect’s role and business context, and what data does it leverage to do so?","Reva personalizes conversations by adjusting her tone, messaging, and visuals to match the role and industry of the prospect, ensuring that every prospect feels understood and engaged. To achieve this, Reva leverages ABM-style insights, which include data on the target account, stakeholder role, and business context. Additionally, she analyzes market data, digital intent signals (such as job postings, tech adoption, and web visits), and CRM insights to tailor her interactions effectively. This approach allows her to qualify leads, showcase value, and provide accurate responses during conversations.",Screenshot,Good,PF Personalized Conversations.png,Image Required,
+63,"Lead Qualification Process
+(High Value Customers)","How does Reva leverage company data and intent signals to identify and qualify high-value customers, and what metrics can we expect to improve?","Reva leverages company data and intent signals by analyzing market data, digital intent signals (such as job postings, tech adoption, and web visits), and CRM insights to identify 10 high-potential companies each week. She combines this information with custom qualification logic to prioritize accounts showing strong buying signals. Additionally, Reva conducts stakeholder mapping to identify relevant decision-makers and influencers within those accounts based on role, seniority, and past engagement history.
+
+By using behavioral signals and asking key qualification questions, Reva performs interactive qualification in real-time. If a lead qualifies, she books a meeting with a sales rep and sends the relevant context to the CRM.
+
+As a result of this approach, we can expect improvements in metrics such as the prioritization of high-value accounts, the routing of hot leads to sales in real-time, refinement of the ideal customer profile (ICP) based on engagement outcomes, and optimization of outreach for segments that show the highest conversion potential.",Screenshot,Good,PF High Value Customers.png,Image Required,
+64,"Lead Qualification Process
+(Outbound Campaigns)",Can you explain how the intelligent outbound campaigns are structured and what metrics are used to measure their effectiveness?,"Intelligent outbound campaigns leverage an AI-powered, account-based marketing (ABM) approach that allows for personalized outreach at scale. These campaigns are structured around automated research and messaging that is tailored to individual accounts based on account-level insights such as industry, company size, and recent signals. 
+
+Metrics used to measure the effectiveness of these campaigns include:
+
+1. **Conversion Rates** - tracking how many leads complete desired actions (e.g., purchases or booking sales calls).
+2. **Engagement Metrics** - assessing click-through rates and call-to-action (CTA) engagement.
+3. **Conversation-to-Meeting Conversion Rates** - measuring how effectively conversations translate into scheduled meetings.
+4. **Lead Qualification Scoring** - evaluating leads based on custom-defined rules to assess fit and interest.
+5. **ABM Outreach Response and Engagement Levels** - monitoring the response rates and overall engagement levels from the targeted outreach efforts.
+6. **Analytics Built Into the System** - conversion rates, time to value, and hand-off rates for continual improvement.
+
+This structured approach ensures scalable, efficient, and personalized engagement with potential leads.",Screenshot,Good,LQ Outbound Campaigns.png,Image Required,
+65,"Product Features
+(Personalized Outreach)",What specific features does Reva offer to ensure personalized outreach for different customer segments?,"Reva offers several specific features to ensure personalized outreach for different customer segments:
+
+1. **Smart Outbound Emails**: Reva crafts outbound emails tailored to each stakeholder's role and company context, featuring a ""Meet Now"" call-to-action for instant engagement.
+
+2. **Real-Time Voice Conversations with Visuals**: Upon clicking ""Meet Now,"" Reva initiates a real-time voice conversation complemented by visuals that are customized to address the specific pain points, use cases, and industry of the company.
+
+3. **Dynamic Adaptability**: Reva adapts her messaging, visuals, and flows in real-time based on different teams and personas within an organization, such as SDRs, marketers, or customer success representatives.
+
+4. **Tailored Tone and Messaging**: Reva can adjust her tone and messaging to match the specific role and industry of the prospect, ensuring that each interaction feels personalized.
+
+5. **Control Over Interaction**: Users can define how Reva communicates, the visuals she presents, and the actions she takes, including the tone (professional, casual, consultative) and specific call-to-actions like booking meetings or handing off to sales.
+
+These features collectively enhance Reva's ability to engage with prospects effectively and personally.",Screenshot,Good,PF Personalized Outreach.png,Image Required,
+66,"Product Features
+(Personalized Marketing)",What specific features does Reva offer to ensure personalized marketing experiences for our diverse customer segments?,"Reva offers several specific features to ensure personalized marketing experiences for diverse customer segments:
+
+1. **Dynamic Adaptability**: Reva adapts messaging, visuals, and flows in real-time based on the role, segment, or priority of the users, catering to different teams such as SDRs, marketers, and customer success representatives.
+
+2. **Tailored Conversations**: Reva adjusts her tone, messaging, and visuals to match the specific role and industry of ideal buyers, making every prospect feel understood and engaged.
+
+3. **ABM-style Insights**: Reva uses account-based marketing insights to tailor conversations based on the target account, stakeholder role, and business context, ensuring that interactions are relevant to the specific customer segment.
+
+4. **Customizable Interactions**: Users can control Reva's tone (professional, casual, consultative), the visuals she presents, and her call-to-actions (e.g., booking meetings, handing off to sales, or sharing resources).
+
+5. **High-Value Customer Identification**: Reva highlights high-intent prospects using behavioral data and custom qualification logic which helps prioritize accounts showing strong buying signals and refine the ideal customer profile (ICP) based on engagement outcomes.
+
+These features collectively enhance the personalization of marketing experiences for diverse customer segments.",Screenshot,Good,PF Personalized Marketing 2.png,Image Required,
+67,"Product Features
+(Messaging Alignment)",How can we ensure that the AI-generated conversations align with our messaging and objectives before going live?,"To ensure that the AI-generated conversations align with your messaging and objectives before going live, you should:
+
+1. Review Reva's responses and demo flows carefully.
+2. Approve the responses based on how well they match your brand’s voice and objectives.
+3. Adjust the tone and customize messaging as needed, using options available in your Seller Context.
+4. Address common objections and FAQs using your language, ensuring all scripts are tested and reviewed prior to going live.",Screenshot,Good,PF Messaging Alignment.png,Image Required,
+68,Lead Qualification Process,How does Reva utilize AI to analyze target accounts and identify high-value customers?,"Reva utilizes AI to analyze target accounts and identify high-value customers by combining behavioral data and custom qualification logic to highlight high-intent prospects. She analyzes market data, digital intent signals (such as job postings, tech adoption, and web visits), and CRM insights to identify 10 high-potential companies each week. Additionally, she performs stakeholder mapping to identify relevant decision-makers and influencers within each account based on their role, seniority, and past engagement history. This approach allows Reva to prioritize accounts showing strong buying signals and focus outreach efforts on those with the highest conversion potential.",Screenshot,Good,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+69,"Product Features
+(Personalized Engagement)",What specific features does Reva offer to ensure personalized engagement for different customer segments?,"Reva offers several specific features to ensure personalized engagement for different customer segments:
+
+1. **Voice and Visual Adaptability**: Reva adjusts both her voice flow and visual content based on user behavior, role, and engagement stage, whether it's a pitch, demo, or onboarding session.
+
+2. **Role-Specific Communication**: She speaks directly to specific roles such as CMOs, RevOps leads, or IT managers, tailoring her tone, messaging, and visuals to match the industry and make prospects feel understood and engaged.
+
+3. **Dynamic Messaging for Teams**: Reva adapts dynamically across different teams and personas within an organization, adjusting messaging, visuals, and flows based on role, segment, or priority, which is beneficial for SDRs, marketers, or customer success teams.
+
+4. **Customization Control**: Users have control over how Reva communicates, including the choice of tone (professional, casual, consultative) and the decision on what visuals to use in each interaction.
+
+5. **ABM-style Insights**: Reva tailors conversations based on the target account, stakeholder role, and business context, which helps in qualifying leads and showcasing value effectively.",Screenshot,Good,PF Personalized Engagement.png,Image Required,
+70,Contract Terms,"Are there flexible contract terms available, and what is the exit strategy if we wish to discontinue the use of Reva?","Yes, there are flexible contract terms available with Reva. If you wish to exit the contract early, you can do so by paying a flat early termination fee of $2,000. This allows for flexibility while helping to recover costs associated with onboarding, customization, and support.",,Good,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+71,"Pricing Model
+(Additional Costs with Scaling)","What is the pricing structure for Revola, and are there any additional costs associated with scaling its use for a growing customer base?","Revola's pricing structure includes a 50% discount on the list price and is modular and scalable, designed to grow with your business. The pricing guide features a tiered structure with optional add-ons, which include:
+
+- Additional outbound volume: $500/month per 500 interactions
+- Multilingual Reva (per language): $300/month
+- Advanced ABM insights: $1,000/month
+
+For select enterprise customers, there is also an optional performance-based pricing structure with performance bonuses for exceeding qualified meeting thresholds. Custom pricing is available for volume or white-label scenarios, indicating that there could be additional costs based on scaling for a growing customer base.",,Information available but bad answer,PM Additional Costs with Scaling.png,Image Required,
+72,Onboarding Process,What kind of onboarding and training does Revola provide to ensure effective utilization of Reva for healthcare sales teams?,,,Information not available,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+73,Contract Terms,"What are the terms of the contract regarding commitment duration, and what is the exit strategy if we find that the solution isn't meeting our needs?","The contract terms specify a commitment duration of 12 months for all standard plans. If you wish to exit the contract early, you may do so by paying a flat early termination fee of $2,000.",,Good,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+74,Data Security,What specific security measures does Revola implement to ensure compliance and protect sensitive healthcare data during interactions with Reva?,,,Information not available,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+75,Product Trial,Is there an option for a trial period or proof of concept to assess Reva's effectiveness in our specific use case?,"Yes, there is a paid Trial/Proof of Concept (POC) program available to help teams evaluate Reva in a live environment. The trial costs $2,000 and includes one month of full access, basic customization, coverage of up to 200 outbound contacts, analytics, and success tracking.",,Good,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+76,Product Trial,Is there a trial period or proof of concept available to assess how well Reva meets our needs?,"Yes, there is a paid Trial/POC program available to help teams evaluate Reva in a live environment. The program includes one month of full access for a fee of $2,000, which covers up to 200 outbound contacts and includes analytics and success tracking.",,Good,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+77,Product Accessibility,"What is the overall user experience like when interacting with Reva, particularly for users who may not be tech-savvy?",,,Information not available,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+78,Customer Support,"What level of ongoing support and customer success services are included with Revola, and how can we access assistance if needed?","Revola offers ongoing support and customer success services designed to ensure long-term success after launch. This includes access to clear and flexible engagement terms, dedicated Customer Success Managers (CSMs) for Enterprise customers, and support through various channels based on the urgency of the issue:
+
+- **Critical Issues**: Response within 4 hours (business hours)
+- **High Priority**: Response within 1 business day
+- **General Inquiries**: Response within 2 business days
+
+Assistance can be accessed through these support channels, ensuring guidance, responsiveness, and strategic insight as needed.",Image,Good,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+79,Product Accessibility,"How user-friendly is Reva for non-technical team members, and what training resources are available to enhance user experience?",,,Information not available,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+80,Product Customizations,Can you elaborate on the customization options available for Reva to tailor the engagement experience according to our specific compliance needs?,,,Information not available,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+81,Product Customizations,How customizable is Reva in adapting to the unique compliance needs of different healthcare SMBs?,,,Information not available,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+82,User Experience,How does the user experience of Reva accommodate accessibility for all users?,,,Information not available,,"Image Not Required
+
+The content does not involve multi-step processes or visual breakdowns",
+83,Data Security,"How does Revola handle data storage and backup, and what measures are in place to protect our data against breaches?",,,Information not available,,"Image Not Required
+
+Informational or policy-related content better suited to text",
+84,Pricing Model,"What is the pricing structure for implementing Revola's AI engagement platform, and are there any additional costs associated with data security measures?",,,Information not available,,,
+85,Case Studies,"Can you provide examples of how other companies have successfully used Reva for intelligent ABM outreach, particularly in the context of limited resources?",,,Information not available,,,
+86,Case Studies,"How stable is Revola as a company, and what is its reputation in the market regarding reliability and service quality?",,,Information not available,,,
+87,Case Studies,"What is Revola’s reputation in the market regarding reliability and customer success, specifically in the healthcare SaaS industry?",,,Information not available,,,
+88,Case Studies,Can you provide examples of how other companies have successfully implemented Revola to overcome similar pain points?,,,Information not available,,,
+89,Case Studies,"What is Revola's reputation in the market, and can you share any customer testimonials or case studies?",,,Information not available,,,
+90,Case Studies,"How stable is Revola as a company, and what is its reputation in the market?",,,Information not available,,,
+91,Case Studies,"What is the reputation of Revola in the healthcare SaaS market, and can you provide references from similar companies that have successfully used your platform?",,,Information not available,,,
+92,Case Studies,"Can you provide examples of successful campaigns that have utilized Revola for high-value customer identification, and what metrics were used to gauge their success?",,,Information not available,,,
+93,Case Studies,"Can you provide examples of how companies have scaled their customer engagement using Revola, specifically in the healthcare SaaS space?",,,Information not available,,,
+94,Case Studies,"Can you share information about Revola's company stability, reputation in the industry, and any notable partnerships that reinforce its market position?",,,Information not available,,,
+95,Case Studies,Can Revola provide case studies showcasing how Reva enhanced compliance and data security for existing clients?,,,Information not available,,,
+96,Geographical Limitations,"In which regions or locations is Revola available, and are there any limitations we should be aware of?",,,Information not available,,,
