@@ -7,6 +7,7 @@ import mimetypes
 import json
 import uuid
 import hashlib
+import argparse
 
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
@@ -20,11 +21,20 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+parser = argparse.ArgumentParser(
+    description="parser for image ingenstion to pinecone",
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+)
+parser.add_argument("company", help="Company to handle")
+args = parser.parse_args()
+config = vars(args)
+company = config["company"].lower()
+
 # --- Constants ---
-CSV_FILE_PATH = "data/cirrascale/cirrascale_qa.csv"
-IMAGE_FOLDER = Path("data/cirrascale/answer_images")
-OUTPUT_FILE = "data/cirrascale/cirrascale_image_captions_output.csv"
-IMAGE_METADATA_JSON_PATH = "data/cirrascale/cirrascale_image_rag_metadata.json"
+CSV_FILE_PATH = f"data/{company}/{company}_qa.csv"
+IMAGE_FOLDER = Path(f"data/{company}/answer_images")
+OUTPUT_FILE = f"data/{company}/{company}_image_captions_output.csv"
+IMAGE_METADATA_JSON_PATH = f"data/{company}/{company}_image_rag_metadata.json"
 IMAGE_COLUMN = "image_link"
 ANSWER_COLUMN = "answer"
 QUESTION_COLUMN = "question"
@@ -34,7 +44,7 @@ OPENAI_MODEL = "gpt-4o"
 
 # Pinecone and Embeddings
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
-PINECONE_INDEX_NAME = "revola-cirrascale"
+PINECONE_INDEX_NAME = f"revola-{company}"
 PINECONE_NAMESPACE = "images"
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 dim = 3072
@@ -348,7 +358,9 @@ def initialize_image_vector_store(captioned_csv_path):
 
         # Text to be embedded (can be caption, summary, or both combined)
         # Let's use the full text for embedding as it was generated together
-        text_for_embedding = full_caption_text
+        original_answer = row.get(ANSWER_COLUMN)
+        original_question = row.get(QUESTION_COLUMN)
+        text_for_embedding = full_caption_text + original_answer
 
         # --- Generate Chunk ID ---
         chunk_id = str(uuid.uuid4())
@@ -373,6 +385,8 @@ def initialize_image_vector_store(captioned_csv_path):
             "original_image_path": str(image_path.resolve()),  # Store absolute path
             "caption_text": caption_part,
             "visual_summary_text": visual_summary_part,
+            "original_question": original_question,
+            "original_answer": original_answer,
         }
 
         # --- Add to list for JSON storage ---
