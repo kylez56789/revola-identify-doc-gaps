@@ -1,324 +1,257 @@
 [
     {
-        "chunk_id": "3074472b-05e9-4179-a535-70d1a58bb2a4",
-        "text": "AI Innovation Cloud offers a unified platform for testing, training, and deploying AI workloads on high-performance accelerators, simplifying processes without juggling multiple providers.;The image features a dark background with text in light green font. At the top, there's a cloud icon with a microchip symbol inside it. Below, the following phrases are listed vertically: \"High-performance platform,\" \"Built for AI workloads,\" \"Test. Train. Deploy,\" \"All leading accelerators,\" and \"Unified cloud.\"",
+        "chunk_id": "61eb406b-8476-4454-b7e6-eba738e9ffd2",
+        "text": "Cirrascale is dedicated to providing high-performance, cloud-based infrastructure solutions tailored for advancing AI innovation. Their platform supports users in developing, training, and running inference workloads efficiently, aiming to remove bottlenecks and accelerate AI project timelines. The company emphasizes maximizing computational performance for both new and established AI initiatives. Their expertise covers every stage from initial AI model creation to operational deployment and scaling. ; The image consists of four illustrated white chalk-style icons on a dark background, divided into quadrants under the heading \"AI Infrastructure.\" In the top left is a speedometer labeled \"High Performance,\" the top right has a laptop with a lightbulb labeled \"AI Innovation,\" the bottom left shows a rocket labeled \"Develop & Train,\" and the bottom right depicts two simple building icons labeled \"Run Inference.\"Great question! Cirrascale specializes in high-performance, cloud-based infrastructure built for AI innovation. Whether you're developing, training, or running inference workloads, our platform is designed to maximize performance, reduce bottlenecks, and accelerate time-to-market for AI projects.",
         "metadata": {
-            "chunk_id": "3074472b-05e9-4179-a535-70d1a58bb2a4",
-            "image_filename_id": "Product Feature - Innovation Cloud.png",
-            "image_content_hash": "1dc0854a9f687b87d749db3d630fb4d23aefbc678a59fcfdd1a5e7dacf328247",
+            "chunk_id": "61eb406b-8476-4454-b7e6-eba738e9ffd2",
+            "image_filename_id": "AI Infrastructure.png",
+            "image_content_hash": "dec010b34102f9bc14b4486bf11afdac1281274403f4f0709854668065d2520c",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Feature - Innovation Cloud.png",
-            "caption_text": "AI Innovation Cloud offers a unified platform for testing, training, and deploying AI workloads on high-performance accelerators, simplifying processes without juggling multiple providers.",
-            "visual_summary_text": "The image features a dark background with text in light green font. At the top, there's a cloud icon with a microchip symbol inside it. Below, the following phrases are listed vertically: \"High-performance platform,\" \"Built for AI workloads,\" \"Test. Train. Deploy,\" \"All leading accelerators,\" and \"Unified cloud.\""
+            "caption_text": "Cirrascale is dedicated to providing high-performance, cloud-based infrastructure solutions tailored for advancing AI innovation. Their platform supports users in developing, training, and running inference workloads efficiently, aiming to remove bottlenecks and accelerate AI project timelines. The company emphasizes maximizing computational performance for both new and established AI initiatives. Their expertise covers every stage from initial AI model creation to operational deployment and scaling.",
+            "visual_summary_text": "The image consists of four illustrated white chalk-style icons on a dark background, divided into quadrants under the heading \"AI Infrastructure.\" In the top left is a speedometer labeled \"High Performance,\" the top right has a laptop with a lightbulb labeled \"AI Innovation,\" the bottom left shows a rocket labeled \"Develop & Train,\" and the bottom right depicts two simple building icons labeled \"Run Inference.\"",
+            "original_question": "What does Cirrascale specialize in?",
+            "original_answer": "Great question! Cirrascale specializes in high-performance, cloud-based infrastructure built for AI innovation. Whether you're developing, training, or running inference workloads, our platform is designed to maximize performance, reduce bottlenecks, and accelerate time-to-market for AI projects."
         }
     },
     {
-        "chunk_id": "24f9633d-8124-489e-a3ac-a11616936554",
-        "text": "GPTs are AI hardware options provided by Cirrascale including NVIDIA A100 and H100 GPUs, AMD Instinct accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra.;The image features a dark background with two sections. The top section shows an icon of a GPU followed by the text \"GPUs\" with bullet points listing \"NVIDIA A100,\" \"NVIDIA H100,\" and \"AMD Instinct.\" Below, there is a rocket icon next to the word \"Accelerators,\" listing \"Cerebras CS-2 clusters\" and \"Qualcomm Cloud AI 100 Ultra.\"",
+        "chunk_id": "fced3efd-2879-4496-a706-98e95c390dae",
+        "text": "Cirrascale’s AI cloud stands out because it’s the only platform letting users test and deploy across every major AI accelerator, such as AMD Instinct, NVIDIA, and Cerebras, all in one place. This unique flexibility and breadth of support empower innovators with superior performance and a wide array of choices for their AI workloads. The image highlights these differentiators by emphasizing the ability to test/deploy, access every accelerator, use an all-in-one system, and prioritize user choice. It all reinforces the cloud’s core value of flexibility and unparalleled selection. ; The image is split into four quadrants, each containing a simple white icon and label on a dark teal background. The top left shows a rocket labeled “Test & Deploy,” the top right shows a GPU icon labeled “Every Accelerator,” the bottom left has a cloud with server racks labeled “All-In-One,” and the bottom right displays a checkmark inside a circle labeled “Choice.” At the top, the heading reads “AI CLOUD DIFFERENTIATORS” in large, hand-drawn text.What sets us apart is that the Cirrascale AI Innovation Cloud is the only cloud service where you can test and deploy across every leading AI accelerator—all in one place. That includes support for AMD Instinct, NVIDIA, Cerebras, and more. It’s all about flexibility, performance, and choice.",
         "metadata": {
-            "chunk_id": "24f9633d-8124-489e-a3ac-a11616936554",
-            "image_filename_id": "Product Feature - Hardware.png",
-            "image_content_hash": "c0fdf91d9599b108d641805b0c5c7446552326e4020898328fab0ef8f93c1b23",
+            "chunk_id": "fced3efd-2879-4496-a706-98e95c390dae",
+            "image_filename_id": "Differentiation.png",
+            "image_content_hash": "16a87a62199946a8aea03b5cd3b3937564966d28da55fb29c2226cc557ff9975",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Feature - Hardware.png",
-            "caption_text": "GPTs are AI hardware options provided by Cirrascale including NVIDIA A100 and H100 GPUs, AMD Instinct accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra.",
-            "visual_summary_text": "The image features a dark background with two sections. The top section shows an icon of a GPU followed by the text \"GPUs\" with bullet points listing \"NVIDIA A100,\" \"NVIDIA H100,\" and \"AMD Instinct.\" Below, there is a rocket icon next to the word \"Accelerators,\" listing \"Cerebras CS-2 clusters\" and \"Qualcomm Cloud AI 100 Ultra.\""
+            "caption_text": "Cirrascale’s AI cloud stands out because it’s the only platform letting users test and deploy across every major AI accelerator, such as AMD Instinct, NVIDIA, and Cerebras, all in one place. This unique flexibility and breadth of support empower innovators with superior performance and a wide array of choices for their AI workloads. The image highlights these differentiators by emphasizing the ability to test/deploy, access every accelerator, use an all-in-one system, and prioritize user choice. It all reinforces the cloud’s core value of flexibility and unparalleled selection.",
+            "visual_summary_text": "The image is split into four quadrants, each containing a simple white icon and label on a dark teal background. The top left shows a rocket labeled “Test & Deploy,” the top right shows a GPU icon labeled “Every Accelerator,” the bottom left has a cloud with server racks labeled “All-In-One,” and the bottom right displays a checkmark inside a circle labeled “Choice.” At the top, the heading reads “AI CLOUD DIFFERENTIATORS” in large, hand-drawn text.",
+            "original_question": "What makes Cirrascale’s AI cloud different from others?",
+            "original_answer": "What sets us apart is that the Cirrascale AI Innovation Cloud is the only cloud service where you can test and deploy across every leading AI accelerator—all in one place. That includes support for AMD Instinct, NVIDIA, Cerebras, and more. It’s all about flexibility, performance, and choice."
         }
     },
     {
-        "chunk_id": "410228f2-38b9-41bb-abe3-40a445ffc139",
-        "text": "Cirrascale offers dedicated performance with no virtualization, unlike AWS or Azure, providing speed and reliability for AI teams.;The image features a dark background with a white server icon at the top. Below the icon are bold teal words \"Bare-Metal Infrastructure\" and two bullet points with checkmarks next to \"No Virtualization\" and \"No Noisy Neighbors.\" At the bottom, it says \"Dedicated AI Performance\" in teal.",
+        "chunk_id": "8a09d510-6476-4967-860e-8eeafa5dfa3b",
+        "text": "Cirrascale can significantly boost your AI workflow by providing custom multi-GPU server and storage solutions that enhance efficiency and minimize technical roadblocks. This leads to smoother operations and allows you to bring your AI models to market faster. The image highlights the key benefits of Cirrascale’s offerings, emphasizing multi-GPU support, storage, improved efficiency, and speedier delivery. These components work together to ensure a seamless and optimized AI development pipeline.; The image features a dark teal background with the large header “OPTIMIZE YOUR AI WORKFLOW” at the top. Below, four white hand-drawn icons are arranged in a 2x2 grid: a pair of stacked server boxes labeled “Multi-GPU Servers,” a cylindrical database icon labeled “Storage Solutions,” a cogwheel labeled “Improved Efficiency,” and a simple rocket icon labeled “Faster Delivery.” The text for each label is handwritten and placed beneath the corresponding icon.Cirrascale helps you streamline your AI operations with tailored multi-GPU server and storage solutions. That means you get improved workflow efficiency, fewer technical bottlenecks, and faster delivery of your AI models to market.",
         "metadata": {
-            "chunk_id": "410228f2-38b9-41bb-abe3-40a445ffc139",
-            "image_filename_id": "Product Differentiator.png",
-            "image_content_hash": "fcfb7feb09a7d32a9ed235716e19864cba9def2a4202d872220da5af3a096b76",
+            "chunk_id": "8a09d510-6476-4967-860e-8eeafa5dfa3b",
+            "image_filename_id": "Optimize AI Workflows.png",
+            "image_content_hash": "d7871e374abc2d36b6834bbb1053b0bb55843904cd452030de584802077d2196",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Differentiator.png",
-            "caption_text": "Cirrascale offers dedicated performance with no virtualization, unlike AWS or Azure, providing speed and reliability for AI teams.",
-            "visual_summary_text": "The image features a dark background with a white server icon at the top. Below the icon are bold teal words \"Bare-Metal Infrastructure\" and two bullet points with checkmarks next to \"No Virtualization\" and \"No Noisy Neighbors.\" At the bottom, it says \"Dedicated AI Performance\" in teal."
+            "caption_text": "Cirrascale can significantly boost your AI workflow by providing custom multi-GPU server and storage solutions that enhance efficiency and minimize technical roadblocks. This leads to smoother operations and allows you to bring your AI models to market faster. The image highlights the key benefits of Cirrascale’s offerings, emphasizing multi-GPU support, storage, improved efficiency, and speedier delivery. These components work together to ensure a seamless and optimized AI development pipeline.",
+            "visual_summary_text": "The image features a dark teal background with the large header “OPTIMIZE YOUR AI WORKFLOW” at the top. Below, four white hand-drawn icons are arranged in a 2x2 grid: a pair of stacked server boxes labeled “Multi-GPU Servers,” a cylindrical database icon labeled “Storage Solutions,” a cogwheel labeled “Improved Efficiency,” and a simple rocket icon labeled “Faster Delivery.” The text for each label is handwritten and placed beneath the corresponding icon.",
+            "original_question": "How can Cirrascale help me optimize my AI workflow?",
+            "original_answer": "Cirrascale helps you streamline your AI operations with tailored multi-GPU server and storage solutions. That means you get improved workflow efficiency, fewer technical bottlenecks, and faster delivery of your AI models to market."
         }
     },
     {
-        "chunk_id": "f7bf092d-33e5-439b-bb86-0e9aeed911c8",
-        "text": "You can get started quickly with professional support and a customized environment; The image features a white calendar icon with a clock overlay on a dark teal background. Below the icon are the words \"Onboarding in days\", \"Tailored Environment\", and \"Engineering Support\" in light teal text.",
+        "chunk_id": "30297932-1461-4d77-a75c-80e7f52a4e48",
+        "text": "You can expect high performance with high throughput, low-latency networking, and infrastructure specifically optimized for demanding AI workloads. This setup supports both running large models and enabling real-time inference, ensuring speed and scalability for your applications. The visual conveys how the system is designed to handle intensive AI tasks efficiently, providing reliable and rapid processing. The overall message is that the infrastructure is built to deliver top-tier speed and responsiveness for modern AI needs.; The image has a dark green chalkboard-like background with white, hand-drawn style graphics and text. At the top, large capital letters spell \"EXPECTED PERFORMANCE.\" Four distinct sections are arranged in a 2x2 grid: the top left has a circle with an upward arrow labeled \"High Throughput,\" the top right displays a triangle of three connected circles labeled \"Low-Latency Networking,\" the bottom left shows a simple server rack icon labeled \"AI-Tuned Infrastructure,\" and the bottom right features a speedometer illustration labeled \"Real-Time Inference.\" Each element is sketched in white, matching the uniform, informal chalkboard aesthetic.You can expect high throughput, low-latency networking, and infrastructure tuned for today’s most demanding AI workloads. Whether you're running large models or real-time inference, we’re built for speed and scale.",
         "metadata": {
-            "chunk_id": "f7bf092d-33e5-439b-bb86-0e9aeed911c8",
-            "image_filename_id": "Onboarding.png",
-            "image_content_hash": "e1b01dec030c2a1a8572a79edbd7b25a1a2ea525502cfbd8889371048a3be20d",
+            "chunk_id": "30297932-1461-4d77-a75c-80e7f52a4e48",
+            "image_filename_id": "Expected Performance.png",
+            "image_content_hash": "0b26c3f5b9007aec3abf34a3a9b8c677e68d2168973951b7c3cec795982e92b4",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Onboarding.png",
-            "caption_text": "You can get started quickly with professional support and a customized environment",
-            "visual_summary_text": "The image features a white calendar icon with a clock overlay on a dark teal background. Below the icon are the words \"Onboarding in days\", \"Tailored Environment\", and \"Engineering Support\" in light teal text."
+            "caption_text": "You can expect high performance with high throughput, low-latency networking, and infrastructure specifically optimized for demanding AI workloads. This setup supports both running large models and enabling real-time inference, ensuring speed and scalability for your applications. The visual conveys how the system is designed to handle intensive AI tasks efficiently, providing reliable and rapid processing. The overall message is that the infrastructure is built to deliver top-tier speed and responsiveness for modern AI needs.",
+            "visual_summary_text": "The image has a dark green chalkboard-like background with white, hand-drawn style graphics and text. At the top, large capital letters spell \"EXPECTED PERFORMANCE.\" Four distinct sections are arranged in a 2x2 grid: the top left has a circle with an upward arrow labeled \"High Throughput,\" the top right displays a triangle of three connected circles labeled \"Low-Latency Networking,\" the bottom left shows a simple server rack icon labeled \"AI-Tuned Infrastructure,\" and the bottom right features a speedometer illustration labeled \"Real-Time Inference.\" Each element is sketched in white, matching the uniform, informal chalkboard aesthetic.",
+            "original_question": "What kind of performance should I expect?",
+            "original_answer": "You can expect high throughput, low-latency networking, and infrastructure tuned for today’s most demanding AI workloads. Whether you're running large models or real-time inference, we’re built for speed and scale."
         }
     },
     {
-        "chunk_id": "d28c10b6-6dec-4481-8ff2-f3c320053674",
-        "text": "Cirrascale offers predictable, flat-rate pricing with no hidden fees for its AI infrastructure services.;The image features a light blue icon of a document with a dollar sign on a dark background, followed by four lines of bold, light blue text stating: \"Flat-Rate Billing,\" \"No Ingress/Egress Fees,\" \"Flexible Scaling,\" and \"Fast Tiered Storage.\"",
+        "chunk_id": "d921df82-6423-43e7-bb11-f905796621e3",
+        "text": "The Cirrascale AI Innovation Cloud is a flexible cloud platform that supports testing and deploying on all leading AI accelerators in one place, including AMD Instinct Series, Cerebras, NVIDIA GPU, and Qualcomm Cloud AI. It stands out by providing access to diverse hardware for AI innovation, making it the only cloud service with such comprehensive support. This enables organizations to tailor their AI workflows according to their specific needs and seamlessly scale their solutions. The service is designed for rapid experimentation and deployment, supporting modern AI workloads.\n\nThe image has a chalkboard-like dark green background with the title \"AI INNOVATION CLOUD\" at the top in large, white, hand-written font. Below the title, the slide is divided into four quadrants, each featuring a large icon with text. The top left shows a microchip icon labeled \"AMD Instinct Series.\" The top right displays a circular dot-pattern icon labeled \"Cerebras.\" The bottom left presents the NVIDIA \"eye\" logo with \"NVIDIA GPU\" underneath. The bottom right shows a cloud outline with \"AI\" inside and text reading \"Qualcomm Cloud AI.\"; N/A\"The Cirrascale AI Innovation Cloud is a comprehensive cloud solution designed to scale with your needs. It's the only cloud service where you can test and deploy on every leading AI accelerator in one cloud, including AMD Instinct Series, Cerebras, NVIDIA GPU, and Qualcomm Cloud AI.\"",
         "metadata": {
-            "chunk_id": "d28c10b6-6dec-4481-8ff2-f3c320053674",
-            "image_filename_id": "Pricing.png",
-            "image_content_hash": "714f5fc1a274db19fca84d23fdf09aa014e7ba54021c59deb26ab07bbf8d6b94",
+            "chunk_id": "d921df82-6423-43e7-bb11-f905796621e3",
+            "image_filename_id": "AI Innovation Cloud.png",
+            "image_content_hash": "01fc79287413e5b392b6b930cce0f51dc630fd9362eaae901f7046264f0e45ec",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Pricing.png",
-            "caption_text": "Cirrascale offers predictable, flat-rate pricing with no hidden fees for its AI infrastructure services.",
-            "visual_summary_text": "The image features a light blue icon of a document with a dollar sign on a dark background, followed by four lines of bold, light blue text stating: \"Flat-Rate Billing,\" \"No Ingress/Egress Fees,\" \"Flexible Scaling,\" and \"Fast Tiered Storage.\""
+            "caption_text": "The Cirrascale AI Innovation Cloud is a flexible cloud platform that supports testing and deploying on all leading AI accelerators in one place, including AMD Instinct Series, Cerebras, NVIDIA GPU, and Qualcomm Cloud AI. It stands out by providing access to diverse hardware for AI innovation, making it the only cloud service with such comprehensive support. This enables organizations to tailor their AI workflows according to their specific needs and seamlessly scale their solutions. The service is designed for rapid experimentation and deployment, supporting modern AI workloads.\n\nThe image has a chalkboard-like dark green background with the title \"AI INNOVATION CLOUD\" at the top in large, white, hand-written font. Below the title, the slide is divided into four quadrants, each featuring a large icon with text. The top left shows a microchip icon labeled \"AMD Instinct Series.\" The top right displays a circular dot-pattern icon labeled \"Cerebras.\" The bottom left presents the NVIDIA \"eye\" logo with \"NVIDIA GPU\" underneath. The bottom right shows a cloud outline with \"AI\" inside and text reading \"Qualcomm Cloud AI.\"",
+            "visual_summary_text": "N/A",
+            "original_question": "What is the Cirrascale AI Innovation Cloud?",
+            "original_answer": "\"The Cirrascale AI Innovation Cloud is a comprehensive cloud solution designed to scale with your needs. It's the only cloud service where you can test and deploy on every leading AI accelerator in one cloud, including AMD Instinct Series, Cerebras, NVIDIA GPU, and Qualcomm Cloud AI.\""
         }
     },
     {
-        "chunk_id": "0d64fac7-b43d-4def-a417-5f5890afa206",
-        "text": "Cirrascale provides fully managed services with no need for DevOps, letting clients focus on AI models while ensuring maximum uptime; The image features a dark background with a white cloud icon containing two server symbols. Below, three lines of text in light turquoise read \"We manage everything,\" \"Zero DevOps work,\" and \"Maximize uptime.\"",
+        "chunk_id": "718819b6-5cec-471c-a708-95ee5ef84e24",
+        "text": "Cirrascale offers industry-specific solutions designed to meet the diverse needs of sectors such as Generative AI, Autonomous & Robotics, Computer Vision, High Performance Computing, and Audio Processing. Each solution is optimized to address unique technological requirements and workflows in these fields. This ensures organizations can leverage advanced computing capabilities tailored to their industry challenges. The slide highlights these five areas as the main focus of Cirrascale's offerings.; The image features a dark background with five white outlined icons arranged around the text \"INDUSTRY SOLUTIONS OFFERED\" at the top. Below, there are icons for a robot face labeled \"Generative AI,\" a car labeled \"Autonomous & Robotics,\" an eye labeled \"Computer Vision,\" a desktop monitor labeled \"High Performance,\" and a pair of headphones labeled \"Audio Processing.\" Each icon is accompanied by its respective industry solution label in a rounded sans-serif font.\"Cirrascale provides tailored solutions for various industries, including Generative AI, Autonomous & Robotics, Computer Vision, High Performance Computing, and Audio Processing. Each solution is optimized to meet the specific demands of these fields.\"",
         "metadata": {
-            "chunk_id": "0d64fac7-b43d-4def-a417-5f5890afa206",
-            "image_filename_id": "Infrastructure.png",
-            "image_content_hash": "6fa2202ec4d50d07fb1c3095beb410bf0b233a6bf134ad2cc00dbc90c10e7f26",
+            "chunk_id": "718819b6-5cec-471c-a708-95ee5ef84e24",
+            "image_filename_id": "Industry Solutions.png",
+            "image_content_hash": "c3421f47003f7b53d8949966f72f444e2a03a849bf8cabd97ffc5c0e38cbffa3",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Infrastructure.png",
-            "caption_text": "Cirrascale provides fully managed services with no need for DevOps, letting clients focus on AI models while ensuring maximum uptime",
-            "visual_summary_text": "The image features a dark background with a white cloud icon containing two server symbols. Below, three lines of text in light turquoise read \"We manage everything,\" \"Zero DevOps work,\" and \"Maximize uptime.\""
+            "caption_text": "Cirrascale offers industry-specific solutions designed to meet the diverse needs of sectors such as Generative AI, Autonomous & Robotics, Computer Vision, High Performance Computing, and Audio Processing. Each solution is optimized to address unique technological requirements and workflows in these fields. This ensures organizations can leverage advanced computing capabilities tailored to their industry challenges. The slide highlights these five areas as the main focus of Cirrascale's offerings.",
+            "visual_summary_text": "The image features a dark background with five white outlined icons arranged around the text \"INDUSTRY SOLUTIONS OFFERED\" at the top. Below, there are icons for a robot face labeled \"Generative AI,\" a car labeled \"Autonomous & Robotics,\" an eye labeled \"Computer Vision,\" a desktop monitor labeled \"High Performance,\" and a pair of headphones labeled \"Audio Processing.\" Each icon is accompanied by its respective industry solution label in a rounded sans-serif font.",
+            "original_question": "What industry solutions does Cirrascale offer?",
+            "original_answer": "\"Cirrascale provides tailored solutions for various industries, including Generative AI, Autonomous & Robotics, Computer Vision, High Performance Computing, and Audio Processing. Each solution is optimized to meet the specific demands of these fields.\""
         }
     },
     {
-        "chunk_id": "78d823bf-bcb0-42b6-8335-411fba98af56",
-        "text": "\"Scale easily: Ramp resources up or down, quickly adapt to needs.\" ; The image features a dark background with a turquoise-colored upward arrow next to three ascending bars. The text \"Scale easily\" is prominently displayed in white above the phrase \"Ramp resources up or down\" and \"Quickly adapt to needs\" beneath it, all aligned to the center.",
+        "chunk_id": "f75b5247-c50d-4459-b880-9e08843d9fea",
+        "text": "The Qualcomm Inference Cloud simplifies AI deployment with the AI Inference Suite, enabling effortless integration and management of advanced AI models. Users can easily deploy, swap, or add models for tasks like generative AI, computer vision, and natural language processing. This versatility gives developers flexibility to customize applications using popular frameworks. The platform is designed for seamless, one-click deployment, ensuring a user-friendly experience; \nThe image is a dark background slide with the heading \"QUALCOMM INFERENCE CLOUD\" at the top. It features four hand-drawn-style icons arranged in a 2x2 grid: a lightning bolt (top left) labeled \"One-Click Deployment,\" a circular arrow (top right) labeled \"Swap/Add Models,\" a stylized brain (bottom left) labeled \"Generative AI,\" and a speech bubble with three dots (bottom right) labeled \"Language Processing.\" Each icon is paired with its descriptive text below or beside it.\"Our Inference Cloud, powered by the Qualcomm AI Inference Suite, offers seamless one-click AI deployment. You can effortlessly swap or add your own models, including generative AI, computer vision, and natural language processing, and build custom applications using popular frameworks.\"",
         "metadata": {
-            "chunk_id": "78d823bf-bcb0-42b6-8335-411fba98af56",
-            "image_filename_id": "Scalability.png",
-            "image_content_hash": "f3b791a57794d8dc4eba1f1b35674ab6a5266240a901df096a53af7af1a13f04",
+            "chunk_id": "f75b5247-c50d-4459-b880-9e08843d9fea",
+            "image_filename_id": "Qualcomm Inference Cloud.png",
+            "image_content_hash": "2b97389a5a407d1eacef453904614ccb2f08c5bf8a04cff39ce2b8a2e64096af",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Scalability.png",
-            "caption_text": "\"Scale easily: Ramp resources up or down, quickly adapt to needs.\"",
-            "visual_summary_text": "The image features a dark background with a turquoise-colored upward arrow next to three ascending bars. The text \"Scale easily\" is prominently displayed in white above the phrase \"Ramp resources up or down\" and \"Quickly adapt to needs\" beneath it, all aligned to the center."
+            "caption_text": "The Qualcomm Inference Cloud simplifies AI deployment with the AI Inference Suite, enabling effortless integration and management of advanced AI models. Users can easily deploy, swap, or add models for tasks like generative AI, computer vision, and natural language processing. This versatility gives developers flexibility to customize applications using popular frameworks. The platform is designed for seamless, one-click deployment, ensuring a user-friendly experience",
+            "visual_summary_text": "The image is a dark background slide with the heading \"QUALCOMM INFERENCE CLOUD\" at the top. It features four hand-drawn-style icons arranged in a 2x2 grid: a lightning bolt (top left) labeled \"One-Click Deployment,\" a circular arrow (top right) labeled \"Swap/Add Models,\" a stylized brain (bottom left) labeled \"Generative AI,\" and a speech bubble with three dots (bottom right) labeled \"Language Processing.\" Each icon is paired with its descriptive text below or beside it.",
+            "original_question": "How does the Inference Cloud powered by the Qualcomm AI Inference Suite work?",
+            "original_answer": "\"Our Inference Cloud, powered by the Qualcomm AI Inference Suite, offers seamless one-click AI deployment. You can effortlessly swap or add your own models, including generative AI, computer vision, and natural language processing, and build custom applications using popular frameworks.\""
         }
     },
     {
-        "chunk_id": "0b925221-f930-40d3-883f-a441372f72db",
-        "text": "OpenAI and AI2 are utilizing Cirrascale's infrastructure for AI innovation; The image contains a dark background with the text \"Trusted by pioneers\" at the top. Below, the OpenAI logo is on the left and the AI2 logo with \"Allen Institute for AI\" is below on the right. The phrase \"Pushing the boundaries of AI with Cirrascale\" is centered at the bottom.",
+        "chunk_id": "3c473cbf-3d76-4bd5-a65d-9163287dce93",
+        "text": "The Cirrascale Inference Platform is designed for enterprise-scale deployment of advanced AI, supporting models for language, image, audio, and video processing. It differentiates itself from traditional hyperscalers by ensuring predictable costs, optimized workload balancing, and customized AI solutions for specific business needs. The platform empowers organizations to efficiently deploy generative AI services with the assurance of cost and performance. This enables diverse applications across AI-powered content generation and intelligent media analysis. ; The image features a chalkboard-style graphic with the title \"Inference Platform Power\" at the top. Below are five sections: a brain icon labeled \"Generative AI Models,\" a clapperboard labeled \"Image & Video AI,\" a speaker labeled \"Audio Processing,\" a bar chart labeled \"Predictable Costs,\" and a balanced scale labeled \"Workload Balancing.\" Each section uses simple, line-drawn icons with descriptive text underneath, arranged in two rows.\"The Cirrascale Inference Platform is built to support enterprise-scale deployment of generative AI models like LLMs, image, audio, and video models. It goes beyond traditional hyperscalers by offering predictable costs, smart workload balancing, and tailored AI services to match your unique requirements.\"",
         "metadata": {
-            "chunk_id": "0b925221-f930-40d3-883f-a441372f72db",
-            "image_filename_id": "Existing Customers.png",
-            "image_content_hash": "12badf30e8b0bb228b76c68805ebc56ffaa4b94253b2dad5e8deb833a240493a",
+            "chunk_id": "3c473cbf-3d76-4bd5-a65d-9163287dce93",
+            "image_filename_id": "Inference Platform.png",
+            "image_content_hash": "5b5c761ecf08264416cc924064608277be22ab4911baf899433dd1156278949a",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Existing Customers.png",
-            "caption_text": "OpenAI and AI2 are utilizing Cirrascale's infrastructure for AI innovation",
-            "visual_summary_text": "The image contains a dark background with the text \"Trusted by pioneers\" at the top. Below, the OpenAI logo is on the left and the AI2 logo with \"Allen Institute for AI\" is below on the right. The phrase \"Pushing the boundaries of AI with Cirrascale\" is centered at the bottom."
+            "caption_text": "The Cirrascale Inference Platform is designed for enterprise-scale deployment of advanced AI, supporting models for language, image, audio, and video processing. It differentiates itself from traditional hyperscalers by ensuring predictable costs, optimized workload balancing, and customized AI solutions for specific business needs. The platform empowers organizations to efficiently deploy generative AI services with the assurance of cost and performance. This enables diverse applications across AI-powered content generation and intelligent media analysis.",
+            "visual_summary_text": "The image features a chalkboard-style graphic with the title \"Inference Platform Power\" at the top. Below are five sections: a brain icon labeled \"Generative AI Models,\" a clapperboard labeled \"Image & Video AI,\" a speaker labeled \"Audio Processing,\" a bar chart labeled \"Predictable Costs,\" and a balanced scale labeled \"Workload Balancing.\" Each section uses simple, line-drawn icons with descriptive text underneath, arranged in two rows.",
+            "original_question": "What is the Cirrascale Inference Platform?",
+            "original_answer": "\"The Cirrascale Inference Platform is built to support enterprise-scale deployment of generative AI models like LLMs, image, audio, and video models. It goes beyond traditional hyperscalers by offering predictable costs, smart workload balancing, and tailored AI services to match your unique requirements.\""
         }
     },
     {
-        "chunk_id": "740abca6-d9d0-448e-9eda-5e1d258ea06a",
-        "text": "\"Secure and reliable cloud infrastructure like Cirrascale’s is designed for enterprise use, ensuring speed, security, and reliability.\"; \"The image features a dark background with white text that reads 'Secure & Reliable' at the top. Below, there's an icon of a shield with a checkmark, and text saying 'Enterprise-grade cloud you can trust.' The shield is on the left, and the text is aligned to the right.\"",
+        "chunk_id": "29567454-988d-47bb-a84c-a0bc419850d9",
+        "text": "The platform helps optimize workload performance and cost by selecting the best AI accelerators, balancing workloads across regions, efficiently handling peak loads, and providing both cost efficiency and flexibility for real-time or batch processing. These features ensure consistently high performance while keeping budget concerns in check, making the platform ideal for a variety of application needs. Key benefits include smart resource utilization, automated regional distribution, and dynamic workload adaptation. The focus is on maximizing output without overspending. Optimizing performance is achieved alongside significant cost savings.;\n\nThe image has a dark green background with white, hand-drawn-style icons and text. At the top, it reads \"OPTIMIZE PERFORMANCE & COST.\" Below are five icons arranged in two rows: a GPU icon labeled \"Smart Accelerator Use,\" a globe labeled \"Regional Balancing,\" a stopwatch labeled \"Peak Load Handling,\" a downward graph labeled \"Cost Efficiency,\" and a brain labeled \"Real-Time & Batch.\" The icons and text are evenly spaced, presenting a clear visual summary of ways to optimize performance and cost.\"Great question! Cirrascale intelligently selects the best AI accelerators and dynamically balances workloads across regions to reduce peak-time pressures. This means optimized performance without blowing your budget—perfect for real-time apps or batch jobs.\"",
         "metadata": {
-            "chunk_id": "740abca6-d9d0-448e-9eda-5e1d258ea06a",
-            "image_filename_id": "Reliability.png",
-            "image_content_hash": "9d40247c88b7758aec04e1a5359797cf76b0491a66a49f326c128a4b25709516",
+            "chunk_id": "29567454-988d-47bb-a84c-a0bc419850d9",
+            "image_filename_id": "Optimize Performance & Cost.png",
+            "image_content_hash": "af250285dcb15996be97582d805595022893e0942713160011c93fe1771cce34",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Reliability.png",
-            "caption_text": "\"Secure and reliable cloud infrastructure like Cirrascale’s is designed for enterprise use, ensuring speed, security, and reliability.\"",
-            "visual_summary_text": "\"The image features a dark background with white text that reads 'Secure & Reliable' at the top. Below, there's an icon of a shield with a checkmark, and text saying 'Enterprise-grade cloud you can trust.' The shield is on the left, and the text is aligned to the right.\""
+            "caption_text": "The platform helps optimize workload performance and cost by selecting the best AI accelerators, balancing workloads across regions, efficiently handling peak loads, and providing both cost efficiency and flexibility for real-time or batch processing. These features ensure consistently high performance while keeping budget concerns in check, making the platform ideal for a variety of application needs. Key benefits include smart resource utilization, automated regional distribution, and dynamic workload adaptation. The focus is on maximizing output without overspending. Optimizing performance is achieved alongside significant cost savings.",
+            "visual_summary_text": "The image has a dark green background with white, hand-drawn-style icons and text. At the top, it reads \"OPTIMIZE PERFORMANCE & COST.\" Below are five icons arranged in two rows: a GPU icon labeled \"Smart Accelerator Use,\" a globe labeled \"Regional Balancing,\" a stopwatch labeled \"Peak Load Handling,\" a downward graph labeled \"Cost Efficiency,\" and a brain labeled \"Real-Time & Batch.\" The icons and text are evenly spaced, presenting a clear visual summary of ways to optimize performance and cost.",
+            "original_question": "How does the platform help optimize workload performance and cost?",
+            "original_answer": "\"Great question! Cirrascale intelligently selects the best AI accelerators and dynamically balances workloads across regions to reduce peak-time pressures. This means optimized performance without blowing your budget—perfect for real-time apps or batch jobs.\""
         }
     },
     {
-        "chunk_id": "f129dfec-c14b-46d1-81e0-116440a15377",
-        "text": "Start a Pilot or Get a Quote by connecting with a team member who will guide you through the process.;A dark background features a speech bubble icon with a headset on the left, next to the text \"Start a Pilot or Get a Quote\" in white, with a smaller line below saying \"Let’s connect and discuss your project.\"",
+        "chunk_id": "8d9d7d23-8ffe-4c70-9b1b-27723e12e362",
+        "text": "The AMD Instinct Series provides significant advantages for AI and HPC workloads in Cirrascale’s AI Innovation Cloud, such as large memory capacity, high bandwidth, and robust precision computing capabilities. These GPUs are specially optimized for large language models and generative AI applications, making onboarding seamless with pre-installed ROCm software. Users benefit from improved performance, scalability, and easier deployment when running demanding AI tasks. The solution is designed to accelerate innovation for both development and production environments.; The image features a dark background with “AMD Instinct Benefits” written in large text at the top. Below this, five sketched icons with accompanying captions are displayed in two rows. The first row has a brain with a lightning bolt and the text “Generative AI Ready,” a bar chart with an upward arrow and “High Bandwidth,” and a calculator icon with “Precision Compute.” The second row displays a briefcase with “Large Memory” and a cogwheel labeled “ROCm Preinstalled.” All icons and text are evenly spaced, presented in a simple hand-drawn, chalk-like style.\"The AMD Instinct Series offers large memory density, high bandwidth, and precision capabilities for demanding AI and HPC workloads. It includes pre-installed ROCm software, easy onboarding, and optimized performance for LLMs and Generative AI tasks.\"",
         "metadata": {
-            "chunk_id": "f129dfec-c14b-46d1-81e0-116440a15377",
-            "image_filename_id": "Product Pilot.png",
-            "image_content_hash": "ac6544df420d8866655fcbfb2498ddcf01b28b8f2f84e25a2eaa7c30a6a3200e",
+            "chunk_id": "8d9d7d23-8ffe-4c70-9b1b-27723e12e362",
+            "image_filename_id": "AMD Instinct Benefits.png",
+            "image_content_hash": "96c1fedc7dbd38eb3049011b7a117b015d90b4e6ebb24866315ec60729c9081a",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Product Pilot.png",
-            "caption_text": "Start a Pilot or Get a Quote by connecting with a team member who will guide you through the process.",
-            "visual_summary_text": "A dark background features a speech bubble icon with a headset on the left, next to the text \"Start a Pilot or Get a Quote\" in white, with a smaller line below saying \"Let’s connect and discuss your project.\""
+            "caption_text": "The AMD Instinct Series provides significant advantages for AI and HPC workloads in Cirrascale’s AI Innovation Cloud, such as large memory capacity, high bandwidth, and robust precision computing capabilities. These GPUs are specially optimized for large language models and generative AI applications, making onboarding seamless with pre-installed ROCm software. Users benefit from improved performance, scalability, and easier deployment when running demanding AI tasks. The solution is designed to accelerate innovation for both development and production environments.",
+            "visual_summary_text": "The image features a dark background with “AMD Instinct Benefits” written in large text at the top. Below this, five sketched icons with accompanying captions are displayed in two rows. The first row has a brain with a lightning bolt and the text “Generative AI Ready,” a bar chart with an upward arrow and “High Bandwidth,” and a calculator icon with “Precision Compute.” The second row displays a briefcase with “Large Memory” and a cogwheel labeled “ROCm Preinstalled.” All icons and text are evenly spaced, presented in a simple hand-drawn, chalk-like style.",
+            "original_question": "What are the benefits of using AMD Instinct Series in Cirrascale’s AI Innovation Cloud?",
+            "original_answer": "\"The AMD Instinct Series offers large memory density, high bandwidth, and precision capabilities for demanding AI and HPC workloads. It includes pre-installed ROCm software, easy onboarding, and optimized performance for LLMs and Generative AI tasks.\""
         }
     },
     {
-        "chunk_id": "e1903108-4190-4f8f-ad74-2cc0c3a4777e",
-        "text": "Cirrascale's AMD Instinct™ Series Cloud offers high-performance accelerators with exceptional compute capabilities ideal for AI and HPC workloads.;The image displays \"AMD Instinct™ Series Cloud\" at the top, followed by three icons and descriptions: a speedometer labeled \"High performance,\" stacked servers labeled \"High memory density,\" a brain with a light bulb labeled \"Broad precision support,\" and below these, the words \"AMD ROCm software\" with a simple rectangular icon.",
+        "chunk_id": "da9c22fa-4ba9-4eee-b6b2-17e3a39a82a8",
+        "text": "Cerebras AI Model Studio stands out from traditional cloud solutions by offering user-friendly simplicity, massive AI core resources, reliable performance, and eliminating the difficulties of distributed computing. It allows for efficient and cost-effective model training up to 175 billion parameters, with costs kept predictable through fixed pricing. The platform is designed to make enterprise AI training accessible and straightforward, removing several common pain points in model development. These differentiators are intended to provide clear advantages over standard cloud-based offerings.; The image displays a dark background with the title \"Cerebras Model Studio\" at the top. Below the title, five white icons with corresponding text are arranged in a grid: a computer mouse labeled \"Push-Button Simplicity,\" a brain labeled \"Millions of AI Cores,\" a stopwatch labeled \"Predictable Performance,\" a crossed-out X labeled \"No Distribution Issues,\" and stacked coins with a dollar sign labeled \"Fixed-Price Training.\" The overall design is minimalistic and uses consistent, hand-drawn style graphics.\"The Cerebras AI Model Studio hosted by Cirrascale provides push-button simplicity, millions of AI cores, predictable performance, and no distributed computing headaches. It’s designed for fast, cost-effective training of models up to 175B parameters, all at a fixed price.\"",
         "metadata": {
-            "chunk_id": "e1903108-4190-4f8f-ad74-2cc0c3a4777e",
-            "image_filename_id": "AMD Series Features.png",
-            "image_content_hash": "772563ab41acb3ca2feb98a78472eed82628d869850c4eda8c2d9ef9c99d38ae",
+            "chunk_id": "da9c22fa-4ba9-4eee-b6b2-17e3a39a82a8",
+            "image_filename_id": "Cerebras Model Studio.png",
+            "image_content_hash": "77fb201fed938762f298d81e5e819140eb45595df0489c52fb6a272f215abccd",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/AMD Series Features.png",
-            "caption_text": "Cirrascale's AMD Instinct™ Series Cloud offers high-performance accelerators with exceptional compute capabilities ideal for AI and HPC workloads.",
-            "visual_summary_text": "The image displays \"AMD Instinct™ Series Cloud\" at the top, followed by three icons and descriptions: a speedometer labeled \"High performance,\" stacked servers labeled \"High memory density,\" a brain with a light bulb labeled \"Broad precision support,\" and below these, the words \"AMD ROCm software\" with a simple rectangular icon."
+            "caption_text": "Cerebras AI Model Studio stands out from traditional cloud solutions by offering user-friendly simplicity, massive AI core resources, reliable performance, and eliminating the difficulties of distributed computing. It allows for efficient and cost-effective model training up to 175 billion parameters, with costs kept predictable through fixed pricing. The platform is designed to make enterprise AI training accessible and straightforward, removing several common pain points in model development. These differentiators are intended to provide clear advantages over standard cloud-based offerings.",
+            "visual_summary_text": "The image displays a dark background with the title \"Cerebras Model Studio\" at the top. Below the title, five white icons with corresponding text are arranged in a grid: a computer mouse labeled \"Push-Button Simplicity,\" a brain labeled \"Millions of AI Cores,\" a stopwatch labeled \"Predictable Performance,\" a crossed-out X labeled \"No Distribution Issues,\" and stacked coins with a dollar sign labeled \"Fixed-Price Training.\" The overall design is minimalistic and uses consistent, hand-drawn style graphics.",
+            "original_question": "What makes Cerebras AI Model Studio different from traditional cloud solutions?",
+            "original_answer": "\"The Cerebras AI Model Studio hosted by Cirrascale provides push-button simplicity, millions of AI cores, predictable performance, and no distributed computing headaches. It’s designed for fast, cost-effective training of models up to 175B parameters, all at a fixed price.\""
         }
     },
     {
-        "chunk_id": "913d64c7-6222-42d3-aeab-5220736f60c9",
-        "text": "Cirrascale's Cloud offers clear, fixed pricing for AMD Instinct™ Series with no hidden fees, providing options for monthly, 6 months, or annual payments.;The image displays a dark-themed price chart for Cirrascale, featuring a header with a dollar sign icon and the text \"Flat-Rate Pricing, No Hidden Fees\" followed by \"Consistent monthly and long-term options\". Below is a table with three columns labeled \"Monthly\", \"6 Months\", and \"Annually\", and two rows indicating pricing information for \"8x AMD Instinct MI300X\" and \"4x AMD Instinct MI250\".",
+        "chunk_id": "37509f84-39b6-48f4-bf33-416bab83cc88",
+        "text": "Cirrascale provides comprehensive infrastructure support tailored for generative AI workloads, enabling seamless processes from pre-training and model tuning, through to real-time inference. Their platform covers a range of needs including large language models (LLMs), image generation, code creation, and retrieval-augmented generation (RAG) enhancements. This ensures production-readiness and flexibility for various generative AI applications, empowering users to build, refine, and deploy advanced models efficiently. Cirrascale’s infrastructure is designed to meet the demands of modern AI, whether for development, tuning, or robust deployment.\n\nThe image is a dark chalkboard-like layout with “GENERATIVE AI SUPPORT” in large white letters at the top. Below, five labeled icons are arranged in a 2x3 grid. The top row: a wrench and gear labeled \"Pre-Training & Tuning,\" a brain and image labeled \"LLMs & Image Models,\" and a monitor with code brackets labeled \"Code Generation.\" The bottom row: an open book labeled \"RAG Enhancements,\" and a rocket ship labeled \"Real-Time Inference.\" All icons and text are in a white, hand-drawn style.; N/A\"Cirrascale offers a purpose-built infrastructure for Generative AI—covering pre-training, training, and real-time inference. Whether you’re building with LLMs, generating images or code, or enhancing models with RAG or tuning, our platform is designed for production-readiness at every step.\"",
         "metadata": {
-            "chunk_id": "913d64c7-6222-42d3-aeab-5220736f60c9",
-            "image_filename_id": "AMD Series Pricing.png",
-            "image_content_hash": "eaedddce6e49ae20270231755204b8a2850de8bedd3f733abfee6591b5d2c848",
+            "chunk_id": "37509f84-39b6-48f4-bf33-416bab83cc88",
+            "image_filename_id": "Generative AI Support.png",
+            "image_content_hash": "1d06f1e99bffc52f828fec351cc6f8d9af3720bae2b21a8fd77ef25e77b26089",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/AMD Series Pricing.png",
-            "caption_text": "Cirrascale's Cloud offers clear, fixed pricing for AMD Instinct™ Series with no hidden fees, providing options for monthly, 6 months, or annual payments.",
-            "visual_summary_text": "The image displays a dark-themed price chart for Cirrascale, featuring a header with a dollar sign icon and the text \"Flat-Rate Pricing, No Hidden Fees\" followed by \"Consistent monthly and long-term options\". Below is a table with three columns labeled \"Monthly\", \"6 Months\", and \"Annually\", and two rows indicating pricing information for \"8x AMD Instinct MI300X\" and \"4x AMD Instinct MI250\"."
+            "caption_text": "Cirrascale provides comprehensive infrastructure support tailored for generative AI workloads, enabling seamless processes from pre-training and model tuning, through to real-time inference. Their platform covers a range of needs including large language models (LLMs), image generation, code creation, and retrieval-augmented generation (RAG) enhancements. This ensures production-readiness and flexibility for various generative AI applications, empowering users to build, refine, and deploy advanced models efficiently. Cirrascale’s infrastructure is designed to meet the demands of modern AI, whether for development, tuning, or robust deployment.\n\nThe image is a dark chalkboard-like layout with “GENERATIVE AI SUPPORT” in large white letters at the top. Below, five labeled icons are arranged in a 2x3 grid. The top row: a wrench and gear labeled \"Pre-Training & Tuning,\" a brain and image labeled \"LLMs & Image Models,\" and a monitor with code brackets labeled \"Code Generation.\" The bottom row: an open book labeled \"RAG Enhancements,\" and a rocket ship labeled \"Real-Time Inference.\" All icons and text are in a white, hand-drawn style.",
+            "visual_summary_text": "N/A",
+            "original_question": "How does Cirrascale support Generative AI workloads?",
+            "original_answer": "\"Cirrascale offers a purpose-built infrastructure for Generative AI—covering pre-training, training, and real-time inference. Whether you’re building with LLMs, generating images or code, or enhancing models with RAG or tuning, our platform is designed for production-readiness at every step.\""
         }
     },
     {
-        "chunk_id": "9f37ad00-02a2-4e5d-a90c-c84c11b56f2e",
-        "text": "Cerebras AI Model Studio provides efficient training for large language models with 8x faster speeds and dedicated clusters; The image has a dark background featuring three main elements: on the top, it says \"Cerebras AI Model Studio\" in large white font. Below, three icons with text are spread out: a server icon with \"Dedicated clusters\" below, a clock icon with \"8x Faster training\" to the right, and a terminal window icon with \"Simple SSH access\" under it.",
+        "chunk_id": "9f8f68bc-fd19-4c5e-b1ed-94ba89940750",
+        "text": "Cirrascale is positioned as a cost-effective solution for scaling generative AI applications by providing flat-rate billing, eliminating hidden and egress fees, and offering managed services for access control and scheduling. Their transparent pricing structure allows teams to focus on innovation without worrying about unexpected costs. This makes Cirrascale a practical choice for businesses seeking predictable and manageable expenditures. The visual summary reinforces these advantages as key value propositions for scalable AI infrastructure.;\n\nThe image has a dark green background with the large headline \"COST-EFFECTIVE SCALING\" at the top. Below, there are five simple, hand-drawn style icons, each accompanied by a label: a dollar bill labeled \"Flat-Rate Billing,\" a circle with a slash labeled \"No Hidden Fees,\" a lightning bolt labeled \"No Egress Charges,\" a wrench and screwdriver crossed labeled \"Managed Services,\" and a padlock with a clock labeled \"Access & Scheduling.\" Each icon and label is clearly separated and organized in a grid layout, using an off-white color for the drawings and text.\"Yes. Cirrascale offers flat-rate billing with no hidden fees—no ingress, no egress, and no surprises. Plus, our managed services take care of access control, scheduling, and setup, so your team can focus on innovation.\"",
         "metadata": {
-            "chunk_id": "9f37ad00-02a2-4e5d-a90c-c84c11b56f2e",
-            "image_filename_id": "Cerebras Cloud Features.png",
-            "image_content_hash": "5959a7188b5cad6ae0ec314d1ab2c313146fa9ee392d23acc490e82b5008c862",
+            "chunk_id": "9f8f68bc-fd19-4c5e-b1ed-94ba89940750",
+            "image_filename_id": "Cost Effective Scaling.png",
+            "image_content_hash": "d1bfd56bafe6ddf040c2a0e9de028126a6da861583acba24dc5d32e2c94a8591",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Cerebras Cloud Features.png",
-            "caption_text": "Cerebras AI Model Studio provides efficient training for large language models with 8x faster speeds and dedicated clusters",
-            "visual_summary_text": "The image has a dark background featuring three main elements: on the top, it says \"Cerebras AI Model Studio\" in large white font. Below, three icons with text are spread out: a server icon with \"Dedicated clusters\" below, a clock icon with \"8x Faster training\" to the right, and a terminal window icon with \"Simple SSH access\" under it."
+            "caption_text": "Cirrascale is positioned as a cost-effective solution for scaling generative AI applications by providing flat-rate billing, eliminating hidden and egress fees, and offering managed services for access control and scheduling. Their transparent pricing structure allows teams to focus on innovation without worrying about unexpected costs. This makes Cirrascale a practical choice for businesses seeking predictable and manageable expenditures. The visual summary reinforces these advantages as key value propositions for scalable AI infrastructure.",
+            "visual_summary_text": "The image has a dark green background with the large headline \"COST-EFFECTIVE SCALING\" at the top. Below, there are five simple, hand-drawn style icons, each accompanied by a label: a dollar bill labeled \"Flat-Rate Billing,\" a circle with a slash labeled \"No Hidden Fees,\" a lightning bolt labeled \"No Egress Charges,\" a wrench and screwdriver crossed labeled \"Managed Services,\" and a padlock with a clock labeled \"Access & Scheduling.\" Each icon and label is clearly separated and organized in a grid layout, using an off-white color for the drawings and text.",
+            "original_question": "Is Cirrascale cost-effective for scaling generative AI applications?",
+            "original_answer": "\"Yes. Cirrascale offers flat-rate billing with no hidden fees—no ingress, no egress, and no surprises. Plus, our managed services take care of access control, scheduling, and setup, so your team can focus on innovation.\""
         }
     },
     {
-        "chunk_id": "8def3495-a3d9-42e8-ba58-cee6788a1e98",
-        "text": "Cerebras AI Model Studio offers fixed pricing based on model size and token count, with rates for various models and custom pricing for larger models.;The image displays a pricing table for AI models with a flat model-based pricing scheme. It includes five rows with models like GPT3-XL, GPT-J, GPT-3, T-5, and GPT NeoX, listing their parameters and corresponding costs, against a dark background. A dollar symbol is depicted on the left with a note at the bottom about pricing for larger models like GPT-70B and GPT-175B.",
+        "chunk_id": "567df9d5-c540-4351-942c-bf7c060bfd1b",
+        "text": "Cirrascale stands out from traditional cloud services by offering strong GPU performance options, dedicated to advancing computer vision tasks such as image classification, object detection, and object tracking. Unlike major competitors like AWS or GCP, Cirrascale uses flat-rate pricing with no overage fees, making it ideal for sustained, large-scale vision AI projects. The slide emphasizes the technical and financial advantages for organizations needing scalable, predictable compute resources. These benefits directly address limitations encountered when using more conventional cloud services for long-term vision AI work. Overall, Cirrascale provides a specialized, cost-effective solution tailored for advanced computer vision workloads.; The image has a dark green background and features a large header at the top reading \"VISION AI ADVANTAGE.\" Below the header, there are five icons arranged in two rows: the top row has three icons for \"Image Classification\" (a photo-style picture with mountains and a sun), \"Object Detection\" (a bullseye with an arrow in the center), and \"Object Tracking\" (an eye symbol inside a focus frame). The bottom row has two icons: \"Flat-Rate Pricing\" (a stylized card with a dollar symbol) and \"No Overages\" (a dollar coin with a slash through it). All text and icons are in a light cream color, standing out against the background.\"Cirrascale leverages powerful GPUs and a range of acceleration options for image and object classification, detection, and tracking. Unlike AWS or GCP, we provide flat-rate pricing with no overages, making long-term vision AI projects more viable.\"",
         "metadata": {
-            "chunk_id": "8def3495-a3d9-42e8-ba58-cee6788a1e98",
-            "image_filename_id": "Cerebras Cloud Pricing.png",
-            "image_content_hash": "b0cbc94592bcbbeffede16b07e3b2abecab96b0b9461c0a5f1f5b97a666d2a7f",
+            "chunk_id": "567df9d5-c540-4351-942c-bf7c060bfd1b",
+            "image_filename_id": "Vision AI Advantage.png",
+            "image_content_hash": "ec28f926cadc18a013e4380f82c9f4bc1febadba625ce9d4aaa577bf926bf00c",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Cerebras Cloud Pricing.png",
-            "caption_text": "Cerebras AI Model Studio offers fixed pricing based on model size and token count, with rates for various models and custom pricing for larger models.",
-            "visual_summary_text": "The image displays a pricing table for AI models with a flat model-based pricing scheme. It includes five rows with models like GPT3-XL, GPT-J, GPT-3, T-5, and GPT NeoX, listing their parameters and corresponding costs, against a dark background. A dollar symbol is depicted on the left with a note at the bottom about pricing for larger models like GPT-70B and GPT-175B."
+            "caption_text": "Cirrascale stands out from traditional cloud services by offering strong GPU performance options, dedicated to advancing computer vision tasks such as image classification, object detection, and object tracking. Unlike major competitors like AWS or GCP, Cirrascale uses flat-rate pricing with no overage fees, making it ideal for sustained, large-scale vision AI projects. The slide emphasizes the technical and financial advantages for organizations needing scalable, predictable compute resources. These benefits directly address limitations encountered when using more conventional cloud services for long-term vision AI work. Overall, Cirrascale provides a specialized, cost-effective solution tailored for advanced computer vision workloads.",
+            "visual_summary_text": "The image has a dark green background and features a large header at the top reading \"VISION AI ADVANTAGE.\" Below the header, there are five icons arranged in two rows: the top row has three icons for \"Image Classification\" (a photo-style picture with mountains and a sun), \"Object Detection\" (a bullseye with an arrow in the center), and \"Object Tracking\" (an eye symbol inside a focus frame). The bottom row has two icons: \"Flat-Rate Pricing\" (a stylized card with a dollar symbol) and \"No Overages\" (a dollar coin with a slash through it). All text and icons are in a light cream color, standing out against the background.",
+            "original_question": "How is Cirrascale better than traditional cloud services for computer vision?",
+            "original_answer": "\"Cirrascale leverages powerful GPUs and a range of acceleration options for image and object classification, detection, and tracking. Unlike AWS or GCP, we provide flat-rate pricing with no overages, making long-term vision AI projects more viable.\""
         }
     },
     {
-        "chunk_id": "59918982-0d27-4aa3-b544-c1a02197300d",
-        "text": "Cirrascale's NVIDIA GPU Cloud is powerful for AI and HPC applications, offering 900 GB/s bandwidth, CUDA readiness, pre-configured SDKs, and AI framework support.;The image showcases four key features of NVIDIA GPU Cloud on a dark background: \"900 GB/s Bandwidth\" represented by a node-link diagram, \"CUDA Ready\" with a microchip icon labeled \"CU,\" \"Pre-configured SDKs\" featuring a coding icon, and \"AI Frameworks\" with an AI symbol connected to a node.",
+        "chunk_id": "887fc85c-80e0-464f-8980-44bf2e9d235c",
+        "text": "The Inference Cloud powered by Qualcomm streamlines the deployment of generative AI models and applications, offering users a simple web-based experience. It utilizes the Qualcomm Cloud AI 100 Ultra for high performance and supports enterprise-grade privacy with a secure infrastructure. The service features token-based pricing, making it cost-efficient and accessible without requiring complex setup. With one-click deployment, users can easily implement and scale AI solutions to meet their needs.; The image is a clean, dark-background slide titled \"QUALCOMM INFERENCE CLOUD\" at the top in large, rounded white letters. Below the title, there are five white line icons arranged in two rows: a lightning bolt labeled \"One-Click Deployment,\" a globe labeled \"Web-Based Platform,\" a brain labeled \"Generative AI Models,\" a lock labeled \"Enterprise Privacy,\" and a ticket with a dollar symbol labeled \"Token-Based Pricing.\" Each icon is paired with its descriptive text underneath. The overall design is minimalistic and uses hand-drawn-style graphics and fonts.The Inference Cloud powered by Qualcomm offers one-click deployment of generative AI models and applications using the Qualcomm Cloud AI 100 Ultra. It features a web-based platform, enterprise-grade privacy, and token-based pricing—no complex infrastructure needed.",
         "metadata": {
-            "chunk_id": "59918982-0d27-4aa3-b544-c1a02197300d",
-            "image_filename_id": "NVIDIA GPU Cloud Features.png",
-            "image_content_hash": "8e150f7529e73cbe711f7de7e242bb03aa838825d2df00caec0b00a8c4da6e6e",
+            "chunk_id": "887fc85c-80e0-464f-8980-44bf2e9d235c",
+            "image_filename_id": "Qualcomm Inference Cloud 2.png",
+            "image_content_hash": "9aae7ce2a816f6563809fde135a05cce79b93031b7e7eb768e823ef32add07e5",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/NVIDIA GPU Cloud Features.png",
-            "caption_text": "Cirrascale's NVIDIA GPU Cloud is powerful for AI and HPC applications, offering 900 GB/s bandwidth, CUDA readiness, pre-configured SDKs, and AI framework support.",
-            "visual_summary_text": "The image showcases four key features of NVIDIA GPU Cloud on a dark background: \"900 GB/s Bandwidth\" represented by a node-link diagram, \"CUDA Ready\" with a microchip icon labeled \"CU,\" \"Pre-configured SDKs\" featuring a coding icon, and \"AI Frameworks\" with an AI symbol connected to a node."
+            "caption_text": "The Inference Cloud powered by Qualcomm streamlines the deployment of generative AI models and applications, offering users a simple web-based experience. It utilizes the Qualcomm Cloud AI 100 Ultra for high performance and supports enterprise-grade privacy with a secure infrastructure. The service features token-based pricing, making it cost-efficient and accessible without requiring complex setup. With one-click deployment, users can easily implement and scale AI solutions to meet their needs.",
+            "visual_summary_text": "The image is a clean, dark-background slide titled \"QUALCOMM INFERENCE CLOUD\" at the top in large, rounded white letters. Below the title, there are five white line icons arranged in two rows: a lightning bolt labeled \"One-Click Deployment,\" a globe labeled \"Web-Based Platform,\" a brain labeled \"Generative AI Models,\" a lock labeled \"Enterprise Privacy,\" and a ticket with a dollar symbol labeled \"Token-Based Pricing.\" Each icon is paired with its descriptive text underneath. The overall design is minimalistic and uses hand-drawn-style graphics and fonts.",
+            "original_question": "What is the Inference Cloud powered by Qualcomm?",
+            "original_answer": "The Inference Cloud powered by Qualcomm offers one-click deployment of generative AI models and applications using the Qualcomm Cloud AI 100 Ultra. It features a web-based platform, enterprise-grade privacy, and token-based pricing—no complex infrastructure needed."
         }
     },
     {
-        "chunk_id": "509e08f8-31ed-42b8-b01e-78c2508597fa",
-        "text": "Cirrascale offers flat-rate pricing for NVIDIA GPUs, with options across monthly, 6-month, and annual terms, showcasing a consistent pricing model without hidden fees.;The image shows a pricing table for Cirrascale's NVIDIA GPUs under the heading \"Flat-Rate Pricing, No Hidden Fees\". It displays three rows for 8-GPU configurations (B200, H200, H100) and corresponding columns for \"Monthly\", \"6 Months\", and \"Annually\" with prices: $34,999/month for B200, $26,499/month for H200, and $24,999/month for H100. The table is set against a dark background with a dollar symbol to the left of the heading.",
+        "chunk_id": "836ceb18-3e27-463d-b508-bf0373b8b9bf",
+        "text": "Cirrascale provides NVIDIA Inception members with a range of valuable support services, including discounted hardware, cloud and managed services, referral discounts, leasing options, and co-marketing assistance. These offerings help members maximize their benefits from the Inception program. Key support areas include cost savings, technical services, and promotional help, making it easier for members to scale and thrive. With these supports, NVIDIA Inception members can access essential tools and opportunities to grow their businesses effectively.; The image features five hand-drawn-style icons with text labels under each. At the top, the text \"NVIDIA INCEPTION SUPPORT\" is centered in large, rounded letters. Below, five icons and their corresponding labels are arranged in two rows. The top row has a price tag labeled \"Discounted Hardware,\" a cloud labeled \"Cloud Services,\" and a wrench labeled \"Managed Services.\" The bottom row has a handshake with \"Referral Discounts\" and a megaphone labeled \"Co-Marketing Help.\" All graphics and text are in a cream color on a dark teal background.Cirrascale helps NVIDIA Inception members with discounted hardware, cloud services, and managed services. Members also get referral discounts, leasing options, and co-marketing support to maximize program benefits.",
         "metadata": {
-            "chunk_id": "509e08f8-31ed-42b8-b01e-78c2508597fa",
-            "image_filename_id": "NVIDIA GPU Cloud Pricing.png",
-            "image_content_hash": "9ae675d016b4bcd1c286915b1163c3cc95f7d7a1fb6712d03be6bc49bb22ea3c",
+            "chunk_id": "836ceb18-3e27-463d-b508-bf0373b8b9bf",
+            "image_filename_id": "NVIDIA Inception Support.png",
+            "image_content_hash": "ed6062780734d7efb275643750da99246e266d957a4edbb5b3a16b81a946d6f5",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/NVIDIA GPU Cloud Pricing.png",
-            "caption_text": "Cirrascale offers flat-rate pricing for NVIDIA GPUs, with options across monthly, 6-month, and annual terms, showcasing a consistent pricing model without hidden fees.",
-            "visual_summary_text": "The image shows a pricing table for Cirrascale's NVIDIA GPUs under the heading \"Flat-Rate Pricing, No Hidden Fees\". It displays three rows for 8-GPU configurations (B200, H200, H100) and corresponding columns for \"Monthly\", \"6 Months\", and \"Annually\" with prices: $34,999/month for B200, $26,499/month for H200, and $24,999/month for H100. The table is set against a dark background with a dollar symbol to the left of the heading."
+            "caption_text": "Cirrascale provides NVIDIA Inception members with a range of valuable support services, including discounted hardware, cloud and managed services, referral discounts, leasing options, and co-marketing assistance. These offerings help members maximize their benefits from the Inception program. Key support areas include cost savings, technical services, and promotional help, making it easier for members to scale and thrive. With these supports, NVIDIA Inception members can access essential tools and opportunities to grow their businesses effectively.",
+            "visual_summary_text": "The image features five hand-drawn-style icons with text labels under each. At the top, the text \"NVIDIA INCEPTION SUPPORT\" is centered in large, rounded letters. Below, five icons and their corresponding labels are arranged in two rows. The top row has a price tag labeled \"Discounted Hardware,\" a cloud labeled \"Cloud Services,\" and a wrench labeled \"Managed Services.\" The bottom row has a handshake with \"Referral Discounts\" and a megaphone labeled \"Co-Marketing Help.\" All graphics and text are in a cream color on a dark teal background.",
+            "original_question": "What support does Cirrascale provide for NVIDIA Inception members?",
+            "original_answer": "Cirrascale helps NVIDIA Inception members with discounted hardware, cloud services, and managed services. Members also get referral discounts, leasing options, and co-marketing support to maximize program benefits."
         }
     },
     {
-        "chunk_id": "d4abcc15-f61c-413f-8270-870f03bbcf6b",
-        "text": "Cirrascale's Qualcomm Cloud AI 100 platform enhances AI inference with up to 5x performance, power efficiency, and streamlined deployment, utilizing its Ultra technology for large-scale applications.;The image features the text \"Qualcomm Cloud AI 100\" at the top center. Below it, three icons are lined up: a bar graph with an upward arrow labeled \"5x performance,\" a battery icon with a lightning bolt labeled \"power efficient,\" and a server rack icon labeled \"streamlined deployment.\" Each icon is drawn in white against a dark background.",
+        "chunk_id": "28c8f976-b851-4523-836e-e40cfe78af12",
+        "text": "Cirrascale’s Multi-GPU Compute environment stands out by offering physical, dedicated GPU servers equipped with the latest accelerators, eliminating the need for virtualization and avoiding outdated hardware. This environment is tailored for high-demand applications such as deep learning, NLP, and GenAI, where computational power and flexibility are crucial. Customers benefit from flat-rate pricing and the ability to fully customize server configurations to suit their project requirements. These features make Cirrascale’s offering particularly attractive for organizations seeking reliable, high-performance compute infrastructure without compromise.; \nThe image displays five icons arranged in a grid on a dark green background, each paired with a descriptive label. The icons and text are white: a computer monitor with \"Dedicated Servers,\" a circle with a diagonal slash for \"No Virtualization,\" a lightning bolt for \"Latest Accelerators,\" a robot head with \"GenAI & NLP Ready,\" and a wrench labeled \"Custom Configurations.\" The title \"MULTI-GPU ADVANTAGE\" is centered at the top in large, clear font.Cirrascale provides physical, dedicated GPU servers with the latest accelerators—no virtualization, no outdated hardware. This makes it ideal for deep learning, NLP, and GenAI projects, with flat-rate pricing and fully customizable configurations.",
         "metadata": {
-            "chunk_id": "d4abcc15-f61c-413f-8270-870f03bbcf6b",
-            "image_filename_id": "Qualcomm AI Cloud Features.png",
-            "image_content_hash": "20112d1c7c75ec48a7b896f034908e5f78e9fc3856ad6ead4d40adc0e8e2df8a",
+            "chunk_id": "28c8f976-b851-4523-836e-e40cfe78af12",
+            "image_filename_id": "Multi GPU Advantage.png",
+            "image_content_hash": "d38f9a514d5ae1172c5aa87565e43a7407affa83a5864eb42f0893081850e270",
             "embedding_model": "text-embedding-3-large",
             "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Qualcomm AI Cloud Features.png",
-            "caption_text": "Cirrascale's Qualcomm Cloud AI 100 platform enhances AI inference with up to 5x performance, power efficiency, and streamlined deployment, utilizing its Ultra technology for large-scale applications.",
-            "visual_summary_text": "The image features the text \"Qualcomm Cloud AI 100\" at the top center. Below it, three icons are lined up: a bar graph with an upward arrow labeled \"5x performance,\" a battery icon with a lightning bolt labeled \"power efficient,\" and a server rack icon labeled \"streamlined deployment.\" Each icon is drawn in white against a dark background."
-        }
-    },
-    {
-        "chunk_id": "e7f4594a-d92e-429d-adb3-1e29c1d93a50",
-        "text": "Cirrascale offers flexible configurations with transparent pricing for their Qualcomm Cloud AI 100 platform.;The image displays a pricing table for Cirrascale's AI configurations, labeled under \"Flat-Rate Pricing, No Hidden Fees.\" It lists configurations such as \"8x AI 100 Ultra,\" \"Octo AI 100 Pro,\" and others, each with monthly and annual costs. A dollar symbol appears to the left of the title, and costs range from $4,699/month for \"8x AI 100 Ultra\" to $369/month for \"Single AI 100 Pro (64GB).\"",
-        "metadata": {
-            "chunk_id": "e7f4594a-d92e-429d-adb3-1e29c1d93a50",
-            "image_filename_id": "Qualcomm AI Cloud Pricing.png",
-            "image_content_hash": "6b78f0f95ac7a4742e4780796233ba943ddf116e15dddee90ed633c45e825b1b",
-            "embedding_model": "text-embedding-3-large",
-            "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Qualcomm AI Cloud Pricing.png",
-            "caption_text": "Cirrascale offers flexible configurations with transparent pricing for their Qualcomm Cloud AI 100 platform.",
-            "visual_summary_text": "The image displays a pricing table for Cirrascale's AI configurations, labeled under \"Flat-Rate Pricing, No Hidden Fees.\" It lists configurations such as \"8x AI 100 Ultra,\" \"Octo AI 100 Pro,\" and others, each with monthly and annual costs. A dollar symbol appears to the left of the title, and costs range from $4,699/month for \"8x AI 100 Ultra\" to $369/month for \"Single AI 100 Pro (64GB).\""
-        }
-    },
-    {
-        "chunk_id": "5bc1708d-0737-4118-a15c-19d39d32ac0a",
-        "text": "Cirrascale offers scalable AI training focusing on large models, natural language, and scalable expertise; The image shows three icons with text: a smiling face labeled \"Large models,\" a speech bubble labeled \"Natural language,\" and a bar graph with an upward arrow labeled \"Scalable expertise,\" all under the heading \"AI training.\"",
-        "metadata": {
-            "chunk_id": "5bc1708d-0737-4118-a15c-19d39d32ac0a",
-            "image_filename_id": "Training Features.png",
-            "image_content_hash": "4da7dd9806a35e6c494aaf1a5fa31819746c260e6772c9a2bcc44f7320e4cda2",
-            "embedding_model": "text-embedding-3-large",
-            "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Training Features.png",
-            "caption_text": "Cirrascale offers scalable AI training focusing on large models, natural language, and scalable expertise",
-            "visual_summary_text": "The image shows three icons with text: a smiling face labeled \"Large models,\" a speech bubble labeled \"Natural language,\" and a bar graph with an upward arrow labeled \"Scalable expertise,\" all under the heading \"AI training.\""
-        }
-    },
-    {
-        "chunk_id": "7af26dec-14cb-4114-a8f3-c0a7848bbf49",
-        "text": "Cirrascale provides fixed pricing for AI model training based on model complexity and size, with specific rates listed for models ranging from $2,500 to $525,000.;The image displays a table titled \"Fixed Pricing for AI Training\" with two columns: \"Model\" and \"Cost.\" The \"Model\" column lists five model types: GPT3-XL (1.3B parameters), GPT-J (6B parameters), GPT-3 6.7B, GPT-3 13B, and GPT NeoX (20B parameters). Corresponding costs in the \"Cost\" column are $2,500, $45,000, $40,000, $150,000, and $525,000. A footnote mentions pricing for larger models is available upon request.",
-        "metadata": {
-            "chunk_id": "7af26dec-14cb-4114-a8f3-c0a7848bbf49",
-            "image_filename_id": "Training Pricing.png",
-            "image_content_hash": "1667a0e5e99bed7419ada8f79b721bad8c8e8269b48fed2e74199915ef6605d5",
-            "embedding_model": "text-embedding-3-large",
-            "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Training Pricing.png",
-            "caption_text": "Cirrascale provides fixed pricing for AI model training based on model complexity and size, with specific rates listed for models ranging from $2,500 to $525,000.",
-            "visual_summary_text": "The image displays a table titled \"Fixed Pricing for AI Training\" with two columns: \"Model\" and \"Cost.\" The \"Model\" column lists five model types: GPT3-XL (1.3B parameters), GPT-J (6B parameters), GPT-3 6.7B, GPT-3 13B, and GPT NeoX (20B parameters). Corresponding costs in the \"Cost\" column are $2,500, $45,000, $40,000, $150,000, and $525,000. A footnote mentions pricing for larger models is available upon request."
-        }
-    },
-    {
-        "chunk_id": "46ba36a6-acc5-4f30-aab1-df214272a3f8",
-        "text": "Cirrascale provides comprehensive support for fine-tuning AI models through client collaboration and optimizing models with reinforcement learning; The image features the title \"Fine-tuning support\" at the top. Below it are three lines of text accompanied by simple icons: a smiling face next to \"client collaboration,\" a brain next to \"optimize models,\" and a check mark next to \"reinforcement learning,\" all set against a dark background.",
-        "metadata": {
-            "chunk_id": "46ba36a6-acc5-4f30-aab1-df214272a3f8",
-            "image_filename_id": "Fine Tuning Features.png",
-            "image_content_hash": "43ed104393f6e22a36c39c648cb72c934d665e707117bab35ae95002c8483a6c",
-            "embedding_model": "text-embedding-3-large",
-            "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Fine Tuning Features.png",
-            "caption_text": "Cirrascale provides comprehensive support for fine-tuning AI models through client collaboration and optimizing models with reinforcement learning",
-            "visual_summary_text": "The image features the title \"Fine-tuning support\" at the top. Below it are three lines of text accompanied by simple icons: a smiling face next to \"client collaboration,\" a brain next to \"optimize models,\" and a check mark next to \"reinforcement learning,\" all set against a dark background."
-        }
-    },
-    {
-        "chunk_id": "98f7f224-405d-4481-bd02-374cb52aa42f",
-        "text": "Cirrascale offers different pricing for fine-tuning models like Eleuther GPT-J and CodeGen, based on per-token and per-example rates.;The image displays a pricing table titled \"Fixed-Rate Pricing: Per-token and per-example rates\" on a dark background. It lists various models like Eleuther GPT-J, Eleuther GPT-NeoX, CodeGen 350M, CodeGen 2.7B, and CodeGen 16.1B, along with their pricing rates per 1K tokens and per example, structured in three columns under these headers.",
-        "metadata": {
-            "chunk_id": "98f7f224-405d-4481-bd02-374cb52aa42f",
-            "image_filename_id": "Fine Tuning Pricing.png",
-            "image_content_hash": "c78832787b50c7476864bb566cbd9e71426685ae0049329131f3df60714b12aa",
-            "embedding_model": "text-embedding-3-large",
-            "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Fine Tuning Pricing.png",
-            "caption_text": "Cirrascale offers different pricing for fine-tuning models like Eleuther GPT-J and CodeGen, based on per-token and per-example rates.",
-            "visual_summary_text": "The image displays a pricing table titled \"Fixed-Rate Pricing: Per-token and per-example rates\" on a dark background. It lists various models like Eleuther GPT-J, Eleuther GPT-NeoX, CodeGen 350M, CodeGen 2.7B, and CodeGen 16.1B, along with their pricing rates per 1K tokens and per example, structured in three columns under these headers."
-        }
-    },
-    {
-        "chunk_id": "3ceaffda-6966-4217-b2ea-2539b3e3c5a6",
-        "text": "Cirrascale offers an inference platform providing pay-as-you-go, easy deployment, and zero complexity, supporting AI models with optimal performance across multiple regions.;The image features the text \"Cirrascale Inference Solutions\" at the top, followed by three icons and text descriptions beneath. From left to right: a smiling face icon labeled \"Pay-as-you-go,\" a rocket icon labeled \"Deploy easily,\" and a padlock icon labeled \"Zero complexity,\" all presented on a dark background.",
-        "metadata": {
-            "chunk_id": "3ceaffda-6966-4217-b2ea-2539b3e3c5a6",
-            "image_filename_id": "Inference Features.png",
-            "image_content_hash": "1034e1fafde8e82e3b3513ecc4fee6cfdbab46f76f350bbdaa1ee3434d238147",
-            "embedding_model": "text-embedding-3-large",
-            "source_type": "captioned_image",
-            "original_image_path": "/home/kmzhang/Documents/revola/revola-ai-agent/revola-identify-doc-gaps/data/cirrascale/answer_images/Inference Features.png",
-            "caption_text": "Cirrascale offers an inference platform providing pay-as-you-go, easy deployment, and zero complexity, supporting AI models with optimal performance across multiple regions.",
-            "visual_summary_text": "The image features the text \"Cirrascale Inference Solutions\" at the top, followed by three icons and text descriptions beneath. From left to right: a smiling face icon labeled \"Pay-as-you-go,\" a rocket icon labeled \"Deploy easily,\" and a padlock icon labeled \"Zero complexity,\" all presented on a dark background."
+            "caption_text": "Cirrascale’s Multi-GPU Compute environment stands out by offering physical, dedicated GPU servers equipped with the latest accelerators, eliminating the need for virtualization and avoiding outdated hardware. This environment is tailored for high-demand applications such as deep learning, NLP, and GenAI, where computational power and flexibility are crucial. Customers benefit from flat-rate pricing and the ability to fully customize server configurations to suit their project requirements. These features make Cirrascale’s offering particularly attractive for organizations seeking reliable, high-performance compute infrastructure without compromise.",
+            "visual_summary_text": "The image displays five icons arranged in a grid on a dark green background, each paired with a descriptive label. The icons and text are white: a computer monitor with \"Dedicated Servers,\" a circle with a diagonal slash for \"No Virtualization,\" a lightning bolt for \"Latest Accelerators,\" a robot head with \"GenAI & NLP Ready,\" and a wrench labeled \"Custom Configurations.\" The title \"MULTI-GPU ADVANTAGE\" is centered at the top in large, clear font.",
+            "original_question": "What makes Cirrascale’s Multi-GPU Compute environment different?",
+            "original_answer": "Cirrascale provides physical, dedicated GPU servers with the latest accelerators—no virtualization, no outdated hardware. This makes it ideal for deep learning, NLP, and GenAI projects, with flat-rate pricing and fully customizable configurations."
         }
     }
 ]

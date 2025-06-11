@@ -1,114 +1,43 @@
-S No.,category,question,answer,image_link,RAG Description
-GENERAL,,,,,
-1,Product Feature (AI Innovation Cloud),What is the AI Innovation Cloud?,"Great question! The AI Innovation Cloud is Cirrascale’s high-performance platform designed specifically for AI workloads. It lets you test, train, and deploy on industry-leading AI accelerators — all in one place. No need to juggle multiple providers or worry about setup. It’s all purpose-built for speed and scale.",Product Feature - Innovation Cloud.png,"Keywords: High performance platform, Built for AI workloads, Unified platform. Tags: AI accelerators"
-2,Product Feature (Hardware),What hardware do you support?,"Cirrascale gives you on-demand access to the best AI hardware out there — like NVIDIA A100 and H100 GPUs, AMD Instinct™ accelerators, Cerebras CS-2 clusters, and Qualcomm Cloud AI 100 Ultra. Everything’s pre-configured so you can start running workloads right away.",Product Feature - Hardware.png,"Keywords: NVIDIA A100, AMD Instinct, Cerebras CS-2, Qualcomm AI 100. Tags: AI hardware"
-3,Product Differentiator,How is Cirrascale different from AWS or Azure?,"I’m glad you asked! Unlike AWS or Azure, Cirrascale runs on bare-metal infrastructure — meaning your AI workloads get dedicated performance with no virtualization, no noisy neighbors, and no random slowdowns. It’s built specifically for deterministic speed and reliability — ideal for serious AI teams.",Product Differentiator.png,"Keywords: No noisy neighbors, Bare-metal infrastructure. Tags: bare metal, cloud comparison"
-4,Onboarding,How fast can I get started?,"You can be up and running in just a few days. Cirrascale’s team works closely with you to understand your needs and tailor the environment accordingly. The onboarding process is fast, with engineering support to make sure you're production-ready without the usual headaches.",Onboarding.png,"Keywords: Fast onboarding, Quick setup. Tags: onboarding, checkmark icon"
-5,Pricing,What pricing model do you follow?,"Cirrascale uses flat-rate monthly pricing — so you know exactly what you’re paying. There are no ingress or egress fees, and no surprise usage spikes. Just simple, predictable billing for enterprise-grade AI infrastructure.",Pricing.png,"Keywords: Flat-rate pricing, No ingress/egress fees, Predictable billing. Tags: pricing model, enterprise billing, no hidden costs"
-6,Infrastructure,Do I need to manage any infrastructure?,"Nope — Cirrascale provides fully managed services. That means zero DevOps burden. They handle everything from setup to scaling, so you can focus on building and running your AI models, not maintaining servers.",Infrastructure.png,"Keywords: Fully managed, No devops burden. Tags: infra managed,  server icon"
-7,Scalability,Can I scale my project on demand?,"Absolutely! You can scale up or down across GPUs, CPUs, and accelerators whenever your workload changes. Cirrascale is built to flex with your AI needs — no delays or limits.",Scalability.png,"Keywords: Scale easily, Ramp up/down. Tags: scalability, flexible cloud"
-8,Existing Customers,Who is already using Cirrascale?,Cirrascale is trusted by pioneers like OpenAI and AI2 for mission-critical AI research. These teams rely on Cirrascale’s infrastructure to push the boundaries of what’s possible in AI.,Existing Customers.png,"Keywords: OpenAI, AI2, Trusted by pioneers. Tags: trusted"
-9,Enterprise Readiness,Is this cloud secure and reliable for enterprise use?,"Yes — Cirrascale’s infrastructure is enterprise-grade, purpose-built for AI, and trusted by some of the most innovative organizations in the field. It’s fast, secure, and reliable by design.",Reliability.png,"Keywords: Secure & Reliable, Enterprise-grade cloud. Tags: enterprise,  secure"
-10,Sales Process,How do I start a pilot or request a quote?,Easy! I will get you in touch with a team member who will help tailor a solution and walk you through the onboarding process. You could be testing your workloads in just a few days.,Product Pilot.png,"Keywords: Start a pilot, Request a quote. Tags: sales CTA, connect icon"
-AI INNOVATION CLOUD,,,,,
-11,"AMD Instinct™ Series
-
-(Features)",What advantages does Cirrascale's AMD Instinct™ Series Cloud offer for AI and HPC workloads?,"Cirrascale's AMD Instinct™ Series Cloud provides high-performance accelerators built on AMD CDNA™ architecture, featuring Matrix Core Technologies. These accelerators offer exceptional compute performance, large memory density, and high bandwidth memory, making them ideal for demanding AI and HPC workloads. The platform includes AMD ROCm™ software for seamless integration with AI frameworks and supports a broad range of precision capabilities, from INT8 to FP64 .",AMD Series Features.png,
-12,"AMD Instinct™ Series
-
-(Pricing)",What is the pricing for Cirrascale's AMD Instinct™ Series Cloud?,"Cirrascale offers transparent, flat-rate pricing with no hidden fees. For instance:
-
-8x AMD Instinct MI300X: $22,499/month, $20,249 for 6 months, or $17,999 annually.
-
-4x AMD Instinct MI250: $4,679/month, $4,211 for 6 months, or $3,743 annually.",AMD Series Pricing.png,
-13,"Cerebras Cloud
-
-(Features)",How does the Cerebras AI Model Studio enhance large language model training?,"The Cerebras AI Model Studio, hosted on the Cerebras Cloud @ Cirrascale, is optimized for training and fine-tuning large language models on dedicated clusters. It offers deterministic performance without the complexities of distributed computing. Users can train models ranging from 1 to 175 billion parameters up to 8x faster than traditional clouds, with predictable fixed pricing. The platform supports standard PyTorch and TensorFlow models and provides simple SSH access for ease of use.",Cerebras Cloud Features.png,
-14,"Cerebras Cloud
-
-(Pricing)",What is the pricing for the Cerebras AI Model Studio?,"Pricing is model-based, offering fixed rates per model size and token count. For example:
-
-GPT3-XL (1.3B parameters): $2,500
-
-GPT-J (6B parameters): $45,000
-
-GPT-3 6.7B: $40,000
-
-T-5 11B: $60,000
-
-GPT-3 13B: $150,000
-
-GPT NeoX (20B parameters): $525,000
-
-For larger models like GPT-70B and GPT-175B, pricing is available upon request.",Cerebras Cloud Pricing.png,
-15,"NVIDIA GPU Cloud
-
-(Features)",What makes Cirrascale's NVIDIA GPU Cloud suitable for AI and HPC applications?,"Cirrascale's NVIDIA GPU Cloud offers an end-to-end accelerated computing platform with multiple GPUs interconnected via NVIDIA NVLink™ and NVSwitch, providing up to 900 GB/s bidirectional bandwidth. The platform supports leading AI frameworks and model libraries like Hugging Face, enabling seamless model development, tuning, and deployment. With native CUDA support and pre-configured SDKs, storage, and networking, users can achieve high performance for AI and HPC workloads .",NVIDIA GPU Cloud Features.png,
-16,"NVIDIA GPU Cloud
-
-(Pricing)",What is the pricing for Cirrascale's NVIDIA GPU Cloud?,"Cirrascale provides flat-rate pricing for various NVIDIA GPU configurations. Examples include:
-
-8-GPU NVIDIA B200: $34,999/month, $31,499 for 6 months, or $27,999 annually.
-
-8-GPU NVIDIA H200: $26,499/month, $23,849 for 6 months, or $21,199 annually.
-
-8-GPU NVIDIA H100: $24,999/month, $22,499 for 6 months, or $19,999 annually.",NVIDIA GPU Cloud Pricing.png,
-17,"Qualcomm AI Cloud
-
-(Features)",How does Cirrascale's Qualcomm Cloud AI 100 platform optimize AI inference?,"Cirrascale's Qualcomm Cloud AI 100 platform delivers optimized inference for leading AI models, offering up to 5x performance compared to competing solutions. Utilizing the Qualcomm Cloud AI 100 Ultra, it provides high performance and power efficiency for deploying and accelerating AI inference at scale. The platform includes bare-metal access, the Qualcomm Cloud AI Playground, and the Qualcomm AI Inference Suite for streamlined deployment .",Qualcomm AI Cloud Features.png,
-18,"Qualcomm AI Cloud
-
-(Pricing)",What is the pricing for Cirrascale's Qualcomm Cloud AI 100 platform?,"Cirrascale offers various configurations with transparent pricing. Examples include:
-
-8x AI 100 Ultra: $4,699/month or $3,759 annually.
-
-Octo AI 100 Pro: $2,499/month or $2,019 annually.
-
-Quad AI 100 Pro: $1,259/month or $1,009 annually.
-
-Dual AI 100 Pro: $629/month or $519 annually.
-
-Single AI 100 Pro (128GB): $549/month or $439 annually.
-
-Single AI 100 Pro (64GB): $369/month or $289 annually.",Qualcomm AI Cloud Pricing.png,
-19,"Training
-
-(Features)",What AI training services does Cirrascale offer?,"Cirrascale provides leading AI acceleration options for training various models, including Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI (GenAI), and Computer Vision (CV) models. The platform offers scalability and expertise to deploy solutions timely, ensuring that training is not hamstrung by service provider or data center limitations. Cirrascale collaborates closely with clients to understand their training needs and scale requirements .",Training Features.png,
-20,"Training
-
-(Pricing)",What is the pricing for Cirrascale's AI training services?,"Cirrascale offers fixed pricing for training various models. Examples include:
-
-GPT3-XL (1.3B parameters): $2,500
-
-GPT-J (6B parameters): $45,000
-
-GPT-3 6.7B: $40,000
-
-T-5 11B: $60,000
-
-GPT-3 13B: $150,000
-
-GPT NeoX (20B parameters): $525,000
-
-For larger models like GPT-70B and GPT-175B, pricing is available upon request.",Training Pricing.png,
-21,"Fine Tuning
-
-(Features)",How does Cirrascale assist with fine-tuning AI models?,"Cirrascale collaborates with clients to understand their tuning requirements and the optimal AI acceleration resources needed for their foundational models. Whether augmenting training with additional data or adjusting model weights, Cirrascale guides clients to achieve the best possible outcomes. The platform supports various tuning efforts, including reinforcement learning from human feedback (RLHF) and supervised fine-tuning, ensuring models are tailored to specific use cases .",Fine Tuning Features.png,
-22,"Fine Tuning
-
-(Pricing)",What is the pricing for Cirrascale's fine-tuning services?,"Cirrascale offers per-token and per-example pricing for fine-tuning various models. Examples include:
-
-Eleuther GPT-J (6B parameters): $0.00055 per 1K tokens; $0.0011 per example (MSL 2048).
-
-Eleuther GPT-NeoX (20B parameters): $0.00190 per 1K tokens; $0.0039 per example (MSL 2048).
-
-CodeGen 350M: $0.00003 per 1K tokens; $0.00006 per example (MSL 2048).
-
-CodeGen 2.7B: $0.00026 per 1K tokens; $0.0005 per example (MSL 2048).
-
-CodeGen 6.1B: $0.00065 per 1K tokens; $0.0013 per example (MSL 2048).
-
-CodeGen 16.1B: $0.00147 per 1K tokens; $0.0030 per example (MSL 2048).",Fine Tuning Pricing.png,
-23,"Inference
-
-(Features)",What inference solutions does Cirrascale provide for AI models?,"Cirrascale offers a variety of options for AI inference acceleration, catering to Large Language Models (LLMs), Natural Language Processing (NLP), and Computer Vision (CV) applications. The Cirrascale Inference Platform intelligently selects the best accelerator for optimal performance and dynamically balances workloads across regions. This serverless inference-as-a-service platform ensures enterprise-grade capabilities and security, supporting multiple regions for low-latency connections.",Inference Features.png,
+#,category,question,answer,image_link
+1,Product Features,What does Cirrascale specialize in?,"Great question! Cirrascale specializes in high-performance, cloud-based infrastructure built for AI innovation. Whether you're developing, training, or running inference workloads, our platform is designed to maximize performance, reduce bottlenecks, and accelerate time-to-market for AI projects.",AI Infrastructure.png
+2,Product Features,What makes Cirrascale’s AI cloud different from others?,"What sets us apart is that the Cirrascale AI Innovation Cloud is the only cloud service where you can test and deploy across every leading AI accelerator—all in one place. That includes support for AMD Instinct, NVIDIA, Cerebras, and more. It’s all about flexibility, performance, and choice.",Differentiation.png
+3,User Experience,How can Cirrascale help me optimize my AI workflow?,"Cirrascale helps you streamline your AI operations with tailored multi-GPU server and storage solutions. That means you get improved workflow efficiency, fewer technical bottlenecks, and faster delivery of your AI models to market.",Optimize AI Workflows.png
+4,User Experience,Do I need to worry about DevOps with Cirrascale?,Not at all. Cirrascale provides professional and fully managed services—so you don’t need to worry about DevOps. Our goal is to help you focus on innovation while we handle the infrastructure.,Not Required
+5,Charges,Are there any data transfer fees?,Nope! One of the key benefits of Cirrascale is that there are zero ingress or egress data transfer fees. That means you can move data in and out of the cloud without worrying about extra costs.,Not Required
+6,Product Features,What kind of performance should I expect?,"You can expect high throughput, low-latency networking, and infrastructure tuned for today’s most demanding AI workloads. Whether you're running large models or real-time inference, we’re built for speed and scale.",Expected Performance.png
+7,Company Background,What is the history of Cirrascale Cloud Services?,"Cirrascale began as a premier developer of blade and rackmount solutions, leveraging patented Vertical Cooling Technology and proprietary PCIe switch riser technology to provide dense multi-GPU platforms. In late 2015, we launched a cloud service for multi-GPU solutions. By early 2017, Cirrascale Corporation sold its hardware business and spun off the cloud services division as a separate company, Cirrascale Cloud Services, which continues to expand its Infrastructure-as-a-Service offerings.",Not Required
+8,Company Values,What values guide Cirrascale's operations?,"Our operations are guided by integrity, agility, customer-centricity, and expertise. We lead with honesty, adapt quickly to evolving challenges, focus on our customers' needs, and deliver specialized, innovative solutions.",Not Required
+9,Partnerships,Who are Cirrascale's partners in the AI ecosystem?,"""We collaborate with leading AI ecosystem partners who have tested their products on our platform. These partners offer their solutions through our cloud service, either included at a flat rate or as standalone products, ensuring you won't receive variable bills.""",Not Required
+10,Partnerships,What is Cirrascale's relationship with Red Hat?,Cirrascale Cloud Services is proud to be a Red Hat Certified Cloud Service Provider. This partnership allows us to offer Red Hat's enterprise solutions within our cloud services.,Not Required
+12,Product Features,What is the Cirrascale AI Innovation Cloud?,"""The Cirrascale AI Innovation Cloud is a comprehensive cloud solution designed to scale with your needs. It's the only cloud service where you can test and deploy on every leading AI accelerator in one cloud, including AMD Instinct Series, Cerebras, NVIDIA GPU, and Qualcomm Cloud AI.""",AI Innovation Cloud.png
+13,Industry Solutions,What industry solutions does Cirrascale offer?,"""Cirrascale provides tailored solutions for various industries, including Generative AI, Autonomous & Robotics, Computer Vision, High Performance Computing, and Audio Processing. Each solution is optimized to meet the specific demands of these fields.""",Industry Solutions.png
+14,Product Features,How does the Inference Cloud powered by the Qualcomm AI Inference Suite work?,"""Our Inference Cloud, powered by the Qualcomm AI Inference Suite, offers seamless one-click AI deployment. You can effortlessly swap or add your own models, including generative AI, computer vision, and natural language processing, and build custom applications using popular frameworks.""",Qualcomm Inference Cloud.png
+15,Partnerships,What benefits do NVIDIA Inception members receive from Cirrascale?,"""Cirrascale helps NVIDIA Inception members maximize their program benefits. Whether you're a community or premier member, we provide support to help you get the most out of your membership.""",Not Required
+16,Product Features,What is the Multi-GPU Compute offering?,"""Our Multi-GPU Compute service is designed for those starting GPU-accelerated application development or looking to advance their production and training applications. We provide the features you need in a cloud-hosted environment that's unmatched.""",Not Required
+17,Product Features,What is the Cirrascale Inference Platform?,"""The Cirrascale Inference Platform is built to support enterprise-scale deployment of generative AI models like LLMs, image, audio, and video models. It goes beyond traditional hyperscalers by offering predictable costs, smart workload balancing, and tailored AI services to match your unique requirements.""",Inference Platform.png
+18,User Experience,How does the platform help optimize workload performance and cost?,"""Great question! Cirrascale intelligently selects the best AI accelerators and dynamically balances workloads across regions to reduce peak-time pressures. This means optimized performance without blowing your budget—perfect for real-time apps or batch jobs.""",Optimize Performance & Cost.png
+19,Product Flexibility,Can I deploy custom-tuned or proprietary AI models?,"""Absolutely. You can deploy your own fine-tuned or proprietary models with custom weights or parameters. Cirrascale also offers Retrieval-Augmented Generation (RAG) capabilities and even lets you run model pipelines alongside on-prem or hyperscaler workflows.""",Not Required
+20,Product Features,What GPUs and accelerators does the platform support?,"""We’re premiering with NVIDIA’s latest Blackwell B200, RTX PRO 6000 Blackwell Server Edition, and Hopper H100 and H200 GPUs. The platform is designed to take advantage of the newest and most powerful AI accelerators available.""",Not Required
+21,Charges,How is pricing structured for the Inference Platform?,"""Pricing is based on token volume for the specific AI model used in your pipeline. It gives you clear and predictable costs based on your actual usage—no surprises.""",Not Required
+22,User Experience,Is it complicated to deploy and manage models on this platform?,"""Not at all. Cirrascale offers a web console-based deployment experience—no SSH needed. You also get monitoring tools for performance analysis and API access using standard OpenAI and other interfaces.""",Not Required
+23,Product Flexibility,Can I reserve capacity for short-term bursts in demand?,"""Yes, you can reserve capacity for time-based bursts, which is perfect if you're anticipating a spike in usage. This ensures you're always ready to scale when needed.""",Not Required
+24,Product Features,What is the Qualcomm Cloud AI solution in the Cirrascale AI Innovation Cloud?,"""The Qualcomm Cloud AI solution uses the Cloud AI 100 Ultra to deliver optimized, cost-effective AI inference at scale. It supports GenAI, NLP, and CV, and now includes bare-metal access with the Inference Cloud powered by Qualcomm for high performance and flexibility.""",Not Required
+25,Product Features,What are the benefits of using AMD Instinct Series in Cirrascale’s AI Innovation Cloud?,"""The AMD Instinct Series offers large memory density, high bandwidth, and precision capabilities for demanding AI and HPC workloads. It includes pre-installed ROCm software, easy onboarding, and optimized performance for LLMs and Generative AI tasks.""",AMD Instinct Benefits.png
+26,Product Differentiation,What makes Cerebras AI Model Studio different from traditional cloud solutions?,"""The Cerebras AI Model Studio hosted by Cirrascale provides push-button simplicity, millions of AI cores, predictable performance, and no distributed computing headaches. It’s designed for fast, cost-effective training of models up to 175B parameters, all at a fixed price.""",Cerebras Model Studio.png
+27,Product Flexibility,Can I fine-tune or train my models from scratch using Cerebras on Cirrascale?,"""Yes, you can either fine-tune pre-trained models or train models from scratch using dedicated Cerebras CS-2 clusters. Cirrascale offers flexible options including standard self-service and white-glove support for enterprise-grade needs.""",Not Required
+28,Product Features,What NVIDIA GPU solutions are available through Cirrascale?,"""Cirrascale hosts NVIDIA HGX B200, H200, and H100 clusters. These offer unmatched multi-GPU bandwidth, NVLink/NVSwitch interconnects, and extensive AI software support for advanced training, fine-tuning, and inference needs.""",Not Required
+29,Charges,How does Cirrascale ensure cost transparency for NVIDIA solutions?,"""Cirrascale provides a flat-rate billing model with no ingress or egress fees. This ensures predictable costs and no hidden charges, making it easier to budget your AI cloud infrastructure spend.""",Not Required
+30,Scalability,Is Cirrascale suitable for large-scale LLM training and inference?,"“Absolutely. With support for configurations like HGX H200 and Cerebras clusters, Cirrascale enables training of models beyond 175B parameters and offers the performance, memory, and scalability required for enterprise-grade LLM workloads.""",Not Required
+31,Industry Solutions,How does Cirrascale support Generative AI workloads?,"""Cirrascale offers a purpose-built infrastructure for Generative AI—covering pre-training, training, and real-time inference. Whether you’re building with LLMs, generating images or code, or enhancing models with RAG or tuning, our platform is designed for production-readiness at every step.""",Generative AI Support.png
+32,Charges,Is Cirrascale cost-effective for scaling generative AI applications?,"""Yes. Cirrascale offers flat-rate billing with no hidden fees—no ingress, no egress, and no surprises. Plus, our managed services take care of access control, scheduling, and setup, so your team can focus on innovation.""",Cost Effective Scaling.png
+33,Industry Solutions,What problems does Cirrascale solve for Autonomous Systems and Robotics teams?,"""We help eliminate bottlenecks in data processing for ground-truth generation and performance modeling. Our tailored infrastructure handles high-volume data from LiDAR, radar, cameras, and sensors, without the delays or surprise charges you’d get from larger hyperscalers.""",Not Required
+34,Product Differentiation,How is Cirrascale better than traditional cloud services for computer vision?,"""Cirrascale leverages powerful GPUs and a range of acceleration options for image and object classification, detection, and tracking. Unlike AWS or GCP, we provide flat-rate pricing with no overages, making long-term vision AI projects more viable.""",Vision AI Advantage.png
+35,Industry Solutions,Can Cirrascale support High Performance Computing (HPC) projects like climate modeling or simulations?,"""Absolutely. Our HPC cloud integrates traditional simulation with AI, ML, and big data analytics. It’s built for demanding workloads—from aerospace to finance—and delivers unmatched GPU performance with cost transparency and expert support.""",Not Required
+36,Industry Solutions,Is Cirrascale a good fit for NLP and Audio Processing applications?,"""Definitely. We use powerful NVIDIA GPU clusters to support large-scale NLP and voice-based AI. Whether it's translation, transcription, or digital assistants, Cirrascale delivers the compute needed with predictable pricing and premium support.""",Not Required
+37,Product Features,What is the Inference Cloud powered by Qualcomm?,"The Inference Cloud powered by Qualcomm offers one-click deployment of generative AI models and applications using the Qualcomm Cloud AI 100 Ultra. It features a web-based platform, enterprise-grade privacy, and token-based pricing—no complex infrastructure needed.",Qualcomm Inference Cloud 2.png
+38,Partnerships,What support does Cirrascale provide for NVIDIA Inception members?,"Cirrascale helps NVIDIA Inception members with discounted hardware, cloud services, and managed services. Members also get referral discounts, leasing options, and co-marketing support to maximize program benefits.",NVIDIA Inception Support.png
+39,Product Differentiation,What makes Cirrascale’s Multi-GPU Compute environment different?,"Cirrascale provides physical, dedicated GPU servers with the latest accelerators—no virtualization, no outdated hardware. This makes it ideal for deep learning, NLP, and GenAI projects, with flat-rate pricing and fully customizable configurations.",Multi GPU Advantage.png
+40,Infrastructure,What storage options does Cirrascale offer for AI workloads?,"Cirrascale provides local NVMe storage, hot-tier NVMe flash with WEKA Data Platform, and cost-effective S3-compatible object storage. This multi-tiered setup reduces latency, boosts throughput, and eliminates ingress/egress fees.",Not Required
+41,Infrastructure,How does Cirrascale ensure high-speed networking for AI workloads?,"Cirrascale uses rail-optimized NVIDIA Quantum InfiniBand networks offering up to 3200Gbps per server. It’s ideal for AI and HPC workloads requiring low-latency, high-throughput performance across dense multi-node environments.",Not Required
+42,Scalability,Is the platform scalable and customizable?,"Absolutely. Whether you're scaling up with multiple accelerators or need a custom configuration for your application, Cirrascale offers tailored setups and full-service support to match your exact needs.",Not Required
+43,User Experience,Does Cirrascale offer uptime guarantees?,"Yes, Cirrascale provides SLA-backed uptime guarantees across networking, power, and server availability in its West, Central, and East data centers. If they miss the mark, you get credited.",Not Required
